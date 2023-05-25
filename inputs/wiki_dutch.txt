@@ -1,0 +1,1090 @@
+Met behulp van de Google Toolbar is het mogelijk een (beperkte) indruk te krijgen van wat de PageRank van een willekeurige pagina is. Echter, deze Toolbar PageRank (TBPR) is een vereenvoudigde en ietwat misleidende weergave van de werkelijke PageRank per pagina. De Toolbar PageRank loopt van TBPR 0/10 (minst belangrijke niveau) tot en met TBPR 10/10 (meest belangrijke niveau). De Toolbar PageRank staat daarom niet gelijk aan de werkelijke PageRank-waarde per pagina. De Toolbar PageRank gebruikt een elfpunts-logaritmische schaal waarbij verondersteld wordt dat de werkelijke PageRank-score van een pagina met (bijvoorbeeld) een TBPR ad 7/10 in totaal 8-10x groter is dan die van een pagina met een TBPR ad 6/10.
+
+Ook geeft de Google Toolbar een Categorieën aan die onder de 0 ligt, namelijk 'N/A'. PageRank N/A (not available) wordt toegekend aan pagina's die nog niet geïndexeerd zijn door Google. Er is hier sprake van een niet bestaande PageRank-waarde.
+
+Google voert maar zelden PageRank-updates door, Google geeft hiervoor de verklaring dat de Google Toolbar steeds minder wordt gebruikt, mede doordat de nieuwe versies van Internet Explorer geen toolbars ondersteunen). Als een product van Google te weinig wordt gebruikt verlagen ze vaak de updatefrequentie of sluiten ze het project volledig. Het gebrek aan actuele PageRank-waardes kan zorgen voor een verouderde PageRank-waarde, dit vormt vooral voor zoekmachineoptimalisatiespecialisten een probleem.
+
+Naar navigatie springenNaar zoeken springen
+Welkom op Wikipedia
+De vrije encyclopedie
+Aantal artikelen: 2.107.425
+Aantal actieve gebruikers: 3.827
+Portaal van de week: Filosofie
+Biologie
+Geschiedenis
+Kunst & Cultuur
+Landen & Volken
+Mens & Maatschappij
+Wetenschap & Technologie
+Politiek
+Religie
+Sport
+Taal
+Uitgelicht
+CPR
+Reanimeren
+
+Reanimeren is het kunstmatig overnemen van de ademhaling en de bloedsomloop wanneer er sprake is van een circulatiestilstand. Indien zowel de ademhaling als de circulatie weer op gang gebracht moet worden, spreekt men ook wel van 'cardiopulmonaire resuscitatie' (CPR).
+
+Om te kunnen leven, is de constante aanvoer van zuurstofrijk bloed van levensbelang. Organen kunnen niet functioneren zonder zuurstof. De hersenen zijn het kwetsbaarst: na vier tot zes minuten zonder zuurstof raakt al een (groot) gedeelte zo beschadigd, dat normaal functioneren misschien niet meer mogelijk is. Door bij een ademhalings- en circulatiestilstand zo snel mogelijk te starten met de reanimatie kan men de ademhaling en bloedsomloop tijdelijk overnemen en wordt de kans op overleven verhoogd. Het is dus van groot belang dat reanimatie zo snel mogelijk wordt gestart. (Lees verder)
+
+Etalage
+Ferrari F50
+Beleg van Leiden (1573-1574)
+Kilimanjaro (berg)
+Plesiosauria
+Mongoolse Rijk
+Paus Benedictus XV
+Verwantschap tussen Afrikaans en Nederlands
+Hendrik Lorentz
+Over Wikipedia
+Wikipedia is een online encyclopedie die ernaar streeft informatie te bieden in alle erkende talen ter wereld, die vrij herbruikbaar, objectief en verifieerbaar is. Het project is gebaseerd op vijf basisprincipes. De Nederlandstalige versie startte op 19 juni 2001 en is met meer dan 2,1 miljoen artikelen de op vijf na grootste van circa 330 taalversies.
+
+De encyclopedie is vrij bewerkbaar. Dat houdt in dat iedereen tekst en afbeeldingen kan toevoegen of aanpassen, met inachtneming van de basisregels. Voor de bewerkers zijn er diverse hulppagina's beschikbaar. Er is ook een snelcursus voor nieuwelingen. Zaken uitproberen kan in de zandbak en vragen kunnen gesteld worden bij de helpdesk. Voor privacyvragen kunt u hier terecht.
+
+Wist je dat ...
+Selfie door een kuifmakaak
+... Karl Marx' oom Lion Philips de grootvader was van Anton en Gerard Philips?
+... de wilde eend in Europa de eendensoort is die het meest voorkomt in de omgeving van mensen?
+... de in 1912 gezonken Titanic niet voldoende reddingssloepen aan boord had?
+... Teylers Museum in Haarlem sinds de oprichting in 1778 in hetzelfde pand is gevestigd?
+... het lange tijd onduidelijk bleef wie de auteursrechten bezat van de selfies gemaakt door een kuifmakaak?
+Afbeelding
+De vuurtoren Kjeungskjær (bijgenaamd 'de rode zeeman') bij Ørland in de Noorse provincie Trøndelag
+
+De vuurtoren Kjeungskjær (bijgenaamd 'de rode zeeman') bij Ørland in de Noorse provincie Trøndelag
+Actueel
+Protesten op 20 september
+Mahsa Amini-protesten
+
+De Mahsa Amini-protesten zijn een reeks aanhoudende protesten en burgerlijke onrust in Iran die begonnen op 16 september 2022, na de dood van Mahsa Amini, een 22-jarige Iraanse vrouw. (Lees verder)
+
+Recent overleden
+23 nov	Paula D'Hondt (96), Belgisch politica
+22 nov	Roberto Maroni (67), Italiaans politicus
+22 nov	Pablo Milanés (79), Cubaans zanger en liedjesschrijver
+19 nov	Greg Bear (71), Amerikaans sciencefictionschrijver
+18 nov	Ned Rorem (99), Amerikaans componist
+In het nieuws
+22 nov	Dodental na aardbeving Java loopt op
+Het dodental als gevolg van de aardbeving op West-Java loopt op tot boven de 250. Onder de doden zijn veel schoolkinderen. Ca. 1000 mensen zijn gewond geraakt.
+20 nov	Eerste wedstrijd WK in Qatar
+In Al Khawr wordt de openingswedstrijd van het WK voetbal gespeeld, tussen Ecuador en het gastland Qatar.
+20 nov	Akkoord bereikt in klimaatconferentie Sharm-el-Sheikh
+In Sharm-el-Sheikh komen de deelnemers aan de 27e VN-klimaatconferentie alsnog tot een akkoord, nadat de onderhandelingen anderhalve dag zijn uitgelopen.
+23 november in de geschiedenis
+1890	Groothertogdom Luxemburg
+Met het overlijden van koning Willem III komt er een eind aan de personele unie tussen Nederland en Luxemburg, waar op grond van de Salische Wet alleen een (niet-aanwezige) mannelijke troonsopvolger in aanmerking zou komen.
+1923	Radio Bruxelles
+Eerste uitzending door de eerste Belgische radio-omroep. De omroep werd mede gerealiseerd door SBR, een fabrikant van radiotoestellen.
+1940	De Waarheid
+In een oplage van 6000 exemplaren verschijnt de verzetskrant De Waarheid, het latere partijblad van de Communistische Partij van Nederland.
+Zusterprojecten
+Wikipedia is onderdeel van de Wikimedia Foundation, een non-profitorganisatie, en heeft diverse zusterprojecten die ook van de wikisoftware gebruikmaken:
+WikinieuwsWikinieuws
+Vrije nieuwsbron WikiWoordenboekWikiWoordenboek
+Vrij woordenboek WikibooksWikibooks
+Handleidingen & vrije boeken WikisourceWikisource
+Vrije bibliotheek WikiquoteWikiquote
+Citaten & spreekwoorden WikispeciesWikispecies
+Catalogus van levende wezens WikiversityWikiversity
+Vrije onderwijsprojecten WikivoyageWikivoyage
+Vrije, wereldwijde reisgids WikidataWikidata
+Vrije database CommonsCommons
+Vrije media Meta-WikiMeta-Wiki
+Coördinatie IncubatorIncubator
+Opstarten van nieuwe projecten
+
+Perscontact  •  Publiekscontact  •  Statistieken
+Categorie: Alles
+Navigatiemenu
+Niet aangemeld
+Overleg
+Bijdragen
+Account aanmaken
+Inloggen
+HoofdpaginaOverleg
+LezenBrontekst bekijkenGeschiedenis
+Doorzoek Wikipedia
+Hoofdpagina
+Vind een artikel
+Vandaag
+Etalage
+Categorieën
+Recente wijzigingen
+Nieuwe artikelen
+Willekeurige pagina
+Informatie
+Gebruikersportaal
+Snelcursus
+Hulp en contact
+Doneren
+Hulpmiddelen
+Links naar deze pagina
+Gerelateerde wijzigingen
+Bestand uploaden
+Speciale pagina's
+Permanente koppeling
+Paginagegevens
+Deze pagina citeren
+Wikidata-item
+Afdrukken/exporteren
+Boek aanmaken
+Downloaden als PDF
+Printvriendelijke versie
+In andere projecten
+Wikimedia Commons
+MediaWiki
+Meta-Wiki
+Meertalige Wikisource
+Wikispecies
+Wikibooks
+Wikidata
+Wikimania
+Wikinieuws
+Wikiquote
+Wikisource
+Wikivoyage
+WikiWoordenboek
+
+In andere talen
+Deutsch
+English
+Español
+Français
+Italiano
+한국어
+Tagalog
+Tiếng Việt
+中文
+Nog 317
+Koppelingen bewerken
+Deze pagina is voor het laatst bewerkt op 22 dec 2014 om 11:54.
+De tekst is beschikbaar onder de licentie Creative Commons Naamsvermelding/Gelijk delen, er kunnen aanvullende voorwaarden van toepassing zijn. Zie de gebruiksvoorwaarden voor meer informatie.
+Wikipedia® is een geregistreerd handelsmerk van de Wikimedia Foundation, Inc., een organisatie zonder winstoogmerk.
+PrivacybeleidOver WikipediaDisclaimersMobiele weergaveOntwikkelaarsStatistiekenCookieverklaringWikimedia FoundationPowered by MediaWiki
+
+Etalagester
+Plesiosauria
+Naar navigatie springenNaar zoeken springen
+Plesiosauria
+Status: Uitgestorven, als fossiel bekend
+Fossiel voorkomen: Vroeg-Jura- Late Krijt
+Plesiosauria
+Taxonomische indeling
+Rijk:	Animalia (Dieren)
+Stam:	Chordata (Chordadieren)
+Klasse:	Reptilia (Reptielen)
+Superorde:	Sauropterygia
+Orde
+Plesiosauria
+de Blainville, 1835
+Afbeeldingen op Wikimedia Commons Wikimedia Commons
+Plesiosauria op Wikispecies Wikispecies
+(en) World Register of Marine Species
+Portaal  Portaalicoon  	Biologie
+Herpetologie
+De Plesiosauria zijn een groep van uitgestorven in zee levende reptielen, behorend tot de Sauropterygia.
+
+De Plesiosauria ontstonden vermoedelijk op het eind van het Trias, zo'n 210 miljoen jaar geleden, als een deelgroep van de Pistosauria. De oudste bekende fossielen stammen uit het vroege Jura. In de periode dat de dinosauriërs over het land heersten, behoorden de plesiosauriërs samen met de Ichthyosauria tot de belangrijkste zeeroofdieren. Er ontwikkelden zich tijdens het Jura en Krijt enkele duizenden soorten waarvan de meeste maar een paar miljoen jaar bestonden. Net als bijna alle grote dieren van hun tijd stierven de Plesiosauria als groep uit aan het einde van het Krijt, ongeveer 66 miljoen jaar geleden.
+
+Plesiosauriërs behoorden tot de eerste reptielen waarvan fossielen onderzocht werden. In het begin van de negentiende eeuw werden de geleerden zich bewust hoe afwijkend hun bouw was. In 1835 kreeg de groep haar naam die "de Sauria [in ontwikkeling] naderend" betekent. De laatste jaren zijn er veel nieuwe vondsten gedaan zodat nu een kleine honderd soorten ontdekt zijn en meer bekend werd over hun bouw, verwantschappen en levenswijze.
+
+De Plesiosauria hadden een lange nek, een brede romp en een korte staart. Het lichaam werd voortgestuwd door de vier lange ledematen die weer in een soort vinnen veranderd waren. De schoudergordel en het bekken hadden de vorm van platte, aan de onderkant van de romp liggende, beenplaten waaraan krachtige spieren gehecht waren. Die konden de vinnen op en neer bewegen zodat het dier een vliegende beweging door het water maakte. Hun huid was niet geschubd maar betrekkelijk glad om de drukweerstand bij het zwemmen te verlagen. De plesiosauriërs ademden lucht met hun longen en waren vermoedelijk warmbloedig. Plesiosauriërs legden geen eieren meer maar waren levendbarend waarbij ze hun jongen in zee baarden.
+
+Er bestonden bij de Plesiosauria twee belangrijke bouwtypen. "Plesiosauromorfe" soorten hadden een kleine kop en een, soms extreem, lange en stijve nek. Ze zwommen relatief langzaam en vingen kleine vissen, inktvissen en bodemdieren. "Pliosauromorfe" soorten hadden een grote kop met krachtige tanden en een korte nek. Ze zwommen sneller en joegen op grotere zeedieren. Sommige kortnekkige soorten werden zeventien meter lang. Modern onderzoek naar de onderlinge verwantschappen van de plesiosauriërs duidt op de mogelijkheid dat in de meeste ruimere deelgroepen wel soorten met een korte nek voorkwamen. In dat geval waren deze soorten niet allemaal speciaal aan elkaar verwant zoals vroeger werd aangenomen.
+
+
+Inhoud
+1	Definitie
+2	Indeling
+3	Evolutie
+3.1	Oorsprong van de plesiosauriërs
+3.2	Ontwikkeling tijdens het Jura en Krijt
+3.3	Uitsterven
+4	Ontdekkingsgeschiedenis
+4.1	Eerste vondsten
+4.2	De Plesiosauria krijgen hun naam
+4.3	Amerikaanse vondsten van de late negentiende eeuw
+4.4	Twintigste eeuw: stagnatie en wedergeboorte van het onderzoek
+4.4.1	De invloed van het "Monster van Loch Ness"
+5	Beschrijving
+5.1	Algemene bouw, grootte en onderscheidende kenmerken
+5.2	Skelet
+5.3	Weke delen
+6	Levenswijze
+6.1	Leefgebied
+6.2	Voedsel
+6.3	Voortbeweging
+6.3.1	Roeien of vliegen?
+6.3.2	Vliegen met vier of met twee vinnen?
+6.3.3	Snelheid
+6.3.4	Duiken
+6.4	Stofwisseling: waren plesiosauriërs koudbloedig of warmbloedig?
+6.5	Voortplanting
+6.6	Sociaal gedrag en intelligentie
+6.7	Ziekte en ouderdom
+7	Bronvermelding
+8	Noten
+Definitie
+
+In de tijd van de Blainville definieerde men diergroepen niet begripsmatig maar door een opsomming
+Toen de Plesiosauria in 1835 door Henri Marie Ducrotay de Blainville als een orde benoemd werden, gaf hij daar niet ook meteen een definitie van. Er was toen maar een klein aantal plesiosauriërs bekend. Die leken allemaal sterk op elkaar en verschilden duidelijk in bouw van andere dieren. Een gelijkenis in vorm was voldoende om tot de plesiosauriërs gerekend te worden en er bestond nooit onzekerheid of zo'n identificatie correct was. Daarbij werd in die tijd de mogelijkheid van een evolutie maar door weinig wetenschappers als reëel gezien. Men nam algemeen aan dat er strikte grenzen waren tussen de verschillende diergroepen.
+
+Tegenwoordig wordt begrepen dat diergroepen ontstaan zijn doordat ze zich in een proces van geleidelijke evolutie binnen — niet: "van", want ze blijven ertoe behoren — ruimere groepen hebben afgesplitst. Vanwege die geleidelijkheid kan alleen door een exacte definitie te geven een diergroep begripsmatig strikt van andere groepen worden onderscheiden. In zo'n definitie moet een punt van afsplitsing worden aangegeven. Zo'n punt komt overeen met een vooroudersoort waarvan alle afstammelingen de leden van de te definiëren groep vormen. Zo'n groep heet een clade ofwel aftakking. In de moderne fylogenie, de studie naar de feitelijke evolutionaire verwantschappen van diergroepen, zijn er twee belangrijke manieren om een clade te definiëren. De eerste is dat men de laatste gemeenschappelijke voorouder van twee belangrijke deelgroepen als vooroudersoort neemt. De tweede manier is dat men de clade laat bestaan uit alle soorten die nauwer verwant zijn aan een bepaalde afstammeling dan aan een zustergroep die men juist van de clade wil uitsluiten. Het voordeel van beide methoden is dat men geen concrete voorouder hoeft aan te wijzen. Die zal zelden teruggevonden zijn en mocht men hem vinden dan valt niet te bewijzen dat hij inderdaad de voorouder is.
+
+Beide methoden zijn ook op de Plesiosauria toegepast. Traditioneel worden in deze groep twee belangrijke deelgroepen onderscheiden, de Plesiosauroidea en de Pliosauroidea. In 2008 definieerden Patrick Druckenmiller en Anthony Russell de Plesiosauria als de groep bestaande uit de laatste gemeenschappelijke voorouder van Plesiosaurus dolichocheirus en Peloneustes philarchus; en al zijn afstammelingen.[1] Plesiosaurus en Peloneustes functioneerden hier als vertegenwoordigers van respectievelijk de Plesiosauroidea en de Pliosauroidea. Deze soorten werden om historische redenen gekozen; het hadden ook willekeurige andere uit hun deelgroepen kunnen zijn.
+
+Deze definitie heeft het voordeel dat ze goed aansluit bij de traditionele indeling binnen de Plesiosauria. Er is echter ook een nadeel: soorten die sterk op plesiosauriërs lijken maar toevallig net onder de vooroudersoort in de stamboom staan, meer "basaal" zijn, worden uitgesloten. De tweede methode heeft dat nadeel niet en werd daarom in 2010 toegepast door Hilary Ketchum en Roger Benson. Ze definieerden de Plesiosauria als de groep bestaande uit Plesiosaurus dolichodeirus en Pliosaurus brachydeirus en alle soorten die nauwer verwant zijn aan Plesiosaurus en Pliosaurus dan aan Augustasaurus hagdorni.[2] Plesiosaurus en Pliosaurus zijn de vertegenwoordigers van respectievelijk de Plesiosauroidea en de Pliosauroidea; Augustasaurus vertegenwoordigt de tak die men er per se niet bij wil hebben. Deze tweede definitie zou op hetzelfde neerkomen als alleen Plesiosaurus of Pliosaurus als uitgangspunt was genomen: dat beide vermeld worden, heeft in dit geval alleen ten doel de definitie ongeldig te maken indien, anders dan men zeker meende te weten, Augustasaurus achteraf geen zustergroep blijkt te vormen maar aan een van beiden nauwer verwant is. Hoewel door de lichaamsbouw gemotiveerd, laat ook de tweede definitie die bouw niet bepalen of een dier tot de Plesiosauria behoort; niet een bepaald kenmerk maar alleen de afstamming maakt een soort tot een plesiosauriër.
+
+Indeling
+
+Trinacromerum heeft een korte nek: het is dus een "pliosauromorfe" soort maar behoort als polycotylide misschien wel tot de Plesiosauroidea
+
+Attenborosaurus heeft een lange nek en is dus een "plesiosauromorfe" vorm maar is desalniettemin geen plesiosauroïde
+De Plesiosauria werden traditioneel ingedeeld in twee onderorden: de Pliosauroidea die werden gekenmerkt door een korte nek en de Plesiosauroidea die een lange nek bezaten. Deze indeling ging niet uit van de echte verwantschap tussen de verschillende deelgroepen waaruit de Plesiosauria bestaan. Tegenwoordig wordt onderkend dat het eigenlijk puur een rangschikking naar vorm was. Beide vormtypen worden nu dan ook als zodanig aangeduid: men spreekt van "plesiosauromorfe" soorten als die een lange nek hadden en "pliosauromorfe" soorten bij het bezit van een korte nek, zonder dat er een pretentie van verwantschap is.[3] De namen Plesiosauroidea en Pliosauroidea zijn echter niet verlaten en leven voort als claden. Modern onderzoek toonde namelijk aan dat de meeste langnekkige en de meeste kortnekkige soorten toch onderling het nauwst verwant zijn. Er zijn twee belangrijke uitzonderingen. Hoewel de leden van de Polycotylidae en de verwante Leptocleididae grotendeels korte nekken hadden, moeten ze volgens sommige analyses tot de Plesiosauroidea gerekend worden. En volgens de definitie van Plesiosauria in de zin van Ketchum & Benson is er noodzakelijkerwijs een stam van basale soorten die Plesiosauroidea noch Pliosauroidea zijn. Daartoe zouden volgens een analyse van Benson uit 2012 de complete Rhomaleosauridae kunnen behoren,[4] een kortnekkige groep, zodat de Pliosauroidea tot de Pliosauridae zelf worden ingekrompen — in welke groep overigens ook mogelijk een enkele langnekkige vorm voorkomt, zoals Attenborosaurus. De Plesiosauria sensu Druckenmiller & Russell, dus de groep van de Plesiosauroidea plus de Pliosauroidea, hebben bij Ketchum & Benson een aparte naam: de Neoplesiosauria.
+
+De belangrijkste deelgroepen kunnen volgens de traditionele indeling als volgt bij de twee hoofdgroepen worden ondergebracht:
+
+Plesiosauria
+Plesiosauroidea
+Plesiosauridae
+Cimoliasauridae
+Aristonectidae
+Cryptoclididae
+Elasmosauridae
+Tricleididae
+Pliosauroidea
+Pliosauridae
+Rhomaleosauridae
+Polycotylidae
+Leptocleididae
+De bovenstaande opsomming geeft echter slechts zeer ten dele de ware verwantschappen weer. Daaraan kan slechts recht worden gedaan door de verschillende groepen te rangschikken in een stamboom die de evolutie van de plesiosauriërs afbeeldt. De stamboom volgens de studie van Benson uit 2012 geeft het volgende kladogram:
+
+Plesiosauria
+
+Rhomaleosauridae
+
+
+ Neoplesiosauria
+
+Pliosauroidea
+
+
+ Plesiosauroidea
+
+Eoplesiosaurus antiquior
+
+
+
+
+Plesiosauridae
+
+
+
+
+Microcleididae
+
+
+
+
+Plesiopterys wildi
+
+
+
+
+Elasmosauridae
+
+
+ Cryptoclidia
+
+Cryptoclididae
+
+
+ Leptocleidia
+
+Leptocleididae
+
+
+
+Polycotylidae
+
+
+
+
+
+
+
+
+
+
+
+De stamboom onderscheidt zich van de traditionele opsomming niet alleen door een volledige ordening en een correcter weergeven van de verwantschappen. Bepaalde namen, zoals Cimoliasauridae, Aristonectidae en Tricleididae, zijn weggelaten omdat het geen relevante begrippen meer waren. Daarentegen zijn nieuwe begrippen geschapen voor belangrijke aftakkingen die aanwezig bleken. Aftakkingen die uit maar één soort bestaan, krijgen geen groepsnaam, ook al zijn ze de zustertak van een soortenrijke groep.
+
+De stamboom is maar een vereenvoudigde weergave van Bensons analyse. Daarbij hebben andere onderzoekers andere stambomen gevonden. Bepaalde studies hebben als uitkomst dat de Rhomaleosauridae en Leptocleidia zich toch in de Pliosauroidea bevinden maar geven ook aan dat dit zeer onzeker is.[5] Toekomstige analyses, gebaseerd op nieuwe fossiele vondsten en betere beschrijvingen van het eerder gevonden materiaal, zullen weer andere resultaten opleveren. De stamboom heeft dus niet de pretentie de enig juiste te zijn en het gebruik van stambomen heeft niet allereerst de stabiliteit van de indeling ten doel maar het weerspiegelen van de wetenschappelijke vooruitgang in het bepalen van de feitelijke evolutie van de plesiosauriërs.
+
+Evolutie
+Oorsprong van de plesiosauriërs
+
+Nothosaurus had een lange nek maar nog echte poten
+Anders dan bij veel andere groepen uitgestorven reptielen, zoals de Ichthyosauria en de Pterosauria, waarvan de precieze herkomst raadselachtig is doordat de oudste bekende leden plotseling in de aardlagen opduiken zonder duidelijke voorouders, kan bij de plesiosauriërs met grote zekerheid vastgesteld worden wie hun nauwste verwanten zijn en binnen welke ruimere groep ze zich hebben afgesplitst.
+
+
+Pistosaurus leek oppervlakkig al veel op een plesiosauriër
+In het midden van het Trias ontstond een vroege aftakking binnen de Lepidosauromorpha, de groep waartoe ook de moderne hagedissen waaronder de slangen behoren, die aanpassingen toonde aan het leven in zee: de Sauropterygia.[6] Hun torso's waren verstijfd door buikribben zodat ze zich niet in het water konden voortbewegen door een kronkelbeweging van het hele lichaam en de voortstuwing geleverd werd door de poten en de staart. Vroege leden van deze groep waren ten dele nog amfibisch en dus in staat zich ook op het land te begeven. De Placodontia waren durofaag: eters van schelpdieren; een andere tak, de Eusauropterygia, bestond uit viseters met een lange nek en kleine kop met spitse tanden. Daarvan behielden de Nothosauroidea poten met buigzame gewichten en vingers met zwemvliezen; vermoedelijk legden ze nog eieren op het land. De Pistosauria daarentegen pasten zich sterker aan een zwemmende levenswijze aan. Hun wervelkolom werd stijver en de voortstuwende functie ging vrijwel geheel van de staart over op de poten die in vinnen veranderden.[7] Ze werden warmbloedig en levendbarend.[8] Vroege soorten als Pistosaurus en Corosaurus waren echter nog voornamelijk kustbewoners. Hun schoudergordel was nog zwak, hun bekken niet goed aangepast aan een voortstuwende slag, hun vinnen waren niet spits en hun verhemelte stond niet toe geursporen in water te ruiken. Op een zeker moment in het late Trias splitste zich een pistosaurische deelgroep af die op deze punten beter aan een leven in volle zee was aangepast: de Plesiosauria. Andere specialisaties bij deze groep voor een beter zwemvermogen omvatten: stijvere gewrichten; een toeneming van het aantal kootjes in de hand en voet; een inelkaargrijpen van de kootjes; en een verkorting van de staart. De precieze datering van de afsplitsing is nog onduidelijk. In feite zijn er geen plesiosauriërs uit het Trias bekend: in het vroegste Jura, het Hettangien, duiken er vrijwel gelijktijdig een half dozijn soorten van verschillende plesiosaurische deelgroepen op. De veelheid aan soorten bewijst dat er een eerdere evolutie moet hebben plaatsgevonden, welke ontwikkelingslijnen ons verborgen blijven doordat de fossielen voorlopig simpelweg ontbreken.
+
+Augustasaurus en Bobosaurus zijn onder de basale pistosauriërs het nauwst aan de plesiosauriërs verwant. In sommige recente analyses staat Bobosaurus hoger in de stamboom dan Augustasaurus en volgens de definitie van Ketchum & Benson 2010 zou hem dat tot de meest basale plesosauriër maken, de enige bekende uit het Trias. Het is echter door Benson al aangegeven dat hij de definitie zal aanpassen zodat ook Bobosaurus wordt uitgesloten.
+
+In de volksmond wordt ieder groot uitgestorven reptiel wel als een "dinosaurus" aangeduid. Dat plesiosauriërs lepidosauromorfen zijn, betekent echter ook dat ze niet tot de, immers archosauromorfe, dinosauriërs behoren, net zomin als enig ander zeereptiel uit het Mesozoïcum — ze zijn er zelfs niet bijzonder nauw aan verwant.
+
+Ontwikkeling tijdens het Jura en Krijt
+In het vroegste Jura, het Hettangien, ongeveer 199 miljoen jaar geleden, hadden de Rhomaleosauridae zich al ontwikkeld en waren toen de soortenrijkste groep; daarnaast hadden de Pliosauridae (Thalassiodracon) en de Plesiosauroidea (Eoplesiosaurus) zich ook reeds afgesplitst. Al deze vormen hadden een vrij beperkte lichaamsgrootte met een romplengte van hoogstens enkele meters en een korte nek zodat de maximale lengte een vijf meter was. Tegen het Toarcien, zo'n 180 miljoen jaar geleden, waren de Neoplesiosaurische groepen talrijker geworden dan de rhomaleosauriden en toonden vormen van een aanzienlijker omvang met een romplengte die anderhalf keer hoger lag en langere nekken tot bijna twee maal de romplengte wat een totale lengte van een kleine tien meter opleverde. De Rhomaleosauridae echter kregen juist kortere nekken, een mogelijk specialisatie voor het bejagen van grotere zeedieren. Later in het Jura zou deze groep geheel uitsterven.
+
+Op het eind van het middelste Jura, tijdens het Callovien, zo'n 162 miljoen jaar geleden, kwamen zeer grote kortnekkige vormen met enorme schedels tot ontwikkeling zoals Liopleurodon en Simolestes die als apexpredator op andere grote zeeroofdieren joegen. Wellicht behoorden hiertoe de zwaarste plesiosauriërs die ooit geleefd hebben, met een lengte tot zeventien meter. Tegelijkertijd kwamen ook kortere langnekkige vormen voor, de Cryptoclididae. Die laatsten zouden het tot het einde van het Jura uithouden, 150 miljoen jaar geleden toen ook kortnekkige soorten als Pliosaurus van de zeefauna deel uitmaakten.
+
+Uit het begin van het Onder-Krijt zijn maar weinig plesiosauriërvondsten bekend, alleen van de vrij kleine langnekkige Leptocleididae, verwanten van de Cryptoclididae. Het is mogelijk dat zich bij de overgang tussen het Jura en het Krijt een uitsterven voordeed, waarbij maar drie ontwikkelingslijnen het overleefden. In het Aptien echter, 120 miljoen jaar geleden, duiken de eerste bekende Elasmosauridae op, soorten met een zeer lange nek. Die moesten volgens sommige studies al veel eerder ontstaan zijn want volgens de analyses van hun verwantschappen stammen ze af van een tak die zich 170 miljoen jaar geleden onder de Cryptoclididae van de stamboom afsplitste, wat duidt op een verborgen afstammingslijn van vijftig miljoen jaar. Later onderzoek wees echter op de mogelijkheid dat ze direct aan de Leptocleididae verwant waren binnen een klade Xenopsaria.[9] Ook een andere groep had zich verscholen want in het Albien, 110 miljoen jaar geleden, kunnen weer kortnekkige Pliosauridae gevonden worden, zoals Kronosaurus, nadat ze veertig miljoen jaar lang geen resten hadden achtergelaten.
+
+In het begin van het Opper-Krijt stierven, om nog onbekende redenen, de Ichthyosauria uit, zeereptielen die min of meer de vorm hadden van de huidige dolfijnen. Er ontwikkelde zich nu een plesiosauriërgroep om hun niche te vullen, de Polycotylidae, verwanten van de Leptocleididae, met een korte nek en een spitse kop. Zo bereikten de plesiosauriërs tijdens het Turonien, negentig miljoen jaar geleden, een nieuwe bloeiperiode want ook de elasmosauriden waren toen zeer soortenrijk en de pliosauriden, en misschien de leiptocleididen, bestonden nog.
+
+Uitsterven
+
+Aristonectes is één der laatste plesiosauriërs
+Op het eind van het Krijt, 66 miljoen jaar geleden, stierven alle plesiosauriërs uit. Zij waren niet de enige groep die dit toen overkwam: hun verdwijnen maakte deel uit van een algemeen uitsterven van bijna alle grote Amniota, dus de gewervelde niet-amfibische landdieren en hun afstammelingen in de zee, tijdens de Krijt-Paleogeengrens. Net als bij die andere dieren, is het voor de plesiosauriërs nog steeds een twistpunt of het uitsterven zeer snel verliep, bijvoorbeeld ten gevolge van een zware meteorietinslag, of een geleidelijk proces was. Omdat er in totaal niet heel veel plesiosauriërsoorten bekend zijn, is die vraag lastig te beantwoorden: hun schaarste kan bij een in feite plots verdwijnen de illusie scheppen van een langzame afneming van de diversiteit doordat er toevallig uit de periode direct vóór de catastrofe geen fossielen van een bepaalde afstammingslijn bewaard bleven, het zogenaamde Signor-Lippseffect. Zo is een van de jongste bekende soorten Aristonectes, maar dat betekent allerminst dat hij de laatste levende plesiosauriër was.
+
+Rekening houdend met dat effect, wijst het vondstpatroon erop dat er op het eind nog minstens twee deelgroepen bestonden: de Polycotylidae en de Elasmosauridae. Het kan echter zijn dat de diversiteit in bouw al eerder substantieel was afgenomen doordat de grote kortnekkige Pliosauridae in hun rol van apexpredator waren verdrongen door een geheel nieuwe groep zeereptielen die tijdens het Opper-Krijt sterk in soortenrijkdom toenam: de Mosasauridae.
+
+Net als bij andere op het eind van het Krijt uitgestorven groepen, is ook over de plesiosauriërs wel beweerd dat er nog resten van te vinden waren uit het vroege Paleogeen wat er op zou duiden dat kleine populaties de catastrofe zouden hebben overleefd. Achteraf bleek het dan steeds te gaan om foute identificaties dan wel dateringen of verplaatst materiaal.
+
+Ontdekkingsgeschiedenis
+Eerste vondsten
+
+Het eerste geïllustreerde skelet van een plesiosauriër, gepubliceerd door Stukeley in 1719
+Beenderen van Plesiosauria behoren tot de allereerste fossielen van uitgestorven reptielen die als zodanig onderkend werden. De eerste vermelde vondsten zijn later weer verloren gegaan maar ons nu nog bekend uit illustraties. De Antwerpenaar Richard Verstegen illustreerde in zijn A Restitution of Decayed Intelligence uit 1605 wervels van plesiosauriërs die hij aan vissen toeschreef en zag als een bewijs dat Groot-Brittannië ooit aan het Europese vasteland verbonden was.[10] De Welshman Edward Lhuyd nam in zijn Lithophylacii Brittannici Ichnographia uit 1699 ook afbeeldingen van plesiosauriërwervels op, die opnieuw als vissenwervels ofwel Ichthyospondyli beschouwd werden.[11] Op dat moment waren er reeds vondsten in rariteitenkabinetten opgenomen waarvan de verblijfplaats nu nog bekend is. In de uitgebreide verzameling van de zeventiende-eeuwse natuurvorser John Woodward bevonden zich al specimina die veel later, eind twintigste eeuw, als exemplaren van plesiosauriërs konden worden gedetermineerd. Omdat ze slechts uit wervels en tanden bestonden, was men zich in de tijd van Woodward nog niet van het speciale karakter van deze fragmenten bewust. Deze fossielen maken tegenwoordig deel uit van de collectie van het Sedgwick Museum.[12]
+
+In 1719 beschreef William Stukeley een half skelet van een plesiosauriër, waarop hij opmerkzaam gemaakt was door de overgrootvader van Charles Darwin, Robert Darwin. Het stuk steenplaat was afkomstig van een steengroeve in Fulbeck en was met het fossiel aan de onderzijde gebruikt ter versteviging van een helling van een drenkplaats in Elston. Nadat de vreemde botten erop ontdekt waren, werd het tentoongesteld in de pastorie als de overblijfselen van een in de Zondvloed verdronken mens. Stukely dacht dat het inderdaad om een "diluviaal" restant ging maar begreep dat het een zeedier betrof, misschien een krokodil of een dolfijn.[13] Het specimen bevindt zich nu in het British Museum of Natural History met als inventarisnummer BMNH R.1330. Het is het oudste min of meer complete skelet van een fossiel reptiel in een museumverzameling. Het gaat wellicht om een exemplaar van Plesiosaurus dolichodeirus.
+
+Eind achttiende eeuw nam het aantal vondsten in Engeland snel toe. Belangrijke verzamelaars waren de dominees William Mounsey en Baptist Noel Turner, werkzaam in de Vale of Belvoir, waarvan de verzamelingen in 1795 beschreven werden door John Nicholls in het eerste deel van diens The History and Antiquities of the County of Leicestershire.[14] Een van Turners gedeeltelijke plesiosauriërskeletten bevindt zich als specimen BMNH R.45 in het British Museum of Natural History; dit wordt tegenwoordig toegewezen aan Thalassiodracon.
+
+De Plesiosauria krijgen hun naam
+
+De vondst door Mary Anning uit 1823
+Nog in het begin van de negentiende eeuw waren de precieze aard en vorm van plesiosauriërs zeer onduidelijk. Men wist niet of het vissen, zoogdieren dan wel reptielen waren, er werd geen systematisch onderscheid met de Ichthyosauria gemaakt en ook de speciale bouw werd niet begrepen. In 1821 werd de zaak wat opgehelderd door William Conybeare en Henry Thomas De la Beche toen die een geheel nieuw type dier erkenden, afwijkend van Ichthyosaurus. Ze noemden deze vorm Plesiosaurus.[15] De naam is afgeleid van het Oudgrieks πλήσιος, plèsios, "dichter bij" en het gelatiniseerde saurus, in de betekenis van "sauriër", om uit te drukken dat Plesiosaurus in de Scala naturæ dichter dan Ichthyosaurus — die de vorm van een lager staande vis had — bij de Sauria stond. De naam moet dus als "dichter bij de sauriër" gelezen worden, niet als "dichterbij-hagedis". Men baseerde zich bij de beschrijving op verschillende specimina, met name op een exemplaar bestaande uit een flipper en een wervelkolom, OUMNH J.50146, verworven door luitenant-kolonel Thomas James Birch.[16] Hiervan zijn nog delen aanwezig in het Oxford University Museum of Natural History.
+
+
+Conybeares illustratie uit 1824
+Kort daarop raakte de lichaamsbouw veel beter bekend. In 1823 meldde Thomas Clark een vrijwel complete schedel, vermoedelijk van Thalassiodracon, die nu door de British Geological Survey bewaard wordt als specimen BGS GSM 26035. Hetzelfde jaar vonden Mary Anning en haar familieleden een volledig skelet. Het werd voor een paar honderd pond aangekocht door de Hertog van Buckingham die het ter beschikking stelde van William Buckland. Die liet het op zijn beurt door zijn vriend Conybeare op 24 februari 1824 beschrijven tijdens een voordracht aan de Geological Society of London,[17] op dezelfde vergadering waarin voor het eerst een dinosauriër benoemd werd, Megalosaurus. Nu pas werd duidelijk hoe extreem lang de nek was en hoe klein het hoofd ten opzichte van het lichaam. De combinatie was zo vreemd dat Georges Cuvier eerst vreesde dat zijn Britse collegae het slachtoffer waren geworden van een vervalsing — in juni 1824 verwierf hij echter zelf via Anning het tweede volledige plesiosauriërskelet, gevonden door kapitein Waring, specimen MNHN AC 8592, ook toebehorend aan Plesiosaurus.[18][19] In latere omschrijvingen zocht men naar vergelijkingen met moderne dieren; de beroemdste is wel die van professor Buckland uit 1832 die het tijdens een college een a sea serpent run through a turtle noemde, een "zeeslang door een zeeschildpad getrokken", welke beeldspraak, vaak licht gewijzigd, later foutief aan allerlei andere auteurs zou worden toegeschreven. Conybeare gaf Plesiosaurus nu een passende soortaanduiding: dolichodeirus, "langnek". Het skelet werd in 1848 door het BMNH aangekocht en heeft daar nu het inventarisnummer BMNH 22656. In de uitgave van de lezing benoemde Conybeare nog een tweede soort: Plesiosaurus giganteus. Dit betrof een vorm met een korte nek en zo werd het begin gelegd van het onderscheid tussen langnekkige en kortnekkige plesiosauriërs, de Plesiosauroidea en de Pliosauroidea.
+
+
+Duria Antiquior
+Conybeare en De la Beche lieten de beschrijving uit 1824 vergezeld gaan van een complete getekende skeletreconstructie die laat zien dat ze naar moderne maatstaven al heel goed begrepen hoe het dier in elkaar stak. In 1832 maakte De la Beche voor Mary Anning een aquarel die ze als prent in een wat grotere oplage kon afdrukken en in haar fossielenwinkeltje verkopen. De afbeelding, Duria Antiquior, toonde vermoedelijk voor de eerste keer een prehistorische leefgemeenschap, waarin ook een plesiosauriër te zien was die door een ichthyosauriër in de lange nek werd gebeten, wat een klassieke scène in de paleontologische illustratie zou worden. Het publiek raakte echter vooral bekend met de plesiosauriërs door twee boeken van Thomas Hawkins: Memoirs of Ichthyosauri and Plesiosauri uit 1834[20] en The Book of the Great Sea-Dragons uit 1840 waarin deze verzamelaar de voorwereldlijke monsters in een Bijbelse context plaatste, als overblijfselen van een pre-adamische wereld en schepselen van de duivel.[21] De fraai geïllustreerde publicaties bevatten ook wetenschappelijke beschrijvingen en waren indertijd de enige standaardwerken op dit gebied.
+
+
+Hawkins demonische plesiosauriërs
+In de decennia na 1824 werden er behalve uit Engeland, ook uit Frankrijk en Duitsland plesiosauriërs beschreven. Al die vormen werden eerst in het geslacht Plesiosaurus ondergebracht dat zo op den duur nogal overladen raakte met honderden soorten; Richard Owen alleen al benoemde er een honderdtal. Toch werden er ook hogere indelingen geschapen. Al in 1825 benoemde John Edward Gray een familie Plesiosauridae[22] en in 1835 Henri Marie Ducrotay de Blainville de orde Plesiosauria zelf.[23]
+
+In 1840 kwam T. Hawkins met een tweede en een derde geslacht: Hezatarostinus en Pentatarsostinius hoewel die tegenwoordig als respectievelijk een nomen dubium en een jonger synoniem van Plesiosaurus worden gezien. In 1841 benoemde Owen Pliosaurus brachydeirus. Deze naam sloot aan bij de etymologie van Plesiosaurus dolichodeirus want zij is afgeleid van πλεῖος, pleios, "voller", omdat deze soort volgens Owen nog dichter bij de Sauria stond. De soortaanduiding betekent "met korte nek".[24]
+
+Amerikaanse vondsten van de late negentiende eeuw
+In de verdere negentiende eeuw werden er ieder decennium drie of vier nieuwe geslachten benoemd in een vrij constant tempo dat tot het eind van de twintigste eeuw zou aanhouden. Terwijl voor fossiele landdieren het openleggen van de vindplaatsen in het westen van Noord-Amerika in de tweede helft van de negentiende eeuw tot een vloedgolf aan nieuwe vondsten zou leiden, gold dat voor zeereptielen veel minder. In het bijzonder van plesiosauriërs waren daarvoor de resten in de mariene afzettingen van de vroegere Western Interior Seaway simpelweg te schaars. Wel zou een bepaalde ontdekking het begin zijn van de beruchte Bone Wars tussen de rivaliserende paleontologen Edward Drinker Cope en Othniel Charles Marsh en een van de beroemdste anekdotes over een plesiosauriër opleveren.
+
+
+Copes Elasmosaurus met de kop op de staart en zonder achterpoten
+In 1867 groef de arts Theophilus Turner bij Fort Wallace in Kansas een zeldzaam compleet skelet op dat hij aan Cope schonk.[25] Die poogde het dier te reconstrueren waarbij hij aannam dat het langste uiteinde van de wervelkolom de staart was, het kortere de nek. Het viel hem al snel op dat het geraamte dat onder zijn handen gestalte kreeg wel heel bijzondere kenmerken vertoonde: de halswervels hadden chevrons en bij de staartwervels zaten de gewrichtsvlakken omgekeerd.[26] Opgetogen meende Cope een geheel nieuwe diergroep ontdekt te hebben: de Streptosauria ofwel "gedraaide sauriërs" die behalve een andersom gerichte wervelkolom ook geen achterpoten hadden omdat de lange staart voor de voortstuwing zou dienen.[27] Na een beschrijving gepubliceerd te hebben,[28] gevolgd door een illustratie in een verzamelwerk over amfibieën en reptielen,[29] nodigde hij Marsh en Joseph Leidy uit om de nieuwe Elasmosaurus platyurus te komen bewonderen. Na Copes uitleg een tijdje aangehoord te hebben suggereerde Marsh voorzichtig dat een eenvoudiger verklaring voor de vreemde bouw was dat Cope de wervelkolom achterstevoren ten opzichte van de romp als geheel geplaatst had. Die reageerde hoogst verontwaardigd op deze insinuatie waarop Leidy zwijgend de schedel pakte en tegen de vermeende laatste staartwervel hield waarop nog een stuk van het achterhoofd aanwezig bleek te zijn: Cope had inderdaad de kop op de staart gezet.[30] Hij probeerde vergeefs de hele oplage van het verzamelwerk te laten vernietigen en publiceerde daarna een verbeterde herdruk met een afbeelding waarop de kop aan het goede eind vastzat, die hij dezelfde datum gaf als de eerdere publicatie.[31] Ook verweerde hij zich door te stellen dat hij zijn fout gemaakt had door juist Leidy zelf te volgen, die eerder bij een exemplaar van Cimoliasaurus ook de wervelkolom omgedraaid had.[32] Volgens Marsh koesterde Cope vanaf die dag een diepe wrok tegen hem: he has since been my bitter enemy. Een constructiever gevolg van het incident was dat het de aandacht vestigde op de Elasmosauridae die zelfs voor een plesiosauriër zulke lange nekken hadden dat het Cope meestal vergeven is dat hij dacht met de staart te maken te hebben. In hun rivaliteit benoemden Cope en Marsh zo veel mogelijk plesiosauriërsoorten, meestal op basis van zeer beperkt materiaal. Achteraf bleken de meeste daarvan ongeldig te zijn.
+
+Twintigste eeuw: stagnatie en wedergeboorte van het onderzoek
+Een jongere medewerker van Marsh, Samuel Wendell Williston, vatte een speciale belangstelling voor zeereptielen en in het bijzonder plesiosauriërs op. In 1914 publiceerde hij Water reptiles of the past and present.[33] Hoewel dit boek ten dele populair-wetenschappelijk van aard was, zou het tot in de eenentwintigste eeuw de enige uitgebreidere verhandeling op dit gebied blijven: in 2012 was het eerste moderne standaardwerk in voorbereiding door Olivier Rieppel.
+
+Het midden van de twintigste eeuw was een periode waarin door geldgebrek weinig vondsten van Mesozoïsche reptielen gemaakt werden en zo liep ook voor plesiosauriërs het tempo van de ontdekkingen wat terug. Het theoretisch onderzoek verminderde nog sterker en er werden slechts zeer spaarzaam wetenschappelijke artikelen over plesiosauriërs geschreven. Dat veranderde eind jaren zestig toen moderne denkbeelden over de functionele anatomie ook op deze diergroep begon toe te passen. In de jaren tachtig nam ook de frequentie van de vondsten weer langzaam toe. In de jaren negentig liep dat op tot een record van zeventien geslachten en in het begin van de eenentwintigste eeuw worden er ieder jaar wel drie of vier benoemd, net zoveel als vroeger in een heel decennium.[34] Dit betekent dat ongeveer de helft van de bekende geslachten pas de afgelopen twintig jaar ontdekt is. De vloed aan nieuwe informatie heeft het onderzoek in een stroomversnelling gebracht zodat men wel spreekt van een "plesiosauriërrenaissance". Dit betreft niet alleen de details van de vaak bizarre nieuwe soorten: er zijn ook sterk verbeterde fundamentele inzichten verworven over de eigenschappen van de groep als geheel, zoals de stofwisseling, de voortplanting en de verwantschappen. Aan dit laatste heeft in het bijzonder de nieuwe methode van de cladistiek bijgedragen die het mogelijk maakt de stamboom van een diergroep exact te berekenen.
+
+De invloed van het "Monster van Loch Ness"
+In 1934 werd door de publicatie van een vermeende foto van het dier het Monster van Loch Ness wereldberoemd. Een van de verklaringen voor dit verschijnsel was dat het een plesiosauriërsoort zou betreffen die het uitsterven van zijn verwanten 65 miljoen jaar geleden overleefd zou hebben door zijn toevlucht in het Loch Ness te zoeken. Deze hypothese wordt door wetenschappers niet serieus genomen. Gezien de beperkte en afgesloten habitat is er maar een zeer kleine populatie mogelijk, waardoor het zeer onwaarschijnlijk wordt dat deze zo'n lange periode stand heeft kunnen houden. Daarbij bestaat het meer slechts 12.000 jaar. Toch is het voor plesiosauriëronderzoekers onmogelijk gebleken dit monster simpelweg te negeren. Het grote publiek is het begrip plesiosauriër er namelijk helemaal mee gaan identificeren. Dit heeft als voordeel dat de diergroep veel bekender geworden is dan anders het geval geweest zou zijn. Het vaak betreurde nadeel is echter dat het onderzoek net zomin serieus genomen wordt als het monster zelf en veel mensen niet geloven dat plesiosauriërs echt bestaan hebben. Steeds opnieuw moet worden uitgelegd dat het niet om fabeldieren of fantasiebeesten gaat.
+
+Beschrijving
+
+Afgietsel van de onderkaken van Stretosaurus
+Algemene bouw, grootte en onderscheidende kenmerken
+De volwassen grootte van plesiosauriërs varieerde sterk. De kleinste soorten die uit in verband liggende skeletten bekend zijn, werden ongeveer anderhalve meter lang; de grootste hebben een lengte van zo'n vijftien meter. Uit losse botten, waaronder een mandibula, een stel onderkaken, van 2,9 meter lengte, kan afgeleid worden dat er zelfs plesiosauriërs van zeventien meter lang moeten hebben bestaan. Het laatste specimen, OUM J.10454, is in de jaren tachtig van de vorige eeuw verworven door het Oxford University Museum. Het is eens beschreven als een apart geslacht, Stretosaurus,[35] maar wordt ook wel toegewezen aan Liopleurodon of beschouwd als een Pliosaurus macromerus.
+
+Alle bekende plesiosauriërs zijn zeedieren en sterk aangepast aan het leven in het water. Voor gewervelde zeedieren zijn er twee belangrijke wijzen van voortbeweging. Het lichaam wordt of voortgestuwd door het als geheel een golvende beweging te laten maken of bewogen door een slaande beweging van de ledematen. Het is deze laatste methode die de plesiosauriërs toepassen. Aangezien de romp niet hoeft te golven, is de ruggengraat erg stijf en het torso dik of zelfs afgeplat. Het is wel sterk gestroomlijnd. De staart heeft geen belangrijke bewegingsfunctie en kan dus kort zijn. De ledematen, zowel de voorste als de achterste, zijn daarentegen erg groot, vaak zo lang als de hele romp. De nek is matig tot extreem lang. De kop varieert sterk in grootte.
+
+Bij de afsplitsing van de Plesiosauria van hun naaste verwanten, de Pistosauridae, zijn er nieuwe eigenschappen ontwikkeld die oorspronkelijk zijn voor de plesiosauriërs: hun synapomorfieën. Welke dat precies zijn, is niet helemaal zeker omdat door nieuw onderzoek kan blijken dat bepaalde kenmerken zich pas later ontwikkeld hebben of juist al voor het afsplitsingspunt tot ontwikkeling kwamen. Vooral de vondst van echte plesiosauriërs uit het late Trias zou zo het aantal in aanmerking komende eigenschappen kunnen verminderen. Mogelijke onderscheidende kenmerken van de groep zijn: een verlengde schoudergordel en bekken; een gescheiden darmbeen en schaambeen; goed ontwikkelde buikribben; sterk afgeplatte ledematen; en gepaarde gaten in de onderkant van de wervels.
+
+Skelet
+
+Meyerasaurus, hier van de onderzijde getoond, laat goed de typische kenmerken van het plesiosauriërskelet zien
+De voorste ledematen zijn bij plesiosauriërs meestal iets langer dan de achterste. Het opperarmbeen en het dijbeen vormen sterk gelijkende grote afgeplatte botten. Hoewel de plesiosauriërs afstammen van landdieren, zijn de vingers en tenen niet meer apart te bewegen en kunnen zelfs als geheel niet meer in belangrijke mate gebogen worden. Ze zijn veranderd in vijf parallel lopende rijen met een sterk vergroot aantal kootjes, een verschijnsel dat hyperfalangie genoemd wordt. Bij sommige soorten zijn wel achttien kootjes in één rij aanwezig. Alle gewervelde landdieren behoren tot de beenvisachtigen, de Osteichthyes, en de handen en voeten van de plesiosauriërs zijn door de hyperfalangie min of meer teruggekeerd naar de oorspronkelijke vinvorm van deze groep. Boven de kootjes zijn de botten van de onderarm — de ellepijp en het spaakbeen — de zes handwortelbeentjes en de vijf middenhandsbeenderen, respectievelijk de botten van het onderbeen — het scheenbeen en het kuitbeen — de voetwortelbeentjes en de middenvoetsbeenderen tot platte ondersteunende elementen geworden.[36]
+
+De ledematen zijn verbonden met een sterk gewijzigde schoudergordel en bekken, die getransformeerd zijn tot grote platte beenplaten aan de onderzijde van het lichaam. In de schoudergordel zijn de ravenbeksbeenderen de belangrijkste elementen die bijna de hele borst bedekken. De schuine voorrand van de romp richting nek wordt onderaan ondersteund door de veel kleine schouderbladen die vooraan ieder uitlopen in een sleutelbeen. Tussen de sleutelbeenderen bevindt zich een klein os interclaviculare. Uitlopers van schouderblad en ravenbeksbeen samen vormen het schoudergewricht.
+
+De bekkenplaat wordt gevormd door de achterste zitbeenderen en de grotere schaambeenderen. Uitlopers daarvan vormen samen de heupgewrichten. De darmbeenderen raken het eigenlijke heupgewricht niet meer maar zijn veranderd in kleine elementen die aan de staartbasis liggen. Tussen schoudergordel en bekken wordt de romp verstijfd door een kooi van aaneengesloten buikribben, die wel het plastron genoemd wordt, als bij de schildpadden. De gepaarde buikribben hebben ieder een middenstuk en een zijstuk.
+
+In de wervelkolom worden de ruggenwervels gekenmerkt door een paar aderopeningen op de onderkant. De halswervels dragen bij vroege vormen ribben met twee ribkoppen maar bij latere soorten zijn de nekribben via een enkel gewricht verbonden met de wervellichamen, die zelf platte of licht holle uiteinden hebben. Bij de voorste ruggenwervels, ofwel borstwervels, verhuizen die gewrichtsvlakken geleidelijk naar boven, de wervelboog op, waar ze zich ook bij de lendenwervels bevinden, op verlengde zijuitsteeksels. Over de reeks van de sacrale wervels en de voorste staartwervels gaan deze gewrichten weer naar beneden, terug naar de wervellichamen. De staartwervels dragen aan de onderkant uitsteeksels, de haemaalbogen of chevrons. Het aantal wervels is zeer variabel tussen de verschillende soorten. Er kunnen negentien tot tweeëndertig ruggenwervels zijn, waarvan twee tot vijf borstwervels. Het aantal sacrale wervels varieert van twee tot zes; van de staartwervels zijn er eenentwintig tot vierendertig.
+
+Voor wat betreft de romp, de ledematen en de staart zijn de plesiosauriërs in hun bouw conservatief, dat wil zeggen: ze variëren daarin maar weinig. Dat geldt echter niet voor de nek en de kop. In de bouw van die twee lichaamsdelen zijn duidelijk twee groepen te onderscheiden. De meeste plesiosauriërs hebben een lange nek en een kleine kop. Die worden plesiosauromorf genoemd. Een belangrijk aantal heeft een korte nek en een grote kop. Die worden pliosauromorf genoemd. Vroeger werd wel aangenomen dat deze twee groepen "natuurlijk" waren, dus aparte aftakkingen vertegenwoordigden van de plesiosauriërstamboom waarvan de leden nauwer aan elkaar verwant waren dan aan de soorten van de andere tak. Later werd duidelijk dat dit voor de pliosauromorfe soorten in ieder geval niet geldt.
+
+
+De nek van deze elasmosauride is lang maar stijf
+Beide vormgroepen delen ondanks hun verschillen bepaalde fundamentele kenmerken van nek en schedel. De lengte van de nek wordt niet zozeer bepaald door de afzonderlijke halswervels te rekken of verkorten maar door hun aantal te variëren. Bij kortnekkige vormen ligt dit zo laag als elf; bij langnekkige vormen kan dat tot boven de zeventig oplopen. Elasmosaurus heeft er tweeënzeventig en werd lange tijd als recordhouder gezien; in 2012 werd echter de elasmosauride Albertonectes beschreven die er zesenzeventig heeft.[37] Dit brengt mee dat er in de nek een groot aantal gewrichten aanwezig is. Lange tijd hebben veel onderzoekers daaruit afgeleid dat de nek dus erg buigbaar moest zijn geweest. Nader onderzoek heeft echter aangetoond dat de gewrichten weinig beweging toestaan. Vooral een kromming naar boven toe wordt erg beperkt. Veel oudere illustraties tonen plesiosauriërs met een soort "zwanenhals" maar in feite is die houding onmogelijk, hoewel de nek in een neutrale stand van de wervels wel een lichte verticale S-bocht maakte. Zijdelings is de bewegingsvrijheid groter maar ook in het platte vlak kan geen sterke S-bocht gevormd worden. Williston begreep dit alles al in 1914 maar pas eind twintigste eeuw zou dit inzicht gemeengoed worden.
+
+Ook de schedel toont enkele vaste kenmerken. Plesiosauriërs zijn Diapsida die meestal aan beide zijden van de schedel een onderste en een bovenste slaapvenster hebben, openingen waardoor belangrijke groepen kaakspieren konden lopen. Bij de voorouders van de plesiosauriërs zijn de onderste slaapvensters weggevallen zodat alleen de bovenste overbleven, wat de "euryapside" toestand genoemd wordt. Die bovenste slaapvensters vormen grote gaten boven achter in de schedel. Daartussen bevindt zich een opening tussen beide wandbeenderen waarin zich een lichtgevoelig orgaan bevond, een "derde oog" of pariëtaaloog midden op de kop; bij de Elasmosauridae en de Cryptoclidia was dit gat door been overgroeid. Vóór de slaapvensters liggen de meestal sterk naar boven gerichte oogkassen; bij de Piosauridae zijn die meer zijwaarts geplaatst. Daarin zijn vaak ondersteunende scleraalringen te vinden waarvan de vorm aantoont dat de ogen aangepast waren aan het zien onder water. Voor de oogkassen bevinden zich de hooggelegen buitenste neusgaten die met de interne neusgaten via groeven verbonden zijn zodat het water opgesnoven en geroken kon worden.[38] Deze binnenste neusgaten, de choanae, liggen extreem vooraan in het verhemeltebeen, het os palatinum, dat met zijn achterrand een tweede paar gaten begrenst die toegang bieden tot het holle binnenste van de achterste schedel waarin de hersenpan hangt. Er is echter een alternatieve interpretatie waarin deze achterste gaten homoloog zijn aan de interne neusgaten en de vermeende voorste neusgaten slechts de behuizing zijn van een paar zoutklieren.[39] De afstand tussen oogkassen en neusgaten is typisch nogal beperkt doordat de eigenlijke neusbeenderen sterk gereduceerd zijn of ontbreken. De beenderen van de snuit, de praemaxillae, grenzen met hun achterkant direct aan de voorhoofdsbeenderen en bij de laatste Elasmosauridae lopen ze zelfs naar achteren door tot aan de wandbeenderen. Bij veel soorten ontbreken ook de traanbeenderen.
+
+De tanden van plesiosauriërs zijn tussen de soorten zeer variabel in aantal, grootte en vorm maar meestal gepunt. Ze staan in aparte tandkassen en werden permanent gewisseld. De tanden zijn meestal kegelvormig met een ronde of, zeldzamer, ovale doorsnede. Het tandemail heeft verticale richels; echte snijranden ontbreken. In de praemaxilla, het voorste schedelbot, staan vier tot zes tanden, meestal vijf. In het bovenkaaksbeen staan veertien tot vijfentwintig tanden. In de onderkaak staan ongeveer evenveel tanden als in de hele bovenkaak; een precies interval is nooit bepaald. Een uitzondering vormen enkele soorten met honderden zeer dunne naaldvormige tanden; het exacte aantal is nergens vastgesteld. Sommige soorten hebben vooraan erg lange in elkaar grijpende tanden waarmee glibberige prooien vastgehouden konden worden.
+
+Weke delen
+
+In een plesiosauriërfossiel gevonden gastrolieten
+Bij plesiosauriërs is het een uitzondering als iets van de zachte organen bewaard is gebleven. Een enkele keer, vooral bij conservering in leisteenplaten, komt het echter voor dat omzettingsresten van de weke delen zichtbaar zijn, vaak als een soort omtrek van het lichaam. Een bekend exemplaar in dit verband is het in 1881 beschreven holotype van Plesiosaurus conybeari dat later tot Attenborosaurus hernoemd zou worden. Daaruit weten we dat de huid erg glad was, kennelijk zonder schubben maar met lichte rimpels, dat de achterrand van de vinnen een stuk buiten de skeletdelen uitstak en dat de staart bovenop een lange zachte vin droeg. Uit de botten is ook veel over het spierstelsel op te maken. Aan de platen die door de schoudergordel en het bekken aan de onderkant van het lichaam gevormd werden, zaten spieren vast die kennelijk zeer krachtig waren gezien de omvang van deze elementen. Deze bewogen de voorste en achterste ledematen tijdens het zwemmen. Zowel de opperarmbeenderen als de dijbeenderen zijn dicht bij de romp versmald. De bases van de ledematen waren bij het levende dier echter niet speciaal dun maar puilden eerder uit: de ruimten werden gevuld door spiergroepen zoals bij de arm de musculus biceps brachii en musculus triceps brachii.
+
+Van de maag zelf is niets bewaard gebleven maar wel vaak de maagstenen of gastrolieten die plesiosauriërs inslikten. Hun functie is nog onduidelijk: ze kunnen gediend hebben voor de spijsvertering, als ballast om te duiken[40] of ter verbetering van de stabiliteit.[41] De eerste gastrolieten bij een plesiosauriër, Mauisaurus gardneri, werden in 1877 gemeld door Harry Govier Seeley.[42] Het aantal maagstenen was vaak erg groot: in 1949 werden er bij een fossiel van Alzadasaurus (specimen SDSM 451, later hernoemd tot Styxosaurus) 253 geteld.[43] Ook het gewicht per individuele steen was vaak niet gering. In 1991 werd bij een specimen van een elasmosauride, KUVP 129744, een gastroliet aangetroffen met een doorsnee van zeventien centimeter en een gewicht van 1,3 kilogram; een wat kortere steen woog 1490 gram. In totaal waren zevenenveertig maagstenen bij het exemplaar aanwezig met een totaalgewicht van ruim dertien kilogram. De grootte van de stenen is gezien als bewijs dat ze niet toevallig werden ingeslikt, maar speciaal uitgezocht waarbij het dier wellicht honderden kilometers aflegde op zoek naar geschikte steensoorten.[44]
+
+Levenswijze
+Leefgebied
+Plesiosauriërs zijn in alle oceanen van het Mesozoïcum teruggevonden.[45] De vindplaatsen bevinden zich in wat toen kustwateren waren. Het is bepaald waarschijnlijk dat plesiosauriërs meestal bij de kust leefden aangezien daar veel voedsel te vinden is. De reden dat de gevonden fossielen zich grotendeels tot kustwateren beperken is echter dat daar de meeste sedimentatie plaatsvindt, zodat karkassen juist daar gefossiliseerd worden en dat de meeste oceaanbodem van die ouderdom of door subductie, het door platentektoniek onder een continent schuiven, vernietigd is of voor ons ontoegankelijk is. Plesiosauriërs die op open zee leefden, hebben zo veel minder kans om door de wetenschap ontdekt te worden. De diepere oceanen waren in het Mesozoïcum overigens meestal erg warm en anoxisch, zuurstofloos, zodat ze weinig productief waren.
+
+Soms worden plesiosauriërfossielen ook wel gevonden in sedimenten waarvan men op grond van andere fossielen vermoedt dat die in zoet of brak water zijn afgezet. Het is omstreden of de aanwezigheid van plesiosauriërs erop duidt dat men zich daar dan in vergist heeft of dat er ook zoetwaterplesiosauriërs bestonden of althans plesiosauriërs die weleens een rivier op zwommen. Vooral voor de kleinere Leptocleididae wordt dit soms aangenomen. In 2013 werd ook een wat grotere soort gemeld met een lengte van vier meter.[46]
+
+Voedsel
+
+In de negentiende eeuw dacht men dat plesiosauriërnekken als een slang konden kronkelen zoals hier afgebeeld in een illustratie van Charles Knight uit 1897
+Plesiosauriërs waren gespecialiseerde roofdieren. De vormen met een lange nek en een kleine kop hebben typisch lange spitse kegelvormige tanden die zeer geschikt zouden zijn een glibberige prooi vast te houden zoals vissen en inktvissen. De maaginhoud van sommige fossielen toont inderdaad de resten van vissen en ammonieten; van deze laatste koppotigen in het bijzonder de snavels. De vormen met een korte nek en lange kop hebben krachtiger tanden waarmee een grotere prooi gedood zou kunnen worden. Die zou kunnen bestaan uit grotere inktvissen en beenvissen, maar ook uit dieren die zelf vrij grote roofdieren waren zoals haaien, ichthyosauriërs en kleinere plesiosauriërs.
+
+
+Pliosauridae joegen vermoedelijk vanuit een hinderlaag op grote prooien
+De jachtwijze van kortnekkige vormen denkt men wel te begrijpen: vermoedelijk joegen die als tegenwoordige grote zeeroofdieren door middel van achtervolging[47] of het in de diepte leggen van een hinderlaag, waarbij de jager wachtte tot het donkere silhouet van een overzwemmend dier zich tegen de lichtere waterspiegel aftekende. Als de prooi gegrepen was, werden met een schuddende beweging brokken vlees uit zijn lichaam gescheurd. Geen enkel huidig zeeroofdier heeft echter ook maar bij benadering een neklengte als die van de "plesiosauromorfe" plesiosauriërs. Het ontbreekt ons dus aan een bestaand model dat inzicht kan verschaffen in hun jachttactiek. In de negentiende eeuw waren daar drie belangrijke concurrerende hypothesen over. Een populaire gedachte was dat de lange nek simpelweg diende om tijdens de achtervolging de kop wendbaarder te maken zodat die de plotse uitwijkmanoeuvres van een prooi kon volgen. De relatieve stijfheid van de romp zou daarmee dan gecompenseerd worden. Een al vroeg door Conybeare zelf geopperde alternatieve mogelijkheid was dat plesiosauriërs op de bodem gingen liggen en hun kop en nek als het ware uitzonden om naar een prooi te zoeken. Daar zouden ook de omhoog gerichte ogen op wijzen. Toen maagstenen in de fossielen gevonden werden, zag men dat als een bevestiging: die zouden als ballast moeten hebben voorkomen dat het dier afdreef. Een derde voorstel van Conybeare was dat ze juist aan het wateroppervlak zwommen en hun nek lieten afhangen om met de kop in de diepte te hengelen.
+
+
+In feite waren de nekken echter stijf
+Het moderne inzicht dat de lange nek in plaats van flexibel juist bijzonder stijf was, past slecht bij alle drie de hypothesen. Eén voordeel van een stijve nek zou zijn dat de zwemsnelheid hoger kan liggen: het dier kan meer vaart maken zonder dat de nek als een onhandig vóór het zwaartepunt van het lichaam liggend stuurvlak omslaat. Hieruit is geconcludeerd dat plesiosauromorfe soorten snel scholen vissen in zwommen, waarbij de plots opduikende kop een prooi greep voordat die door de drukgolf of het zicht van de naderende grote romp gewaarschuwd kon worden. Een hypothese die in de eenentwintigste eeuw populair geworden is, ziet een verband met raadselachtige diepe voren die vaak op mesozoïsche zeebodems te vinden zijn. Die zijn in 1998 door Jörn Geister verklaard als de sporen van plesiosauriërs die met hun lange stijve nek door de zeebodem ploegden om de daar aanwezige zeedieren, de benthos, te verstoren, waarna de opzwemmende prooien gegrepen werden.[48] In 2005 werd de vondst gemeld van Elasmosauridae in Australië waarbij gebroken resten van schelpdieren in de buikholte gevonden waren. De gastrolieten zouden speciaal nuttig geweest zijn om hun harde schelpen te vermalen.[49]
+
+Voor sommige Cryptocleididae opperde Sankar Chatterjee in 1989 dat het geen viseters waren maar filteraars van plankton. Aristonectes bijvoorbeeld heeft honderden dunne tanden waarmee hij kleine kreeftjes uit het water zou kunnen zeven.[50]
+
+Voortbeweging
+Roeien of vliegen?
+Het is zeker dat plesiosauriërs zich primair voortbewogen door middel van hun grote ledematen en niet door een beweging van de romp of de staart. In dit geval hebben we wel een bestaande diergroep die ons min of meer kan laten zien hoe dat in zijn werk ging want ook de huidige zeeschildpadden stuwen zich op die manier door het water voort. Het is dus niet voor niets dat reeds Buckland er een vergelijking mee trok. Conybeare en De la Beche hadden daar oorspronkelijk ook al naar verwezen en zelfs de aandacht gevestigd op de gelijkenis met vogelvleugels. In hun tijd was deze overeenkomst echter niet zo heel informatief want in de vroege negentiende eeuw begreep men het mechanisme van de voortstuwende slag van zeeschildpadden slechts zeer onvolledig. Men dacht — en nam dat dus ook voor plesiosauriërs aan — dat de poten een roeiende beweging maakten. Daartoe zou de plesiosauriër het vlak van de pootvinnen verticaal hebben gedraaid en deze dan met kracht naar achteren getrokken om zich tegen het water af te zetten. In de herstelfase van de slag zou de vin horizontaal gedraaid zijn om met zo min mogelijk waterweerstand weer naar voren bewogen te worden, zodat de cyclus zich kon herhalen. In de vroege twintigste eeuw begonnen sommige onderzoekers, als uitvloeisel van een verbeterd inzicht in de vogelvlucht, echter te begrijpen dat dieren als zeeschildpadden en plesiosauriërs met hun vinnen wellicht een meer verticale beweging uitvoerden: in 1905 werd dit voorgesteld door Eberhard Fraas[51] en in 1908 door Othenio Lothar Franz Anton Louis Abel.[52] De eerste systematische studie naar het spierstelsel van plesiosauriërs, van David Meredith Seares Watson uit 1924, concludeerde daarentegen dat ze toch roeiden.[53] Een halve eeuw lang zou dit de heersende leer blijven. In 1957 kwam Lambert Beverly Halstead, die indertijd de achternaam Tarlo voerde, met een variant hierop: de achterpoten zouden geroeid hebben maar de voorpoten een stuwende slag naar beneden en achteren hebben uitgevoerd, dus meer een peddelende beweging.[54][55]
+
+In 1975 wees Jane Ann Robinson er echter op dat het uiterst onwaarschijnlijk moest worden geacht dat plesiosauriërs enige roeiende beweging zouden hebben gemaakt.[56] Een dergelijke slag zou namelijk bijzonder inefficiënt zijn. Bij de afzet gaat veel energie verloren aan turbulenties aan de randen van de vin en de herstelfase zou niets bijdragen aan de voortstuwing. Daarbij blijkt uit de vorm van het schouder- en heupgewricht, de welving van de vin en de plaatsing van de aandrijvende spiergroepen direct boven en onder de vin dat de ledematen niet ingericht zijn om hun grootste kracht te leveren bij een trekkende beweging in verticale stand en dat het zelfs twijfelachtig is of die überhaupt ingenomen kon worden.
+
+
+Hydrorion afgebeeld in een dynamische pose zoals voorgestaan door Robinson, waarin het hele lichaam als een veer gespannen is om de elastische energie te optimaliseren
+Een veel waarschijnlijkere manier van voortstuwing was dat de plesiosauriërs, net als naar we nu weten zeeschildpadden en pinguïns doen, hun ledematen bewogen op de wijze van vogels en dus door het water "vlogen". Daartoe werd de vin, waarvan de voorrand schuin omlaag gericht was, met kracht naar onderen en voren geslagen zodat er een waterstroom over zowel de bovenkant als onderkant tot stand kwam. Doordat het bovenste vlak van de vin boller was en het water daar een langere weg moest afleggen, ontstond er een onderdruk boven de ledemaat die het dier naar boven en voren zoog, een toepassing van de Wet van Bernoulli. Idealiter zou bij de herstelfase de vin met de voorzijde nog meer naar beneden gekanteld zijn en daarna in een verticaler traject naar achteren en boven getrokken zodat opnieuw de heffende en voortstuwende kracht werd opgewekt. De baan van de neergaande slag werd daarbij gekruist zodat het uiteinde van de vin zo steeds achtjes zou hebben gedraaid. Overigens zou deze wijze van voortstuwing ook werken als de neergaande slag naar achteren werd uitgevoerd en de "acht" dus naar voren helde, mits de voorrand van de vin maar schuin in de waterstroom greep. Robinson vulde deze hypothese aan met een over de elastische energie die in het lichaam van plesiosauriërs zou worden opgeslagen bij de voortbewegende slag, iets wat de efficiëntie ervan nog aanzienlijk zou hebben vergroot. Segmenten van de ribbenkast, die vanwege het ontbreken van een borstbeen en dubbele ribkoppen niet makkelijk in elkaar gedrukt kon worden, zouden hebben gefunctioneerd als waren het gespannen bogen.[57]
+
+Hoewel de beweging bij het "watervliegen" zeer efficiënt zou zijn, rees er al snel twijfel over de uitvoerbaarheid ervan en werd Robinsons model in 1982 bekritiseerd door Samuel Tarsitano, Eberhard Frey en Jürgen Riess.[58][59] De belangrijkste spiergroepen zaten bij de plesiosauriërs aan de onderkant van het lichaam op de vlakke platen van de schoudergordel en het bekken gehecht. Het zou echter zeer krachtige bovenliggende spieren vereist hebben om de vinnen sterk te heffen en in de herstelfase een ideale curve te laten beschrijven. Robinson meende dat die direct op de bovenkant van schoudergordel en bekken, diep binnen het lichaam aanwezig waren. Volgens Frey en Riess bestonden zulke spieren echter helemaal niet, ook omdat hun uitzetting de interne organen zou hebben beschadigd. Daarbij zou de vin van plesiosauriërs niet te vergelijken zijn met die van zeeschildpadden of pinguïns die een functioneel ellebooggewricht bezitten. Daarom namen ze aan dat de achterwaartse slag een vlakker traject doorliep, waarbij de punt van de vin in de cyclus als geheel een ovaal beschreef. Als de vin daarbij nog steeds wat schuin naar achteren en omhoog werd getrokken kon toch wat voortstuwende kracht worden geleverd. Het kon ook zijn dat de plesiosauriërs in een passieve fase de poten met de stroming los mee na achteren lieten bewegen waarbij de vin grotendeels horizontaal werd gehouden om de waterweerstand te verminderen en het zakken van het lichaam de ledemaat weer in een hogere positie bracht. Dit model werd zeer populair; een alternatief model van Stephen Godfrey uit 1984 waarbij deze aannam dat de voorste en achterste ledematen een diepere peddelende beweging naar achteren uitvoerden zoals de armen van zeeleeuwen, waarbij een horizontale herstelslag naar voren flink wat extra voortstuwing opleverde,[60] kreeg veel minder aandacht.
+
+In 2010 publiceerden Frank Sanders en Kenneth Carpenter een studie die concludeerde dat het volledig vliegende model van Robinson toch de beste verklaring bood. Frey & Riess zouden zich vergist hebben in het ontbreken van spieren boven op de schouder- en bekkengordels, hoewel die vermoedelijk niet al te sterk waren. Dit zou echter gecompenseerd kunnen zijn door de rugspieren, vooral de musculus latissimus dorsi die gezien de hoge doornuitsteeksels op de ruggengraat een aanzienlijke dikte moet hebben gehad. Daarbij bleek uit de platte vorm van de schouder- en heupgewrichten dat de beweging zeer overwegend in het verticale vlak en nauwelijks horizontaal plaatsvond.[61] Een studie uit 2015 bevestigde dat de latissimus dorsi een belangrijke heffende spier zou kunnen zijn geweest. De voorwaartse slag zou verder aangedreven kunnen zijn door de musculus deltoideus ofwel clavodeltoides en de achterwaartse slag door de musculus coracobrachialis.[62]
+
+Vliegen met vier of met twee vinnen?
+
+Volgens Frey & Riess sloegen de paren vinnen om beurten zoals in deze illustratie van Plesiosaurus dolichodeirus
+De bekkengordel bij plesiosauriërs staat de achterste ledematen vergeleken met de voorste een meer beperkte bewegingsvrijheid toe, vooral in de verticale richting die de meeste stuwkracht kan opleveren. Bij zeeschildpadden is dat ook het geval en daar leidt dit tot een duidelijke rolverdeling: de voorste ledematen zorgen voor de voortstuwing terwijl de achterste als passief roer dienen. In 2000 stelde Theagarten Lingham-Soliar dat dit bij plesiosauriërs ook het geval was. De vinnen zouden zich in een driehoek bewogen hebben: een verticale voortstuwende fase werd gevolgd door een inefficiënte horizontale roeibeweging naar achteren waarna de herstelslag de vin weer op gewrichtshoogte bracht. Omdat bij het heupgewricht het dijbeen maar weinig omlaag kon worden gebracht, zou de herstelfase bij de achtervin ook vrijwel horizontaal hebben gelopen zodat het bij elkaar nauwelijks de moeite zou hebben geloond de achterste ledematen in beweging te brengen. Een scheiding tussen de voortbewegingsfunctie en de stuurfunctie had volgens hem het grote voordeel dat beide taken optimaal konden worden uitgevoerd. Daarbij zou dan een verkwistende extreme stampende beweging van de romp als geheel voorkomen worden en zo de stabiliteit vergroot. Lingham-Soliar verwierp Robinsons gedachte dat elastische energie, waarbij zulke vervormingen van het lichaam door een veerkrachtige reactie van het lijf juist nuttig konden worden uitgebuit, een belangrijke rol speelde. Daar zouden de skeletelementen te hecht met elkaar verbonden voor zijn geweest en de botten op zich te weinig flexibel.[63]
+
+In 2004 berichtte Sanders echter dat bij experimenten, waarbij twee aan elkaar gekoppelde menselijke zwemmers het plesiosauriërlichaam nabootsten, gebleken was dat een dubbele voortstuwing redelijk stabiel was en een licht golvende stampbeweging tamelijk efficiënt. De verminderde beweeglijkheid bij het heupgewricht zou daarbij slechts zeer relatief geweest zijn. Dat juist de oudste bekende soorten grotere achterste ledematen hadden, was een bijkomende aanwijzing dat die actief gebruikt werden. Wat het sturen betreft, zou een aandrijving van de achtervinnen de controle bij het stampen juist sterk verhoogd hebben en zelfs bij het rollen, mits de vinnen van de linkerhelft een tegengestelde kracht konden uitoefenen aan die van de rechterhelft. Bij het gieren, de zijdelingse beweging, konden nek en staart als stuurvlakken belangrijke hulp bieden, zeker als de staart bovenop met een verticale stuurvin was uitgerust.[64]
+
+Als beide paren vinnen actief gebruikt werden, roept dat de vraag op hoe beide bewegingen gecoördineerd werden. Meestal wordt er eenvoudigheidshalve van uitgegaan dat er geen draf (kruiselingse beweging) of telgang (per linker- of rechterhelft) plaatsvond maar dat de ledematen per paar werden ingezet. Het populairste model, onder andere voorgestaan door Frey en Riess,[65] is dat de paren afwisselend hun slagen uitvoerden. Zo werd een meer constante voortstuwing bereikt die optimaal was voor een hoge kruissnelheid. In 2010 wezen Sanders en Carpenter er echter op dat juist het uitglijden na iedere slag veel efficiënter was. Daarbij zou bij een afwisselende slag het achterste paar last hebben van de turbulentie van het voorste paar.[66] Ook zou het stampen onnodig versterkt worden. Een gelijktijdige slag met alle vier de vinnen zou dan meer voor de hand liggen. Het is ook goed mogelijk dat de slagwijze aan de omstandigheden werd aangepast. Bij een achtervolging werd dan een afwisselende slag toegepast, bij een hinderlaag een gelijktijdige slag om een pieksnelheid te bereiken. Bij het speuren naar een prooi over grotere afstand kostte een combinatie van een gelijktijdige slag met lang uitglijden de minste energie.[67] Een studie uit 2017 door Luke Muscutt, waarmee gebruik werd gemaakt van een robot, concludeerde dat de achtervinnen actief werden ingezet wat een verhoging van de stuwkracht opleverde van 60% en van de efficiëntie van 40%. De grootste stuwkracht kon geleverd worden als de achterste flippers iets na de voorste flippers uitgeslagen werden: het zog daarvan werkte juist voordelig. Er zou echter geen optimale fase voor alle soorten en omstandigheden zijn geweest: die werd vermoedelijk gevarieerd zoals de situatie vereiste.[68]
+
+Snelheid
+
+De lange nek van Albertonectes duidt op een lage snelheid
+Het is zeer lastig de maximumsnelheid te bepalen van uitgestorven zeedieren. Bij plesiosauriërs zou deze afhangen van de precieze zwemwijze waarover geen overeenstemming bestaat en wat de waterweerstand betreft van het Getal van Reynolds waarover geen exacte gegevens te verkrijgen zijn. De gevonden huidresten lijken erop te wijzen dat schubben ontbraken wat turbulenties zal hebben verminderd en de snelheid verhoogd door een verlaging van de drukweerstand[61] De wrijvingsweerstand kan verder verlaagd zijn door een structuur van het huidoppervlak die voorkwam dat een laminaire stroming overging in een turbulente stroming; wellicht dat aangetroffen huidrimpels deze functie hadden. De pieksnelheid zou behaald kunnen worden in een korte anaerobe inspanning die echter niet lang zou kunnen worden volgehouden wegens verzuring van de spieren.
+
+
+Pliosauridae als Kronosaurus waren het snelst en konden zo prooien inhalen
+Wel is het mogelijk een heel ruwe schatting te geven van de maximale kruissnelheid uitgaande van de hoeveelheid energie die het lichaam in een aerobe verbranding langdurig kan genereren en een simpel model van de lichaamsvorm waarbij men die laat benaderen door een prolate sferoïde. Zo'n geometrisch lichaam heeft een redelijke stroomlijn die in de meeste illustraties ook aan plesiosauriërs gegeven wordt. De hoeveelheid energie hangt af van de stofwisseling, of het dier koudbloedig of warmbloedig was. Een eerste studie hiernaar werd in 1988 gepubliceerd door Judy Massare.[69] Daarbij ging ze uit van een vrij lage hydrodynamische efficiëntie, de mate waarin de energie nuttig wordt omgezet in een voorwaartse beweging, voor plesiosauriërs van ongeveer 0,65. Bij een hoge stofwisseling resulteerden Massares berekeningen in een zeer hoge kruissnelheid van ongeveer vier meter per seconde of veertien kilometer per uur.[70] Weliswaar relativeerde ze dat door te wijzen op de extra weerstand die de vinbeweging zou veroorzaken maar het overtreft de aangenomen kruissnelheden voor moderne dolfijnen en walvissen. De uitkomsten werden desalniettemin algemeen aanvaard totdat Ryosuke Motani in 2002 aantoonde dat Massare een aantal fouten had gemaakt in de toegepaste formules. Een herberekening resulteerde in een snelheid van een halve meter per seconde (1,8 km/h) voor een koudbloedige plesiosauriër en een van anderhalve meter per seconde (5,4 km/h) voor een warmbloedige plesiosauriër. De laatste snelheid is volgens Motani een derde lager dan bij bestaande walvisachtigen.[71]
+
+Hoewel de absolute snelheden van Massare onjuist bleken te zijn, blijven haar schattingen voor de relatieve snelheid ten opzichte van andere groepen relevant. Plesiosauriërs zouden 20% langzamer gezwommen hebben dan ichthyosauriërs maar 5% sneller dan Mosasauridae. Dit weerspiegelt de relatieve efficiëntie van hun bewegingswijze. Ichthyosauriërs maakten een heel efficiënte tunniforme beweging waarbij alleen de staart een oscillatie uitvoert net als bij de huidige tonijn. Voor mosasauriden werd indertijd een inefficiënte anguilliforme beweging aangenomen waarbij het hele lichaam in een voortstuwende golf als een aal kronkelt. Plesiosauriërs zaten daar qua efficiëntie net tussenin.
+
+Onderling zullen de plesiosauriërs in belangrijke mate in hun snelheid verschild hebben. Elasmosauriden hadden bijvoorbeeld vrij stompe vinnen met een geringe vleugelslankheid, wat de waterweerstand verhoogt, terwijl de nek zo lang was dat dit geen stroomlijnvoordelen meer opleverde maar juist een nog hogere weerstand door een te extreme glijverhouding. Zij waren daarmee vermoedelijk een stuk langzamer dan pliosauromorfe soorten maar konden wel makkelijker rollen.[72]
+
+Duiken
+
+Cryptoclidus wordt wel gezien als een dieper duikende soort
+Plesiosauriërs zullen meestal vrij dicht onder het wateroppervlak gezwommen hebben omdat daar typisch het meeste voedsel te vinden valt. Moderne lucht ademende zeeroofdieren zijn echter in staat een langdurige duik uit te voeren om ook in diepere waterlagen naar prooi te zoeken. De duiktijden variëren daarbij tussen de verschillende groepen van acht tot twintig minuten. Om dergelijke lange onderbrekingen van de ademhaling mogelijk te maken, worden verschillende methoden toegepast zoals het opslaan van zuurstof in de spieren, het vertragen van de hartslag, het laten inklappen van de longen en het beperken van de doorbloeding in niet direct vitale organen. Tot nu toe zijn er weinig aanwijzingen gevonden in hoeverre plesiosauriërs hiervoor aanpassingen bezaten wat het onmogelijk maakt tot een gefundeerde schatting van de maximale duikdiepte te komen. Dát ze echter doken, blijkt uit sporen van caissonziekte, veroorzaakt door het vormen van stikstofbellen in het bloed door de decompressie bij het opstijgen uit grotere diepte. De koppen van zowel de opperarmbeenderen als de dijbeenderen laten het afsterven van botweefsel zien. De wervels tonen zulke beschadigingen niet. De typische dubbele grote aderopeningen in hun onderkant, de foramina subcentralia, worden als een beschermende aanpassing gezien: hoe beter de doorbloeding des te geringer de kans op negatieve effecten.[73] Overigens kan uit de mate van schade niet worden afgeleid hoe diep er gedoken werd: die kan het gevolg zijn van een groot aantal ondiepere duiken of een kleiner aantal diepe.
+
+Het duiken zou vereenvoudigd zijn geweest door een negatieve archimedeskracht, dus dat het lichaam een dichtheid heeft die hoger is dan het water. Dat voordeel draagt dan weer het nadeel met zich mee dat bij het opstijgen geen ondersteunende extra opwaartse kracht wordt ondervonden. De beenderen van jonge plesiosauriërs tonen bij sommige exemplaren pachyostosis, een extreme verdichting van het botweefsel. Wellicht dat dit ten doel had de gemiddelde dichtheid van het lichaam als geheel te vergroten. Bij volwassen exemplaren is het typisch meer sponsachtig. Van de gastrolieten is wel gedacht dat ze dienden om de romp te verzwaren of zelfs om een exact neutraal drijfvermogen te bereiken door ze afwisselend in te slikken of uit te spuwen.[74]
+
+Het is ook wel geprobeerd het duikvermogen uit de grootte van de ogen af te leiden. De Cryptocleididae, waarbij deze erg groot zijn, zouden dan in diepere waterlagen zijn afgedaald.
+
+Stofwisseling: waren plesiosauriërs koudbloedig of warmbloedig?
+Van veel groepen uitgestorven reptielen die vroeger als vanzelfsprekend als koudbloedig werden gezien, wordt tegenwoordig aangenomen dat ze warmbloedig waren, zoals de dinosauriërs en de pterosauriërs. Ook over de plesiosauriërs is men begonnen zich af te vragen of die warmbloedig waren. Bij de heersende landdieren en vliegende dieren van het Mesozoïcum ligt het voor de hand een hoge stofwisseling aan te nemen omdat zonder een hoog activiteitsniveau en voedselbeslag hun dominantie lastig verklaard kan worden. Bij zeedieren is dit verband echter niet zo evident. Zwemmen is vergeleken met lopen namelijk een zeer efficiënte wijze van voortbeweging zodat ook een dier met een lage stofwisseling nog lange afstanden kan afleggen. En terwijl vliegende dieren hun op zich zeer efficiënte vlucht slechts kunnen aanvangen door met een grote inspanning het luchtruim te kiezen, kan een zeedier zich permanent in een zwemmende toestand houden.
+
+Toch hebben verschillende onderzoekers geconcludeerd dat plesiosauriërs althans in zekere mate een verhoogde stofwisseling bezaten. Ook als het concurrentievoordeel van warmbloedigheid voor zeedieren minder was, zou het volgens hen aan de top van de voedselketen op den duur toch een beslissend voordeel geboden hebben ten opzichte van koudbloedige dieren. Kleinere dieren kunnen vaak niches vullen waarvoor een laag metabolisme voldoende is, bijvoorbeeld wanneer voedsel in ruime mate zonder veel inspanning verworven kan worden of als een roofdier zijn prooien kan verschalken door alleen maar passief in een hinderlaag te liggen. De grootste dieren zouden echter steeds actief hun positie als apexpredator hebben moeten verdedigen. Zulke niches worden tegenwoordig ingenomen door volledig warmbloedige zeezoogdieren of door soorten die althans voor de belangrijkste aandrijvende spieren een constante temperatuur handhaven in de kern van hun lichaam, zoals de lederschildpad, tonijnen en grote haaien. Voor plesiosauriërs zouden dus slechts twee wegen hebben opengestaan voor een succesvolle levenswijze: of volledige of gedeeltelijke warmbloedigheid. Dit is echter niet onomstreden: er zijn ook geleerden die verdedigen dat zelfs voor de grootste roofdieren het leggen van hinderlagen alleen voldoende kan zijn geweest.
+
+Een methode om de hoogte van de stofwisseling meer direct te bepalen is het onderzoeken van de botstructuur. De ruimere groep waartoe de Plesiosauria behoren, de Sauropterygia, had volgens een studie uit 2010 wellicht oorspronkelijk al fibrolamellair bot, in een snelle groei afgezette beenlagen die duiden op een hoog metabolisme.[75] Een onderzoek uit 2013 vond dat niet bij Nothosauridae maar wel bij vroege Pistosauria.[76] Bij de plesiosauriërs zelf wordt een vergelijking echter bemoeilijkt door de pachyostosis, die het lastig maakt vast te stellen wat de botstructuur zonder de verdichting zou zijn geweest. Als een verder argument voor warmbloedigheid wordt wel het enkele feit gezien dat plesiosauriërs in water leefden. Dat geleidt warmte zo goed dat zuiver koudbloedige reptielen zeer snel afkoelen. Moderne zeeleguanen moeten regelmatig voor langere tijd het land opzoeken om al zonnende hun lichaamstemperatuur weer op een niveau te brengen waarop hun enzymen werken. Voor de enorme plesiosauriërs was deze methode echter niet praktisch omdat — als ze al konden zonnen — hun lichamen wegens de grootte dagen nodig zouden hebben gehad om op temperatuur te komen. Deze redenering vooronderstelt echter dat ze enzymen bezaten die binnen hetzelfde temperatuurinterval werkten als die van landreptielen. Dat hoeft niet zo te zijn geweest: bij bepaalde vissen werken de enzymen juist het best bij lage temperaturen. In ieder geval kwamen Plesiosauria ook op hoge breedtegraden voor, terwijl voor de toenmalige groepen mariene krokodillen wordt aangenomen dat ze koudbloedig waren omdat hun leefgebied zich beperkte tot warme wateren.[77] Een studie uit 2018 naar de botstructuur vond een dichtheid van de bloedvaten die wijst op een zeer snelle groei, vergelijkbaar met die van moderne vogels. Al basale Eosauropterygia zouden warmbloedig zijn geweest.[78]
+
+Voortplanting
+
+Polycotylus baart een jong
+Omdat het reptielen waren, nam men lange tijd aan dat plesiosauriërs eieren legden. Moderne zeereptielen zoeken daarvoor het land op; zeeschildpadden laten hun eieren achter in een kuil op het strand. Op gelijksoortige wijze zouden ook plesiosauriërwijfjes hun lichamen over de vloedlijn geschoven hebben om hun nageslacht aan het zand toe te vertrouwen. Het bezit van vier functionele ledematen en de vrij platte bouw zou het de dieren mogelijk hebben gemaakt, hoe onbeholpen ook, zich enigszins over een vlakke ondergrond voort te bewegen.
+
+Dit scenario werd door sommigen echter sterk betwijfeld. Juist de vlakke onderkant zou een enorme wrijving hebben opgeleverd en de vinnen, die geen functionele knie- of ellebooggewrichten meer hadden, leken zeer slecht geschikt om het hele lichaam het water uit te hijsen. Zeker bij de allergrootste soorten, die enkele tientallen tonnen kunnen hebben gewogen, lijkt het onvoorstelbaar dat ze een stranding zouden hebben kunnen overleven. De ichthyosauriërs, ook zeereptielen, lieten een duidelijk alternatief zien: ze waren levendbarend zoals bleek uit de vondst van gefossiliseerde grote embryo's in het moederlichaam. De eerste die plesiosauriërembryo's meldde, zij het vrij kleine, was Seeley in 1887: hij meende er vier tot acht aangetroffen te hebben in een nodule, ofwel knol.[79] In 1896 beschreef hij de vondst in meer detail.[80] De ontdekking kreeg weinig aandacht en in 1982 toonde Richard Anthony Thulborn aan dat Seeley zich vermoedelijk had laten misleiden door met sediment gevulde nesten van kreeftachtigen die door een fossielenhandelaar wat waren "verbeterd" om ze het aanzien van skeletjes te geven.[81] Kort daarna echter, in 1987, vond Charles Bonner een specimen, LACM 129639, van Polycotylus latippinus dat de resten van een embryo in de buikholte had. De vondst werd in 2011 gemeld door Robin O'Keefe.[82] Kennelijk ging het niet om een maaltijd, zoals bij een plesiosauriërembryo dat in 2009 gemeld werd aanwezig te zijn in de maag van een ichthyosauriër.[83] Het jong van Polycotylus had een aanzienlijke lengte: ongeveer anderhalve meter bij een moederdier van vijf meter lang. Dit zou wijzen op een zogenaamde k-strategie in de voortplanting waarbij een belangrijke ouderlijke broedzorg geconcentreerd wordt in een klein aantal nakomelingen om daarvan de individuele overlevingskans te vergroten. Ook maakt het een stuk waarschijnlijker dat plesiosauriërs warmbloedig waren. De energiekosten van de daarmee samenhangende snelle groei kunnen namelijk veel beter gedekt worden als de eerste fase daarvan in het moederlichaam plaatsvindt.
+
+Sociaal gedrag en intelligentie
+Dat plesiosauriërs levendbarend waren, vormt een van de belangrijkste aanwijzingen die we hebben over hun sociaal gedrag. Dat (een van) de ouders het jong zou hebben kunnen verzorgen, wijst op een zekere mate van sociale interactie. Het is mogelijk dat die zich ook tussen volwassen dieren voordeed en dat plesiosauriërs in groepen leefden.
+
+De hersengrootte levert echter geen bewijs op voor een speciaal complex sociaal gedrag. De hersenpan was ongeveer zo groot als voor een reptiel verwacht mag worden. Wel is het mogelijk dat warmbloedigheid, gekoppeld aan een goede zuurstofvoorziening, gunstig was voor een verhoogde hersenactiviteit. Van de zintuigen waren vooral het gezicht en de reuk goed ontwikkeld, het gehoor minder; zo verloren sommige Elasmosauridae de stapes van het oor. De buitenwand van de snuit was voorzien van een netwerk van zenuwkanalen die gediend kunnen hebben als druksensoren of elektroreceptoren om een prooi waar te nemen.[84][85]
+
+Ziekte en ouderdom
+Bij sommige skeletten kunnen pathologieën worden vastgesteld, afwijkingen die het gevolg zijn van ziekte of ouderdom. In 2012 werd een onderkaak beschreven waarbij in het kaakgewricht duidelijk sprake was van slijtage ten gevolge van artritis, een ouderdomsverschijnsel.[86]
+
+Bronvermelding
+Noten
+ Druckenmiller, P.S. & Russell, A.P., 2008, A phylogeny of Plesiosauria (Sauropterygia) and its bearing on the systematic status of Leptocleidus Andrews, 1922. Zootaxa 1863. Aukland: Magnolia Press
+ Ketchum H.F. & Benson R.J.B., 2010, "Global interrelationships of Plesiosauria (Reptilia, Sauropterygia) and the pivotal role of taxon sampling in determining the outcome of phylogenetic analyses", Biological Reviews 85: 361-392
+ O’Keefe, F.R., 2002, "The evolution of plesioaur and pliosaur morphotypes in the Plesiosauria (Reptilia: Sauropterygia)", Paleobiology, 28: 101–112
+ Roger B.J. Benson, Mark Evans and Patrick S. Druckenmiller, 2012, "High Diversity, Low Disparity and Small Body Size in Plesiosaurs (Reptilia, Sauropterygia) from the Triassic–Jurassic Boundary", PLoS ONE 7(3): e31838
+ Patrick S. Druckenmiller & Espen M. Knutsen, 2012, "Phylogenetic relationships of Upper Jurassic (Middle Volgian) plesiosaurians (Reptilia: Sauropterygia) from the Agardhfjellet Formation of central Spitsbergen, Norway", Norwegian Journal of Geology 92(2-3): 277-­284
+ Sommige recente analyses geven de sauropterygiërs overigens als Archosauromorpha
+ Rieppel O., 2000, Sauropterygia I. Handbuch der Paläoherpetologie 12A. München: Verlag Dr. Friedrich Pfeil pp 134
+ Cheng Y-N., Wu X-C., Ji Q., 2004, "Chinese marine reptiles gave live birth to young", Nature 423: 383–386
+ Benson, R.B.J. and Druckenmiller, P.S., 2014, "Faunal turnover of marine tetrapods during the Jurassic–Cretaceous transition", Biological Reviews, 89: 1–23
+ Richard Verstegan, 1605, A restitution of decayed intelligence or Nationum Origo, R. Bruney, Antwerpen
+ Lhuyd, E., 1699, Lithophylacii Brittannici Ichnographia, sive Lapidum aliorumque Fossilium Brittanicorum singulari figurà insignium, Londen
+ Evans, M., 2010, "The roles played by museums, collections, and collectors in the early history of reptile palaeontology", pp. 5-31 in: Richard Moody, E. Buffetaut, D. Naish, D.M. Martill (eds). Dinosaurs and Other Extinct Saurians: A Historical Perspective. Geological Society of London
+ Stukely, W., 1719, "An account of the impression of the almost entire sceleton of a large animal in a very hard stone, lately presented the Royal Society, from Nottinghamshire", Philosophical Transactions, 30: 963-968
+ Nicholls, J., 1795, The History and Antiquities of the County of Leicestershire. Volume I, John Nicholls, Londen
+ De la Beche, H.T., and W.D. Conybeare, 1821, "Notice of the discovery of a new animal, forming a link between the Ichthyosaurus and crocodile, together with general remarks on the osteology of Ichthyosaurus", Transactions of the Geological Society of London 5: 559-594
+ Conybeare, W.D., 1822, "Additional notices on the fossil genera Ichthyosaurus and Plesiosaurus", Transactions of the Geological Society of London 2: 103-123
+ Conybeare, W.D., 1824, "On the discovery of an almost perfect skeleton of the Plesiosaurus", Transactions of the Geological Society of London 2: 382-389
+ Taquet, P., 2003, "Quand les reptiles marins anglais traversaient la Manche: Mary Anning et Georges Cuvier, deux acteurs de la découverte et de l’étude des ichthyosaures et des plésiosaures", Annales de Paléontologie 89: 37–64
+ Vincent, P. & Taquet, P., 2010, "A plesiosaur specimen from the Lias of Lyme Regis: the second ever discovered plesiosaur by Mary Anning", Geodiversitas 32: 377–90
+ Hawkins, T.H., 1834, Memoirs on Ichthyosauri and Plesiosauri; Extinct monsters of the ancient Earth, Relfe and Fletcher, London, 58pp
+ Hawkins, T.H., 1840, The Book of the Great Sea-dragons, Ichthyosauri and Plesiosauri, Gedolim Taninum of Moses. Extinct Monsters of the Ancient Earth, W. Pickering, London, 27pp
+ John Edward Gray, 1825, "A Synopsis of the Genera of Reptiles and Amphibia, with a Description of some new Species", Annals of Philosophy (British Museum) 10: 193–217
+ Blainville, H.M.D. de, 1835, "Description de quelques espèces de reptiles de la Californie, précédée de l'analyse d'une système générale d'Erpetologie et d'Amphibiologie", Nouv. Annal. Mus. Hist. Nat. Paris, 4: 233–296
+ Owen, R., 1841, "Description of some remains of a gigantic crocodilian saurian, probably marine, from the Lower Greensand at Hythe and of teeth from the same formation at Maidstone, referable to the genus Polyptychodon", Proceedings of the Geologists’ Association, 3: 449-452
+ Cope, E.D., 1868, [A resolution thanking Dr. Theophilus Turner for his donation of the skeleton of Elasmosaurus platyurus]. Proc. Acad. Nat. Sci. Phil. 20: 314
+ Cope, E.D., 1868, "Remarks on a new enaliosaurian, Elasmosaurus platyurus, Proceedings of the Academy of Natural Sciences of Philadelphia, 20: 92-93
+ Cope, E.D., 1869, "On the reptilian orders Pythonomorpha and Streptosauria", Proceedings of the Boston Society of Natural History XII: 250-266
+ Cope, E.D., 1868, "On a new large enaliosaur", American Journal of Science series 2, 46(137): 263-264
+ Cope, E.D., 1869. Synopsis of the Extinct Batrachia and Reptilia of North America, Part I. Transactions of the American Philosophical Society New Series, 14, pp. 1-235
+ Leidy, J., 1870, "On the Elasmosaurus platyurus of Cope", American Journal of Science series 2, 49(147): 392
+ Cope, E.D., 1870, Synopsis of the extinct Batrachia and Reptilia of North America. Transactions of the American Philosophical Society, New Series 14, pp. 1-252
+ Cope, E.D., 1870, "On Elasmosaurus platyurus Cope", American Journal of Science, series 2, 50(148): 140-141
+ Williston, S.W., 1914, Water Reptiles of the Past and Present. Chicago University Press. Chicago, Illinois. 251 pp
+ Smith, A.S., 2003, Cladistic analysis of the Plesiosauria (Reptilia: Sauropterygia). Masters thesis in palaeobiology, University of Bristol, 91 pp
+ Tarlo, L.B.H., 1959, "Stretosaurus gen nov., a giant pliosaur from the Kimmeridge Clay", Palaeontology 2(2): 39-55
+ Adam Stuart Smith, 2008, "Fossils explained 54: Plesiosaurs", Geology Today 24(2): 71-75
+ Tai Kubo, Mark T. Mitchell & Donald M. Henderson, 2012, "Albertonectes vanderveldei, a new elasmosaur (Reptilia, Sauropterygia) from the Upper Cretaceous of Alberta", Journal of Vertebrate Paleontology 32(3): 557-572
+ Cruickshank, A.R.I., Small, P.G. & Taylor, M.A., 1991, "Dorsal nostrils and hydrodynamically driven underwater olfaction in plesiosaurs", Nature 352: 62-64
+ Buchy, M C., Frey, E. and Salisbury, S.W., 2006, "The internal cranial anatomy of the Plesiosauria (Reptilia, Sauropterygia): evidence for a functional secondary palate", Lethaia, 39(4): 289-303
+ Taylor, M.A., 1981, "Plesiosaurs — rigging and ballasting", Nature, 290: 628-629
+ Henderson, D.M., 2006, "Floating point: a computational study of buoyancy, equilibrium, and gastroliths in plesiosaurs", Lethaia 39: 227–244
+ Seeley, H.G., 1877, "On Mauisaurus gardneri Seeley, an elasmosaurian from the base of the Gault of Folkestone", Quarterly Journal of the Geological Society of London, 33: 541-546
+ Welles, S.P. and J.D. Bump, 1949, "Alzadasaurus pembertoni, a new elasmosaur from the Upper Cretaceous of South Dakota", Journal of Paleontolgy 23(5): 521-535
+ Everhart, M.J., 2000, "Gastroliths associated with plesiosaur remains in the Sharon Springs Member of the Pierre Shale (late Cretaceous), Western Kansas", Kansas Academy of Sciences Transactions 103(1-2): 58-69
+ Persson, P.O., 1963, "A revision of the classification of the Plesiosauria with a synopsis of the stratigraphical and geographical distribution of the group", Lunds Universitets Årsskrift, N. F. Avd. 2 59: 1-60
+ Roger B.J. Benson, Erich M.G. Fitzgerald, Thomas H. Rich & Patricia Vickers-Rich, 2013, "Large freshwater plesiosaurian from the Cretaceous (Aptian) of Australia", Alcheringa: An Australasian Journal of Palaeontology, 37(4): 456-461
+ Massare, J.A., 1992, "Ancient mariners", Natural History 101: 48–53
+ Geister, J., 1998, "Lebensspuren von Meersauriern und ihren Beutetieren im mittleren Jura (Callovien) von Liesberg, Schweiz", Facies, 39(1): 105-124
+ C.R. McHenry, A.G Cook, and S. Wroe, 2005, "Bottom-feeding plesiosaurs", Science 310: 75
+ Chatterjee, S. and Small, B.J., 1989, "New plesiosaurs from the Upper Cretaceous of Antarctica", In: Crame, J.(ed) Origins and Evolution of Antarctic Biota, pp. 197-215, Geological Society Publishing House, London
+ Fraas, E., 1905, "Reptilien und Säugetiere in ihren Anpassungserscheinungen an das marine Leben", Jahresheften des Vereins für vaterländische Naturkunde in Württemberg 29: 347-386
+ Abel, O., 1908, "Die Anpassungsformen der Wirbeltiere an das Meeresleben", Schriften des Vereines zur Verbreitung naturwissenschaftlicher Kenntnisse in Wien, 48(14): 395 – 422
+ Watson, D.M.S., 1924, "The elasmosaurid shoulder-girdle and fore-limb", Proceedings of the Zoölogical Society of London, 1924(2): 885-917
+ Tarlo, L.B., 1957, "The scapula of Pliosaurus macromerus Phillips", Palaeontology 1: 193–199
+ Halstead, L.B., 1989, "Plesiosaur locomotion", Journal of the Geological Society 146: 37-40
+ Robinson, J.A., 1975, "The locomotion of plesiosaurs", Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen 149(3): 286-332
+ Robinson, J.A., 1977, "Intercorporal force transmission in plesiosaurs", Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen, 153(1): 88-128
+ Tarsitano, S. & Riess, J., 1982, "Plesiosaur locomotion — underwater flight versus rowing", Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen 164: 193-194
+ Frey, E. & Reiss, J., 1982, "Considerations concerning plesiosaur locomotion", Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen 164: 188-192
+ Stephen J. Godfrey, 1984, "Plesiosaur subaqueous locomotion: a reappraisal", Neues Jahrbuch für Geologie und Paläontologie 1984(11): 661-672
+ F. Sanders, K. Carpenter, B. Reed, and J. Reed, 2010, "Plesiosaur swimming reconstructed from skeletal analysis and experimental results", Transactions of the Kansas Academy of Science 113(1/2): 1-34
+ Ricardo Araújo and Fernando Correia, 2015, "Soft-tissue anatomy of the Plesiosaur pectoral girdle inferred from basal Eosauropterygia taxa and the extant phylogenetic bracket", Palaeontologia Electronica 18.1.8A: 1-32
+ T. Lingham-Soliar, 2000, "Plesiosaur locomotion: Is the four-wing problem real or merely an atheoretical exercise?", Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen 217: 45-87
+ Sanders, F., Carpenter, K., Reed, B. and Reed, J., 2004, "Plesiosaur swimming reconstructed from skeletal analysis and experimental results", Journal of Vertebrate Palaeontology, 24: 108A-109A
+ Riess, J. and E. Frey, 1991. "The evolution of underwater flight and the locomotion of plesiosaurs", In: J.M.V. Rayner and R.J. Wootton (eds.) Biomechanics in Evolution, Cambridge, England: Cambridge University Press, pp. 131-144
+ In 2015 gemelde voorlopige resultaten van modellering via robotmodellen wezen erop dat het achterste paar in principe ook meer stuwkracht kan opwekken door gebruik te maken van de wervelingen van het voorste paar
+ Long, J. H., Schumaker, J., Livingston, N. and Kemp, M., 2006, "Four flippers or two? Tetrapodal swimming with an aquatic robot", Bioinspiration and Biomimetics, 1: 20-29
+ Luke E. Muscutt, Gareth Dyke, Gabriel D. Weymouth, Darren Naish, Colin Palmer & Bharathram Ganapathisubramani, 2017, "The four-flipper swimming method of plesiosaurs enabled efficient and effective locomotion", Proceedings of the Royal Society B 284: 20170951 DOI: 10.1098/rspb.2017.0951
+ Massare, J.A., 1988, "Swimming capabilities of Mesozoic marine reptiles: implications for methods of predation", Paleobiology 14: 187-205
+ Massare, J.A., 1994, "Swimming capabilities of Mesozoic marine reptiles: a review", In: L. Maddock et al. (eds.) Mechanics and Physiology of Animal Swimming, Cambridge, England: Cambridge University Press pp 133-149
+ Motani, R., 2002, "Swimming speed estimation of extinct marine reptiles: energetic approach revisited", Paleobiology 28: 251-262
+ O'Keefe, F.R., 2001, "Ecomorphology of plesiosaur flipper geometry", Journal of Evolutionary Biology 14: 987-991
+ Rothschild, B.M. & Storrs, G.W., 2003, "Decompression syndrome in plesiosaurs (Sauropterygia: Reptilia)", Journal of Vertebrate Paleontology 23: 324-328
+ Taylor, M.A., 1993, "Stomach stones for feeding or buoyancy? The occurrence and function of gastroliths in marine tetrapods", Philosophical Transactions of the Royal Society of London B 341: 163–175
+ Klein N., 2010, "Long Bone Histology of Sauropterygia from the Lower Muschelkalk of the Germanic Basin Provides Unexpected Implications for Phylogeny", PLoS ONE 5(7): e11613. doi:10.1371/journal.pone.0011613
+ Anna Krahl, Nicole Klein & P Martin Sander, 2013, "Evolutionary implications of the divergent long bone histologies of Nothosaurus and Pistosaurus (Sauropterygia, Triassic)", BMC Evolutionary Biology, 13: 123
+ Jeremy E. Martin, Romain Amiot, Christophe Lécuyer & Michael J. Benton, 2014, "Sea surface temperature contributes to marine crocodylomorph evolution", Nature Communications 5, Article number: 4658 doi:10.1038/ncomms5658
+ Fleischle, Corinna V.; Wintrich, Tanja; Sander, P. Martin, 2018, "Quantitative histological models suggest endothermy in plesiosaurs", PeerJ 6: e4955. DOI:10.7717/peerj.4955
+ Seeley, H.G., 1888, "On the Mode of Development of the Young in Plesiosaurus", Report of the British Association for the Advancement of Science; held at Manchester September, 1887 pp.697-698
+ Seeley, H. G.; 1896; "On a pyritous concretion from the Lias of Whitby which appears to show the external form of the body of embryos of a species of Plesiosaurus", Annual Report of Yorkshire philosophical Society pp.20-29
+ Thulborn, R.A., 1982, "Liassic plesiosaur embryos reinterpreted as shrimp burrows", Palaeontology 25: 351-359
+ O’Keefe, F.R. & Chiappe, L.M., 2011, "Viviparity and K-Selected Life History in a Mesozoic Marine Plesiosaur (Reptilia, Sauropterygia)", Science, 333(6044): 870-873
+ F.R. O’Keefe, H.P. Street, J.P. Cavigelli, J.J. Socha, R.D. O’Keefe, 2009, "A plesiosaur containing an ichthyosaur embryo as stomach contents from the Sundance Formation of the Bighorn Basin, Wyoming", Journal of Vertebrate Paleontology 29: 1306
+ Davide Foffa, Judyth Sassoon, Andrew R. Cuff, Mark N. Mavrogordato & Michael J. Benton, 2014, "Complex rostral neurovascular system in a giant pliosaur", Naturwissenschaften 101(5): 453-456 DOI: 10.1007/s00114-014-1173-3
+ Foffa, D., Sassoon, J., Cuff, A.R., Mavrogordato, M.N. & Benton, M.J.. 2014, "Complex rostral neurovascular system in a giant pliosaur". Naturwissenschaften, 101: 453-456
+ Sassoon, J., Noe, L.F. and Benton, M.J., 2012, "Cranial anatomy, taxonomic implications and palaeopathology of an Upper Jurassic pliosaur (Reptilia: Sauropterygia) from Westbury, Wiltshire, UK", Palaeontology doi: 10.1111/j.1475-4983.2012.01151.x
+Etalagester	Dit artikel is op 20 maart 2013 in deze versie opgenomen in de etalage.
+Categorieën: Uitgestorven reptielenPlesiosauria
+Navigatiemenu
+Niet aangemeld
+Overleg
+Bijdragen
+Account aanmaken
+Inloggen
+ArtikelOverleg
+LezenBewerkenBrontekst bewerkenGeschiedenis
+Doorzoek Wikipedia
+Hoofdpagina
+Vind een artikel
+Vandaag
+Etalage
+Categorieën
+Recente wijzigingen
+Nieuwe artikelen
+Willekeurige pagina
+Informatie
+Gebruikersportaal
+Snelcursus
+Hulp en contact
+Doneren
+Hulpmiddelen
+Links naar deze pagina
+Gerelateerde wijzigingen
+Bestand uploaden
+Speciale pagina's
+Permanente koppeling
+Paginagegevens
+Deze pagina citeren
+Wikidata-item
+Afdrukken/exporteren
+Boek aanmaken
+Downloaden als PDF
+Printvriendelijke versie
+In andere projecten
+Wikimedia Commons
+Wikispecies
+
+In andere talen
+Deutsch
+English
+Español
+Français
+Italiano
+한국어
+Tagalog
+Tiếng Việt
+中文
+Nog 37
+Koppelingen bewerken
+Deze pagina is voor het laatst bewerkt op 14 aug 2022 om 19:21.
+De tekst is beschikbaar onder de licentie Creative Commons Naamsvermelding/Gelijk delen, er kunnen aanvullende voorwaarden van toepassing zijn. Zie de gebruiksvoorwaarden voor meer informatie.
+Wikipedia® is een geregistreerd handelsmerk van de Wikimedia Foundation, Inc., een organisatie zonder winstoogmerk.
+PrivacybeleidOver WikipediaDisclaimersMobiele weergaveOntwikkelaarsStatistiekenCookieverklaringWikimedia FoundationPowered by MediaWiki
+
+Etalagester
+Hendrik Lorentz
+Naar navigatie springenNaar zoeken springen
+Nobelprijswinnaar  Hendrik Antoon Lorentz
+18 juli 1853 – 4 februari 1928
+
+Hendrik Antoon Lorentz voor een collegebord met formules met tensoren uit de algemene relativiteitstheorie. Het boek is mogelijk een deel van zijn leerboek Beginselen der natuurkunde.
+Geboorteland	Nederland
+Geboorteplaats	Arnhem
+Overlijdensplaats	Haarlem
+Nobelprijs	Natuurkunde
+Jaar	1902
+Reden	"Voor hun onderzoek naar de invloed van magnetisme op stralingsfenomenen"
+Samen met	Pieter Zeeman
+Voorganger(s)	Wilhelm Conrad Röntgen
+Opvolger(s)	Henri Becquerel
+Marie en Pierre Curie
+Portaal  Portaalicoon  	Natuurkunde
+
+Plaquette bij zijn geboortehuis Steenstraat 48, Arnhem, 2003.
+
+Lorentz' woonhuis Hooigracht 48, Leiden met dubbele trapgevel en gedenksteen rechts, 1963. Albert Einstein logeerde hier.
+
+Lorentz' elektronentheorie. Formules voor de Lorentzkracht (I) en de Maxwellvergelijkingen voor de divergentie van het elektrisch veld E (II) en het magnetisch veld B (III), La théorie electromagnétique de Maxwell et son application aux corps mouvants, 1892, p. 451.
+
+Lorentz' elektronentheorie. Formules voor de rotatie van het magnetisch veld B (IV) en het elektrisch veld E (V), La théorie electromagnétique de Maxwell et son application aux corps mouvants, 1892, p. 452.
+
+Menso Kamerlingh Onnes: "Hendrik Antoon Lorentz Arnhenensis..." (van Arnhem), met formules voor de Lorentzkracht ("f =..vx/c") op de achtergrond, 1916.
+
+Einstein en Lorentz in Leiden, 1921.
+
+De huldiging van Lorentz bij het gouden (50-jarig) jubileum van zijn academische promotie op 11 december 1925, Hollandsche Maatschappij der Wetenschappen. Plaatselijke politici en vele internationaal bekende natuurkundigen staan op de foto: Marie Curie, Niels Bohr, Arthur Eddington, Willem Keesom, Jean Perrin, Paul Langevin, Paul Ehrenfest, Albert Einstein enzovoorts (zie de identificatie bij doorklikken).[1]
+
+Overlijdensadvertentie H.A. Lorentz, 1928.
+0:35
+Video van de onthulling van een beeldhouwwerk dat Lorentz voorstelt door de kunstenares Corinne Franzén-Heslenfeld op de kraagsteen van een poortje, Leiden, 0:34 seconden, Polygoon Hollands Nieuws 1933.
+
+De Lorentzsluizen bij Kornwerderzand, 2007.
+
+Lorentzkracht F op een deeltje met elektrische lading q en snelheid v in een elektrisch veld E en een magnetisch veld B.
+Hendrik Antoon Lorentz (Arnhem, 18 juli 1853 – Haarlem, 4 februari 1928) was een van Nederlands grootste natuurkundigen en winnaar van de Nobelprijs voor Natuurkunde 1902.[2][3][4] Hij ontving de Nobelprijs samen met Pieter Zeeman voor hun onderzoek naar de invloed van magnetisme op spectraallijnen: het zeemaneffect. Lorentz deed vooral theoretisch onderzoek naar de elektromagnetische eigenschappen van materie: zijn elektronentheorie. Hij kwam tot de veronderstelling dat de afmeting van voorwerpen beïnvloed wordt door hun snelheid (de lorentzcontractie) evenals hun massa. Ook nam hij aan dat de lichtsnelheid de hoogst mogelijke snelheid is. Daarmee legde hij de basis voor de speciale relativiteitstheorie van Albert Einstein. Lorentz was de nestor van de natuurkundigen in zijn tijd: Einstein keek tegen hem op. De lorentzkracht op een stroomvoerende draad of geleider in een magneetveld is naar hem vernoemd, evenals onder meer de lorentztransformatie uit de speciale relativiteitstheorie, de Lorentz-Lorenz-vergelijking voor de brekingsindex en de lorentzverdeling uit de statistiek.
+
+
+Inhoud
+1	Biografie
+1.1	Jonge jaren
+1.2	Hoogleraar in Leiden
+1.3	Internationale erkenning
+1.4	Maatschappelijk actief
+1.5	Buitengewoon hoogleraar en conservator
+1.6	Staatscommissie Zuiderzee
+1.7	Laatste jaren
+1.8	Begrafenis
+2	Werk
+2.1	Licht en elektromagnetisme
+2.2	Elektronentheorie
+2.3	Lorentzcontractie
+3	Erkenning en onderscheidingen
+3.1	Poincaré en Einstein
+3.2	Prijzen
+3.3	Monumenten
+4	Kenschets door Ehrenfest
+5	Zie ook
+6	Publicatielijst (onvolledig)[13]
+7	Promovendi
+8	Naar Lorentz vernoemd
+8.1	Wetenschap
+8.2	Scholen
+8.3	Overig
+9	Literatuurlijst
+10	Artikelen en boeken van Lorentz op internet
+11	Voetnoten
+12	Externe links
+Biografie
+Jonge jaren
+Lorentz – roepnaam Hentje[5][6][7] – kwam uit een familie van bemiddelde tuinders in Arnhem. Zijn vader was Gerrit Frederik Lorentz (1822-1893) en zijn moeder Geertruida van Ginkel (1826-1861). Na de dood van zijn moeder in 1861 hertrouwde zijn vader met Luberta Hupkes (1819/1820-1897). Na afloop van de lagere school ging Lorentz naar de Franse school, de overbrugging tussen de lagere school en de hogereburgerschool (hbs). Vanwege zijn vooropleiding en zijn parate kennis mocht hij in 1866 meteen naar de derde klas van de nieuwe hogereburgerschool aldaar. Hij had hoge cijfers, niet alleen voor exacte vakken, maar ook voor vreemde talen. Lorentz sprak later vloeiend Engels, Frans en Duits, wat hem bij zijn vele internationale contacten goed van pas kwam.
+
+Met een HBS-diploma kon Lorentz destijds niet naar de universiteit. Daarom deed hij staatsexamen in Latijn en Grieks, alvorens in 1870 aan de Rijksuniversiteit Leiden wis-, natuur- en sterrenkunde te gaan studeren bij onder meer de hoogleraren Pieter van Geer, Pieter Rijke en Frederik Kaiser. Na zijn kandidaatsexamen keerde Lorentz in 1872 naar zijn geboorteplaats terug om thuis verder te studeren. Overdag bereidde hij zich voor op zijn doctoraalexamen en het schrijven van een proefschrift, terwijl hij in de avonden les gaf. Tot 1878 gaf hij in Arnhem wiskundeles aan de plaatselijke avondschool. Om wat ouder te lijken dan zijn leerlingen liet Lorentz zijn baard staan.[5]
+
+In 1873, vlak voor zijn twintigste verjaardag, behaalde hij zijn doctoraalexamen wis- en natuurkunde en astronomie. Aansluitend voltooide hij in Arnhem zijn dissertatie. Op 11 december 1875 promoveerde Lorentz summa cum laude op het proefschrift Over de theorie der terugkaatsing en breking van het licht. Hierin verklaarde hij deze verschijnselen voor het eerst vanuit de elektromagnetische theorie van James Maxwell in de interpretatie van Helmholtz.
+
+In 1881 trouwde Lorentz met de latere feministe Aletta Catharina Kaiser (1858-1931), een nicht van de sterrenkundige Frederik Kaiser en dochter van Johann Wilhelm Kaiser, de directeur van het latere Rijksmuseum. Ze kregen twee dochters en een zoon. De oudste dochter Geertruida Luberta (1885-1973) studeerde natuurkunde te Leiden, waar zij bij haar vader promoveerde in 1912. De tweede dochter, Johanna Wilhelmina (1889-....) huwde Hendrik Carel Leemhorst, die later burgemeester van Hoorn zou worden.
+
+Hoogleraar in Leiden
+In 1877 beriep de Universiteit Utrecht Lorentz als hoogleraar wiskunde, maar hij sloeg dit aanbod af: hij dacht privaatdocent aan de universiteit van Leiden te kunnen worden. Door de nieuwe Wet op het Hoger Onderwijs werd naast de leerstoel van professor Rijke een tweede in de natuurkunde ingesteld. Omdat J.D. van der Waals zijn benoeming aan de Gemeentelijke Universiteit van Amsterdam aannam, kwam Lorentz in aanmerking. Zo werd hij in 1878, als een van de eersten in Europa, tot hoogleraar in het nieuwe afzonderlijke vak theoretische natuurkunde benoemd aan de Rijksuniversiteit Leiden. Op 25 januari 1878 hield Lorentz zijn inaugurele rede De moleculaire theorieën in de natuurkunde. Hij was toen pas 24 jaar oud. De rest van zijn leven zou hij aan de universiteit Leiden verbonden blijven. Hij gaf colleges natuurkunde aan onder meer natuur- en geneeskundestudenten en schreef een aantal leerboeken. Ook richtte hij een laboratorium voor studenten in. Toen zijn collega experimentele natuurkunde Kamerlingh Onnes door zwakke gezondheid colleges moest opgeven, nam Lorentz die van hem over.
+
+Van zijn vijfentwintig promovendi (zie de tabel hieronder) werden vooral bekend: Hendrik Bremekamp (promotie in 1905 over lichtvoortplanting in dispergerende middenstoffen), Leonard Ornstein (1908, Gibbs' statistische thermodynamica), Lorentz' dochter Berta (1912, brownse beweging en verwante verschijnselen), Adriaan Fokker (1913, brownse beweging en straling) en Johannes Droste (1916, zwaartekrachtsveld van een of meer lichamen volgens de algemene relativiteitstheorie van Einstein).
+
+Internationale erkenning
+Vanaf 1900 werd Lorentz internationaal bekend in de wetenschappelijke wereld. In 1902 won hij met Pieter Zeeman de Nobelprijs voor Natuurkunde voor onderzoek naar de invloed van magnetisme op de kleuren van het licht van een natriumvlam (zeemaneffect, magnetische splitsing van spectraallijnen). In 1906 gaf hij gastcolleges aan de Columbia University te New York, die in druk bekend werden als The theory of electrons and its applications to the problems of light and radiant heat (De elektronentheorie en haar toepassingen op de vraagstukken van licht en stralende warmte). Later, in de jaren 1920, deed hij op drie tournees diverse Amerikaanse universiteiten aan als gastdocent. Vanaf 1910 was hij organisator en voorzitter van baanbrekende Solvayconferenties over onder meer vroege kwantummechanica met Marie Curie, Albert Einstein, Max Planck, Ernest Rutherford en vele anderen. In 1923 aanvaardde hij de benoeming door de Volkenbond tot secretaris van de Commission internationale de coopération intellectuelle (CICI), onder voorzitterschap van de Franse filosoof Henri Bergson. In 1925 werd Lorentz voorzitter. Hij spande zich in om de samenwerking tussen onderzoekers uit de landen die elkaar na de Eerste Wereldoorlog boycotten te herstellen. In Nederland werkte Lorentz in 1918 mee aan de oprichting van de Wetenschappelijke Commissie van advies en onderzoek in het belang van volkswelvaart en weerbaarheid, een voorloper van de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO).[8]
+
+Maatschappelijk actief
+Politiek was Lorentz actief binnen de Vrijzinnig-Democratische Bond, terwijl de sociale kwestie en de volksopvoeding zijn levendige belangstelling hadden: in 1910 werd op zijn initiatief de eerste openbare bibliotheek van Leiden gesticht. Hij gaf graag populaire lezingen over natuurkunde voor belangstellenden.
+
+Lorentz was voorzitter van de Onderwijsraad, afdeling hoger onderwijs van 1921 tot 1926, en drukte zijn stempel op de verdeling van leerstoelen en het nieuwe Academisch Statuut. Voor zijn internationale rol als verzoener was het voorzitterschap (1906-1921) van de sectie natuurkunde van de Akademie van Wetenschappen van belang.
+
+Buitengewoon hoogleraar en conservator
+In 1912 ging Lorentz vervroegd met emeritaat als gewoon hoogleraar. Hij werd conservator/curator van het Fysisch Kabinet bij Teylers Museum in Haarlem, waar hij de beschikking kreeg over een eigen natuurkundig onderzoekslaboratorium. Hier bereidde hij vooral demonstraties voor voor zijn publieke lezingen die plaatsvonden in het auditorium.[9] Wel bleef hij, nu als buitengewoon hoogleraar, zijn "maandagochtendcolleges" geven in Leiden. Paul Ehrenfest volgde hem op als gewoon hoogleraar theoretische natuurkunde, en stichtte het instituut voor theoretische natuurkunde aan de Universiteit Leiden, dat nu het Instituut-Lorentz heet.
+
+Vanaf 1920 trad Lorentz ook op als secretaris van de Hollandsche Maatschappij der Wetenschappen te Haarlem, die particuliere investeringen in de wetenschap organiseerde.
+
+Staatscommissie Zuiderzee
+Na zijn emeritaat werkte Lorentz van 1918 tot 1926 mee aan plannen voor de drooglegging van de Zuiderzee. Hij stelde de golfvergelijking op, waarmee de waterhoogtes - en daarmee benodigde dijkhoogtes - na afsluiting door de Afsluitdijk voorspeld konden worden. Hij leidde de Staatscommissie Zuiderzee (ook wel "Commissie Lorentz" genoemd).
+
+Dit was in die tijd geen eenvoudige opdracht. Acht jaar lang hield Lorentz zich bezig met dit probleem. Hij stelde voor het probleem van de waterhoogten op te lossen met numerieke wiskunde. De bewegingsvergelijkingen voor water moesten opgelost worden voor de geulen. Het werk van deze commissie is van grote betekenis geweest voor het waterloopkundig onderzoek in Nederland. De door hem ontwikkelde methode voor getijberekeningen was de basis voor moderne numerieke rekenmodellen. Na voltooiing van de Afsluitdijk in 1933 bleken de voorspellingen van de commissie grotendeels juist. De Lorentzsluizen zijn naar hem vernoemd.
+
+Laatste jaren
+Tot op het eind van zijn leven stelde Lorentz collega's niet teleur als deze benieuwd waren naar "wat Lorentz ervan vond". Op 4 februari 1928 overleed hij op 74-jarige leeftijd aan een belroosinfectie met koortsaanvallen.
+
+Begrafenis
+Hij werd onder massale belangstelling en aanwezigheid van tal van collega-wetenschappers en hoogwaardigheidsbekleders[10] begraven op Begraafplaats Kleverlaan in Haarlem. Er werden zelfs extra treinen ingezet om alle deelnemers aan de begrafenis ter plekke te krijgen.[11]
+
+Werk
+Licht en elektromagnetisme
+In zijn promotieonderzoek toonde Lorentz voor het eerst aan dat de elektromagnetische theorie van James Maxwell de regels van lichtbreking en -terugkaatsing minstens zo goed kon verklaren als de rivaliserende theorie van Augustin Jean Fresnel. Bovendien had de theorie van Maxwell het voordeel dat deze transversale golven toestond. Lorentz kon in 1875 de kleurschifting van het licht verklaren en in 1878 het verband tussen dichtheid van een stof en zijn brekingsindex: de Lorentz-Lorenz-formule.
+
+Elektronentheorie
+De oorspronkelijke wetten van Maxwell konden niet verklaren waarom stoffen zo sterk verschillen in hun optisch gedrag. Lorentz wel, door combinatie van zijn kennis van Maxwells werk en de moleculaire theorie van Boltzmann. Tussen 1892 en 1895 werkte hij de eerste vorm uit van wat later bekend werd als de elektronentheorie van Lorentz. Optische eigenschappen van stoffen voerde hij terug op elektrische eigenschappen van atomen en moleculen. Deze bevatten volgens Lorentz gelijke ladingsdragers, de elektronen, die harmonisch trillen door invallende straling. Aanvankelijk noemde Lorentz ze in aansluiting op de toen nieuwe scheikundige terminologie nog "ioonen". Lorentz omschreef ze als "uiterst kleine deeltjes, geladen met elektriciteit, die in geweldige aantallen binnen alle ponderabele stof aanwezig zijn, en door welker verdeling en beweging wij alle elektrische en optische verschijnselen die niet beperkt zijn tot de vrije ether trachten te verklaren." (ponderabele stof = stof met massa, in tegenstelling tot de massaloze ether.)
+
+In de theorie van Lorentz bevonden de elektronen en andere ladingsdragers zich in de overal eendere ether die in absolute rust verkeert. Voor de lichtvoortplanting door de ether gelden de wetten van Maxwell, en de ether en de geladen deeltjes werken op elkaar in via een elektromagnetische kracht die naar hem werd vernoemd, de lorentzkracht (Lorentz noemde die zelf de ponderomotorische kracht). Met kathodestraalbuizen kan de lorentzkracht gedemonstreerd worden.
+
+Een van de voorspellingen van Lorentz was dat in een magnetisch veld de spectraallijnen van atomen zich zouden moeten splitsen. Deze splitsing werd in experimenteel werk van Pieter Zeeman inderdaad aangetroffen, en voor deze ontdekking ontvingen Lorentz en Zeeman in 1902 gezamenlijk de Nobelprijs "in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena" (vertaling: als blijk van erkenning voor de buitengewone dienst die zij verleenden door hun onderzoek naar de invloed van magnetisme op stralingsverschijnselen).
+
+Lorentzcontractie
+De manier waarop licht zich voortplant door de ether stond eind 19e eeuw zeer in de belangstelling. Men dacht dat de snelheid van het licht, als dat reist door dit veronderstelde medium, op de snel door de ether bewegende Aarde in verschillende richtingen een verschillende waarde zou hebben. Zoals bleek uit het interferometer-experiment van Albert Michelson en Edward Morley, was dit echter niet het geval. De lichtsnelheid bleek in alle richtingen precies gelijk te zijn. Dit betekende een paradigmaverschuiving, omdat daaruit bleek dat licht zich heel anders gedroeg dan geluid, waarover in die tijd al veel meer bekend was. Nog steeds is het gegeven dat de lichtsnelheid altijd constant is moeilijk te begrijpen en leidt het ogenschijnlijk tot de vreemdste paradoxen.
+
+Lorentz ontwikkelde om dit experiment te begrijpen het begrip van lokale tijd. Hij stelde ook voor dat lichamen die de snelheid van het licht benaderen, zich samentrekken (korter worden). Dit wordt aangeduid met de term lorentzcontractie. In de vergelijkingen van Maxwell diende op bepaalde plaatsen een factor
+
+{\displaystyle \gamma ={\frac {1}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}}\gamma ={\frac  {1}{{\sqrt  {1-{\frac  {v^{2}}{c^{2}}}}}}}
+te worden toegevoegd, waarbij v de snelheid van het voorwerp is, en c de lichtsnelheid.
+
+Lorentz zag de lokale tijd die hij ontwikkelde als een puur wiskundige manier om de natuurkundige experimenten te beschrijven. Uit de lorentzcontractie kon hij de conclusie trekken dat de lichtsnelheid de bovenste grens is van alle materiële snelheden. Met deze inzichten stond Lorentz aan de basis van de relativiteitstheorie, die ten volle door Albert Einstein werd ontwikkeld.
+
+Erkenning en onderscheidingen
+Poincaré en Einstein
+Internationaal brak Lorentz door met zijn elektronentheorie en lorentztransformaties. De Franse wis- en natuurkundige Henri Poincaré schreef in 1902:
+
+De meest bevredigende theorie is die van Lorentz, die zonder twijfel het best de bekende feiten verklaart... dankzij Lorentz zijn de resultaten van Fizeau voor de optica van bewegende lichamen, de wetten van normale en abnormale dispersie en van absorptie met elkaar in verband gebracht... Merk op hoe gemakkelijk het nieuwe Zeeman-verschijnsel werd opgenomen, en zelfs hielp bij de indeling van Faradays magnetische rotatie, die alle pogingen van Maxwell had weerstaan.
+
+— Poincaré, 1902
+Het respect dat Lorentz genoot wordt treffend tot uitdrukking gebracht door O.W. Richardsons beschrijving van Lorentz' begrafenis in 1928:
+
+De begrafenis vond plaats op vrijdag, 10 februari, in Haarlem. Klokslag 12 uur werden bij wijze van eerbetoon de telegraaf- en telefoondiensten in Nederland drie minuten stilgelegd. Sir Ernest Rutherford hield een toespraak namens de British Royal Society.
+Lorentz was een vaderfiguur voor Albert Einstein. Deze verklaarde de relatief beperkte roem van Lorentz als volgt:
+
+De natuurkundigen van de jongere generatie zijn zich meestal niet meer ten volle bewust van de beslissende rol, die H.A. Lorentz speelde bij de vorming van de fundamentele ideeën van de theoretische natuurkunde. Dit wonderlijke feit berust hierop, dat de grondslag van Lorentz' ideeën hun zozeer vlees en bloed geworden is, dat zij nauwelijks nog in staat zijn zich voor te stellen hoe vermetel deze ideeën waren en hoever ze het natuurkundig fundament vereenvoudigden. [...] Voor mij betekende hij meer dan alle anderen die ik op mijn levensweg ontmoette.
+
+— Einstein, 1953
+Prijzen
+Lorentz heeft vele prijzen ontvangen voor zijn belangrijke werk. Met Pieter Zeeman ontving hij in 1902 de Nobelprijs voor Natuurkunde. Hij werd in 1905 gekozen tot lid van de Royal Society, en hij ontving van dit Wetenschappelijk genootschap de Rumford Medal in 1908 en de Copley Medal in 1918.
+
+Monumenten
+
+Borstbeeld van Lorentz aan het Lorentzplein in Haarlem
+
+Monument van Lorentz en andere natuurwetenschappers in het Sonsbeek park in Arnhem.
+In het Arnhemse park Sonsbeek staat een monument voor Lorentz, vervaardigd door Oswald Wenckebach, op 9 september 1931 onthuld door prinses Juliana.
+
+In Leiden kent het Kamerling Onnesgebouw (KOG) aan de Steenschuur een collegezaal met de naam Lorentzzaal en een toegang met de naam Lorentzpoort. Op een kraagsteen boven de poort is een muurbeeld van Lorentz aangebracht, staande boven de vleugels van een uil, van de hand van de beeldhouwer Corinne Franzén-Heslenfeld. Het beeld werd onthuld in 1935 aan de zijde Langebrug. Bij een verbouwing in 1967 werd het poortje met beeld verplaatst naar de zijde Zonneveldstraat. De historische collegezaal de Lorentzzaal is in 2004 in oude luister hersteld. Het pand Hooigracht 48a, waar het gezin Lorentz woonde tot het in 1912 naar Haarlem verhuisde, draagt een gevelsteen met het opschrift LORENTZ.
+
+
+Gevelsteen op het voormalige woonhuis van Lorentz aan het Lorentzplein in Haarlem.
+In Haarlem, waar hij woonde van 1912 tot 1928, staat een standbeeld van Lorentz aan het Lorentzplein. Op de gevel van het huis Lorentzplein 6 in Haarlem, waar Lorentz zijn laatste levensjaren doorbracht, (voorheen Julianastraat 49) is een gedenksteen aangebracht.
+
+Een omvangrijk multifunctioneel gebouw nabij het Centraal Station van Leiden, waarvan een eerste fase in gebruik werd genomen in 2019, heeft de naam Lorentz Leiden.
+
+Kenschets door Ehrenfest
+Beeldhouwer Oswald Wenckebach vroeg Paul Ehrenfest (Lorentz' opvolger als hoogleraar theoretische natuurkunde in Leiden) om een beschrijving van Lorentz als docent ter inspiratie voor het Lorentzmonument in Sonsbeek:[12]
+
+Enkele minuten voor aanvang komt hij de collegekamer binnen. Zijn komst brengt het samenzijn in een aangenaam vriendschappelijke stemming. Ieder weet zich persoonlijk begroet. Terwijl we een voor een binnenkomen en onze plaatsen opzoeken informeert Lorentz bij de een naar de ziekte van een familielid, geeft de ander een beloofde berekening of uitkomst, wenst een student geluk met zijn examen of met zijn verloving en maakt noodzakelijke afspraken. Zonder zich te haasten en toch op tijd begint hij zijn college. Aan de hand van zorgvuldig in het aantekenboekje-met-hard-kaft genoteerde aantekeningen recapituleert hij kort de symbolen, begrippen en vergelijkingen van het vorige college en stipt aan hoe hij verder wil gaan. Karakteristiek beeld: op de achtergrond het grote matzwarte bord met daarop in het duidelijke, overzichtelijke handschrift van Lorentz formules en een enkele term. [...] Zijn ogen zijn dan op de een gericht, dan op de ander, maar nooit op niemand. De oogopslag, de lichte beweging van hoofd en bovenlichaam, ook het spelen van de vingers met het krijtje - bij elkaar onderstrepen ze het gesprokene. [...] Bijzonder kalm en mooi. Zwarte, onopvallende en kraakschone kleding, enigszins uit de mode. Witte kraag, witte manchetten, magere vingers met knokkels, altijd met iets spelend. Het lichaam, broos maar gezond, wonderbaarlijk onvermoeibaar.
+
+Zie ook
+Lorentzfactor
+Lorentzkracht
+Lorentzmedaille
+Lorentzsluizen
+Lorentztransformatie
+Lorentzverdeling
+Relativiteitstheorie
+Wetten van Maxwell
+Edward Lorenz
+Publicatielijst (onvolledig)[13]
+1875 - Over de theorie der terugkaatsing en breking van het licht / Sur la théorie de la réflection et de la réfraction de la lumière (proefschrift Universiteit Leiden), Arnhem: K. van der Zande
+1878 - De moleculaire theorieën in de natuurkunde (inaugurele rede uitgesproken op 25 januari 1878)
+1878 - Over het verband tusschen de voortplantingssnelheid van het licht en de dichtheid en samenstelling der middenstoffen, Uitgegeven door de Koninklijke Akademie van Wetenschappen te Amsterdam, Amsterdam Chez C.G. van der Post 1878
+1882 - Leerboek der differentiaal- en integraalrekening en van de eerste beginselen der analytische meetkunde met het oog op de toepassingen in de natuurwetenschap, Brill, Leiden
+1886 - De l'influence du mouvement de la terre sur les phénomènes lumineux
+1888 - Beginselen der natuurkunde, Brill, Leiden (twee delen, later met L. H. Siertsema, leerboek, 1929 negende drukken van deel 1, 470 blz. en deel 2)
+1890 - Über die Grundlagen der Elektrodynamik bewegter Körper., Ann. Phys. Chem. 15, 478-480, 1890
+1892 - La théorie electromagnétique de Maxwell et son application aux corps mouvants, Archives néerlandaises des Sciences exactes et naturelles
+1895 - Versuch einer Theorie der elektrischen und optischen Erscheinungen in bewegten Körpern, E.J. Brill, Leiden
+1899 - Théorie simplifiée des phénomènes électricques et optiques dans des corps en mouvement / Simplified Theory of Electrical and Optical Phenomena in Moving Systems, Proc. Acad. Science Amsterdam, vol. 1, 1899, 427–442
+1900 - Considerations on Gravitation, Proc. Acad. Science Amsterdam, vol 2, 559–574, 1900
+1901 - Zichtbare en onzichtbare bewegingen bij de Digitale Bibliotheek voor de Nederlandse Letteren (dbnl), Zichtbare en onzichtbare bewegingen. Voordrachten op uitnodiging van het Departement Leiden der Maatschappij tot Nut van ´t Algemeen in februari en maart E.J. Brill, Leiden, 173 pp.
+1904 - Electromagnetic phenomena in a system moving with any velocity smaller than that of light, Proc. Acad. Science Amsterdam, vol 6, 1904, 809–831
+1909 - The theory of electrons and its applications to the phenomena of light and radiant heat; a course of lectures delivered in Columbia university, New York, in March and April 1906, New York, Columbia University Press, 1909/1916
+1910 - Sichtbare und unsichtbare Bewegungen (vertaling van Zichtbare en onzichtbare bewegingen)
+1913 - met Minkowski, H. en Einstein, Albert: Das Relativitätsprinzip, eine Sammlung von Abhandlungen, Serie: Fortschritte der mathematischen Wissenschaften in Monographien, hft. 2., B.G. Teubner, Leipzig Berlin
+1917 - On Einstein's Theory of gravitation, Proc. Acad. Science Amsterdam, vol 19 II, pags 1341–1354, 1917
+1918 - Beginselen der natuurkunde, 2 delen, herdruk sinds 1893
+1919 - Theorie der quanta, 1916-1917. Bewerkt door G.L. de Haas-Lorentz
+1919 - De zwaartekracht en het licht. Een bevestiging van Einsteins Gravitatietheorie, Nieuwe Rotterdamsche Courant, 13 november 1919
+1919-1926 - Lessen over theoretische natuurkunde aan de Rijks-Universiteit te Leiden gegeven door H.A. Lorentz, 8 delen, Brill, Leiden, onder meer I. Stralingstheorie (1910-1911) bewerkt door A.D. Fokker, Leiden: Brill, 1926, 75 pp. II. Theorie der Quanta (1916-1917) bewerkt door G.L. de Haas-Lorentz. Leiden : Brill, 1919, 153 pp. III: Aethertheorieën en aethermodellen (1901-1902) bewerkt door H. Bremekamp. Leiden : E.J. Brill, 1919-1920, 75 pp. IV. Thermodynamica bewerkt door T.C. Clay-Jolles, Leiden : Brill 1921. V. Kinetische problemen (1911-1912) bewerkt door E.D. Bruins en J. Reudler. Leiden : Brill, 1921. VI. Het relativiteitsbeginsel voor eenparige translaties (1910-1912) bewerkt door A.D. Fokker, Leiden: Brill, 1922. VII. Entropie en waarschijnlijkheid (1910-1911) bewerkt door C.A. Crommelin. Leiden : Brill, 1923. VIII. De Theorie van Maxwell (1900-1902) bewerkt door dr. H. Bremekamp, Leiden: Brill, 1925, 8 + 200 pp.
+1920 - De electronentheorie. Voordrachten, gehouden in Teyler's Stichting in October 1918. Bewerkt door W.H. Keesom.
+1922 - Problems of modern physics. Lecture notes, ed. Harry Bateman, California Institute of Technology. Herdruk Dover Publications, 1967
+1923 met A. Einstein, H.A. Lorentz, H. Weyl, H. Minkowski (notes by A. Sommerfeld) - The Principle of Relativity. A collection of original papers on the special and general theory of relativity, latere herdruk Dover Publications, Inc., 216pp (Dover uitgave)
+1926 met Went, F.; Keesom, W.H; Haas, W.J. - In memoriam Heike Kamerlingh Onnes. 21 september 1853 - 21 februari 1926, Leiden, Eduard Ijdo, 1926, 129 pp.
+1926 - The quantum theory. Present day problems and outstanding questions of the quantum theory. Notes accompanying lectures delivered by Professor H.A. Lorentz at Cornell University, fall term 1926
+1926 - Verslag van de staatscommissie Zuiderzee 1918-1926[14]
+1927-1931 - Lectures on Theoretical Physics (vol. I-III), New York, Macmillan & Co.
+1935-1939 - Collected Papers, ed. P. Zeeman and A.D. Fokker, Den Haag, 9 delen
+1997 - On the theory of the reflection and refraction of light. Translated and edited by N.J.Nersessian & H.F.Cohen, W.portr. A'dam 1997, vi,xi,186 pp. [Vertaling in het Engels van Lorentz' proefschrift Over de theorie der terugkaatsing en breking van het licht / Sur la théorie de la réflection et de la réfraction de la lumière (proefschrift Universiteit Leiden, 1875), Arnhem: K. van der Zande]
+Promovendi
+Alle 25 onderstaande promoties met Lorentz als promotor waren aan de Rijksuniversiteit Leiden.[15] Opmerkelijk voor die tijd zijn de promoties van de vier dames Johanna Reudler (1912), Geertruida Luberta (de Haas-)Lorentz (Lorentz' dochter Berta, 1912), Eva Dina Bruins (1918), en Hendrika Johanna van Leeuwen (1919).[16]
+
+Promovendus	Proefschrift	Jaar
+#afstammelingen[15]
+Bockwinkel, H. A. B.	Van de stralingsverschijnselen in bewogen stelsels	1907
+Bremekamp, Hendrik	Beschouwingen over de lichtvoortplanting in dispergerende middenstoffen, 108 pp.	1905 258
+Bruins, Eva Dina	Vraagstukken uit de theorie van het magnetisme	1918
+Couvée, J. E.	Eenige beschouwingen over de voortplanting van golfstelsels	1887
+de Haas-Lorentz, Geertruida Luberta	Over de theorie van de Brown'schen beweging en daarmede verwante verschijnselen	1912
+Droste, Johannes	Het zwaartekrachtsveld van een of meer lichamen volgens de theorie van Einstein	1916 214
+Evers, Evert Jan	Over de kracht, die een vloeistofstroom in sommige gevallen loodrecht
+op zijne richting op een medegesleept lichaam uitoefent	1897
+Fokker, Adriaan Daniel	Over Brown'sche bewegingen in het stralingsveld,
+en waarschijnlijkheidsbeschouwingen in de stralingstheorie	1913 1
+Frowein, Pieter Coenraad Frederik	Dissociatie van kristalwaterhoudende zouten	1887
+Houba, Mattheus Jacobus Hubertus	Over de stroming van vloeistoffen door buizen✎ EditSign, 100 pp + Stellingen	1883
+Los, H.C.	De voorplantingssnelheid van het geluid in dampen	1897
+Ornstein, Leonard Salomon	Toepassing der Statistische Mechanica van Gibbs op molekulair-theoretische vraagstukken	1908 456
+Reudler, Johanna	Over de warmtestraling in ruimten van verschillenden vorm	1912
+Thierry, Daniël Raymond	Over de toepassing van het theorema van Fourier in de theorie der buigingsverschijnselen.	1900
+Tiddens, Pieter Gerlof	Beschouwingen over den loop der lichtstralen en de beeldvorming in optische stelsels	1904
+van den Berg, Willem	Vraagstukken uit Einstein's gravitatietheorie, 71 pp.	1921
+van der Kamp, H.	Ponderomotorische krachten in het electromagnetische veld	1897
+van Leeuwen, Hendrika Johanna	Vraagstukken uit de electronentheorie van het magnetisme	1919
+van Loghem, Willem	Theorie der terugkaatsing van het licht door magneten	1883
+van Rijn van Alkemade,
+Abraham Cornelis	Over de elliptische polarisatie bij de terugkaatsing van het licht door doorschijnende middenstoffen	1882
+van Slingelandt, Johannes	Fluctuaties bij electrische en optische verschijnselen	1919
+Verrijp, D.P.A.	Het interferentievlak bij de ringen van Newton en bij eenige andere verschijnselen	1902
+Vollgraff, Johan Adriaan	Electromagnetische draaiingen en unipolaire inductie	1903
+Was, Edward August Otto	Het beginsel van Doppler in de geluidsleer	1881
+Winter, August	Bijdrage tot de ionentheorie	1906
+Naar Lorentz vernoemd
+Wetenschap
+Lorentzcontractie oftewel lengtecontractie
+Lorentzgroep, de groep van alle Lorentztransformaties
+Lorentzinvariantie
+Lorentzkracht
+Lorentztransformatie
+Lorentz-variëteit (begrip uit de differentiaalmeetkunde)
+Lorentz-verdeling (statistiek)
+De KNAW Lorentzmedaille wordt sinds 1927 om de vier jaar uitgereikt aan onderzoekers die uitzonderlijke prestaties hebben geleverd op het gebied van de theoretische natuurkunde. De Akademie heeft de Lorentzmedaille in 1925 ingesteld, bij gelegenheid van het gouden jubileum van de promotie van Lorentz. Lorentz was lid van de Akademie en vervulde er diverse bestuursfuncties.
+Instituut-Lorentz voor theoretische natuurkunde, Universiteit Leiden
+Lorentz (krater), maankrater (coördinaten 32,6°NB, 95,3°WL, doorsnede 312 km, diepte 4,45 km)
+Scholen
+openbare basis- en Daltonschool Lorentzschool, Hilversum
+Openbare basisschool Lorentzschool, Leiden
+Lorentz Casimir Lyceum in Eindhoven
+Lorentz Lyceum, Arnhem
+Lorentzlyceum, Haarlem thans Het Schoter
+Overig
+Lorentzsluizen in de Afsluitdijk bij Kornwerderzand
+Lorentz, een nieuwbouwproject bij het Centraal Station Leiden, 2019[17]
+Treinstel 10365, waarmee Arriva in de Achterhoek rijdt, draagt de naam 'Hendrik Antoon Lorentz'
+Literatuurlijst
+Berends, Frits: Verhalen rond een foto. Lorentz’ gouden doctoraat: een huldiging zonder weerga, Koninklijke Hollandsche Maatschappij der Wetenschappen, Haarlem, z.j., khmw.nl verhalen_rond_een_foto.pdf✎ EditSign
+Berends, Frits en van Delft, D.: Lorentz: gevierd fysicus, geboren verzoener, Prometheus, Amsterdam 2019, 728 pp. ISBN 9789044642667
+(en) van Berkel, K., Albert van Helden en L.C. Palm: A history of science in The Netherlands. Survey, themes and reference, Martinus Nijhoff/Brill 686 p, Leiden 1999
+van Berkel, K.: In het voetspoor van Stevin. Geschiedenis van de natuurwetenschap in Nederland 1580-1940, Boom, Amsterdam/Meppel. 229 p. 1985, 2000[18]
+(de) Einstein, A.: H.A. Lorentz als Schöpfer und als Persönlichkeit, Rijksmuseum voor de geschiedenis der natuurwetenschappen, Leiden 1953
+Fokker, A.D.: Prof. Dr H.A. Lorentz, in (zie onder): Sevensma, T.P. (ed.): Nederlandsche helden der wetenschap. Levensschetsen van negen Nobelprijswinnaars. Hoogtepunten van wetenschappelijken arbeid in Nederland, N.V. Uitgeversmaatschappij Kosmos, Amsterdam 1946, p. 51
+(en) de Haas-Lorentz, G.L., ed.: H.A. Lorentz. Impressions of his life and work, North-Holland Pub. Co., Amsterdam 1957
+Hiroshige, T.: Electrodynamics before the theory of relativity, 1890-1905, in: Japanese Studies in the History of Science, no. 5 1966 1-49
+Hiroshige, T.: Origins of Lorentz' Theory of Electrons and the Concept of the Electromagnetic Field, in: Historical Studies in the Physical Sciences, 1 (1969), 151 - 209
+(en) Janssen, M. en Kox, A.J.: Lorentz, Hendrik Antoon, in New Dictionary of Scientific Biography, vol. 4 (Complete Dictionary of Scientific Biography, 22) pp. 333–336, Charles Scribner’s Sons, Detroit 2008
+Kox, A.J. en Chamalaun, M., eds.: Van Stevin tot Lorentz. Portretten van achttien Nederlandse natuurwetenschappers, Intermediair, Amsterdam 1980, 270 pp.
+Kox, A.J.: Hendrik Antoon Lorentz. Een levend kunstwerk, natuurkundige 1853-1928, uitgeverij Balans, Amsterdam 2019 (ISBN 9789463820677)
+(en) Kox, A.J., ed.: The scientific correspondence of H.A. Lorentz, Volume 1, XXIV + 777 blz., Sources and Studies in the History of Mathematics and Physical Sciences, ISBN 978-1-4419-2671-5 (zacht kaft), Springer-Verlag New York 2009
+(en) Kox, A.J., ed.: The scientific correspondence of H.A. Lorentz, Volume 2, the Dutch Correspondents, XX + 867 blz., Sources and Studies in the History of Mathematics and Physical Sciences, ISBN 978-3-030-07992-5 (zacht kaft), Springer-Verlag New York 2018
+(de) Krafft, F. (ed.): Lexikon großer Naturwissenschaftler, Fourier Verlag, Weinheim 1999
+(en) McCormmach, R.: H.A. Lorentz, in Dictionary of Scientific Biography, ed. Ch. C. Gillespie, New York 1970-1976
+Muller, J.M.: Inventaris van het archief van prof. dr. H.A. Lorentz (1853-1928) 1866-1930, Algemeen Rijksarchief, Den Haag 1982, XIII + 290 pp.
+(en) Nersessian, Nancy J., Why wasn't Lorentz Einstein? An Examination of the Scientific Method of H. A. Lorentz, in Centaurus. International Magazine of the history of Mathematics, Science, and Technology, 29, 1986, p. 205-242. John Wiley & Sons, New York
+Rispens, Sybe Izaak: Einstein en Lorentz, in Einstein in Nederland. Een intellectuele biografie, Ambo/Anthos uitgevers, Amsterdam 2006, p. 53-92
+Schaffner, K.: Interaction of Theory and Experiment in the Development of Lorentz' Contraction Hypothesis, in: Actes du XIIe Congrès international de l'histoire des sceinces, 1968, V 87-90
+Sevensma, T.P. (ed.): Nederlandsche helden der wetenschap. Levensschetsen van negen Nobelprijswinnaars. Hoogtepunten van wetenschappelijken arbeid in Nederland, N.V. Uitgeversmaatschappij Kosmos, Amsterdam 1946, p. 51 [19]
+Theunissen, Bert: Kennis als cultuur. Lorentz' visie op wetenschap, in: Bert Theunissen, Nut en nog eens nut. Wetenschapsbeelden van Nederlandse natuuronderzoekers 1800-1900, Verloren B.V. uitgeverij, Hilversum 2000
+Willink, Bastiaan: De Tweede Gouden Eeuw. Nederland en de Nobelprijzen voor de natuurwetenschappen 1870-1940, Bert Bakker, Amsterdam 1998[20]
+Willink, Bastiaan: hoofdstuk Hoger onderwijs en natuurwetenschappen in: Jan Bank en Maarten van Buuren: 1900. Hoogtij van de burgerlijke cultuur, Sdu Uitgevers, Den Haag 2000[21]
+Whittaker, Edmund Taylor: A history of the theories of aether and electricity : from the age of Descartes to the close of the nineteenth century, 1910, London ; New York : Longmans, Green, volume 1. The classical theories, volume 2. The modern theories, 1900-1926
+Artikelen en boeken van Lorentz op internet
+ilorentz.org Ingescande publicaties van H.A. Lorentz
+archive.org andere scan Lorentz, Hendrik Antoon (1892a), "La Théorie electromagnétique de Maxwell et son application aux corps mouvants", Archives Néerlandaises des Sciences Exactes et Naturelles, 25: 363–552
+ilorentz.org Ingescande proefschriften van promovendi van Lorentz
+36 artikelen zijn op internet te raadplegen op dwc.knaw.nl Proceedings of the Royal Netherlands Academy of Arts and Science, Amsterdam:
+Simplified Theory of Electrical and Optical Phenomena in Moving Systems✎ EditSign (1899), Proc. Acad. Science Amsterdam, vol. 1, pags 427–442
+Considerations on Gravitation✎ EditSign (1900), Proc. Acad. Science Amsterdam, vol 2, pags 559–574
+Electromagnetic phenomena in a system moving with any velocity smaller than that of light✎ EditSign (1904), Proc. Acad. Science Amsterdam, vol 6, pags 809–831
+On Einstein's Theory of gravitation✎ EditSign (1917), Proc. Acad. Science Amsterdam, vol 19 II, pags 1341–1354
+gutenberg.org Project Gutenberg
+wikisource Versuch einer Theorie der electrischen und optischen Erscheinungen in bewegten Körpern, E.J. Brill, Leiden, 1895 (wikisource)
+archive.org The theory of electrons and its applications to the phenomena of light and radiant heat; a course of lectures delivered in Columbia university, New York, in March and April 1906, New York, Columbia University Press, 1909/1916
+archive.org Lectures on Theoretical Physics (vol. I-III), New York, Macmillan & Co., 1927-1931
+Teksten van en over Lorentz online bij de Digitale Bibliotheek voor de Nederlandse Letteren (dbnl)
+Voetnoten
+ Berends, Frits: Verhalen rond een foto. Lorentz’ gouden doctoraat: een huldiging zonder weerga, Koninklijke Hollandsche Maatschappij der Wetenschappen, Haarlem, z.j., khmw.nl verhalen_rond_een_foto.pdf✎ EditSign
+ (en) de Haas-Lorentz, G.L., ed.: H.A. Lorentz. Impressions of his life and work, North-Holland Pub. Co., Amsterdam 1957
+ Kox, A.J.: Hendrik Antoon Lorentz. Een levend kunstwerk, natuurkundige 1853-1928, uitgeverij Balans, Amsterdam 2019 (ISBN 9789463820677, 316 pagina's.)
+ Berends, Frits en van Delft, Dirk: Lorentz: gevierd fysicus, geboren verzoener, Prometheus, Amsterdam 2019 (ISBN 9789044642667, 725 pagina's.)
+ Leo Beek, Pioniers van de Wetenschap. Veen Media, blz. 101. ISBN 978-9085714811.
+ Berends en van Delft 2019, p. 27, fotobijschrift tweede pagina na p. 80
+ Kox 2019, p. 16
+ Koninklijk Besluit van 20 februari 1918 nummer 52
+ Calmthout, M. van, J. Reumer, Nobel op de kaart (2014), “Hendrik Lorentz”, blz.94/95. ISBN 978-908803044-4.
+ Foto en krantenartikel begrafenis Lorentz, De Telegraaf 9-2-12928
+ Extra trein vanuit Leiden voor de begrafenis van prof. Lorentz
+ Berends en Van Delft, Lorentz, 2019, p. 576-577. Brief Paul Ehrenfest aan Adriaan Fokker, Rijksmuseum Boerhaave, archief 276E
+ Lorentz op Worldcat (bibliotheekbezit)
+ resolver.tudelft.nl Verslag van de staatscommissie benoemd bij Koninklijk Besluit van 4 juli 1918 no. 30 met opdracht te onderzoeken in hoeverre, als gevolg van de afsluiting van de Zuiderzee, ingevolge de wet van 14 juni 1918 (Staatsblad no 354) te verwachten is, dat tijdens storm hoogere waterstanden, en een grootere golfoploop, dan thans het geval is, zullen voorkomen vóór de kust van het vaste land van Noord-Holland, Friesland en Groningen, alsmede vóór de daarvoor gelegen Noordzee-eilanden. September 1926. 's-Gravenhage - Algemeene Landsdrukkerij - 1926.. 368 pagina's. Geraadpleegd 23 december 2019.
+ genealogy.math.ndsu.nodak.edu Mathematics Genealogy Project Hendrik Antoon Lorentz. Geraadpleegd op 19 oktober 2019.
+ Zie ook Berends en van Delft: Lorentz, gevierd fysicus, geboren verzoener, Amsterdam 2019, pag. 209-210.
+ lorentzleiden.nl bij . Bouw flat Centraal Station Leiden. Geraadpleegd 28 oktober 2019
+ dbnl.org In het voetspoor van Stevin(1985)–K. van Berkel. Geraadpleegd op 4 oktober 2019.
+ dbnl.org Nederlandsche helden der wetenschap(1946) – T.P. Sevensma. Levensschetsen van negen Nobelprijswinnaars. Hoogtepunten van wetenschappelijken arbeid in Nederland. Geraadpleegd op 4 oktober 2019.
+ dbnl.org De tweede Gouden Eeuw (1998)–Bastiaan Willink: Nederland en de Nobelprijzen voor natuurwetenschappen 1870-1940. Geraadpleegd op 4 oktober 2019.
+ dbnl.org 1900. Hoogtij van burgerlijke cultuur(2000)–Jan Bank, Maarten van Buuren. Geraadpleegd op 4 oktober 2019.
+Externe links
+noord-hollandsarchief.nl 364 Lorentz, prof. dr. H.A., te Haarlem (archiefinventaris). Geraadpleegd 4 oktober 2019.
+H.A.M. Snelders, 'Lorentz, Hendrik Antoon (1853-1928)', in Biografisch Woordenboek van Nederland 1 (1979)
+Youtube Historische film die de deelnemers aan de Solvay Conferentie 1927 toont. H.A. Lorentz komt in beeld als collega's (onder meer Marie Curie, Bragg, Einstein, Hendrik Kramers, Peter Debije enzovoorts) een gebouw verlaten.
+Filmpje van de begrafenis van Lorentz, Polygoon-journaal Hollands nieuws 1928, getoond in het VPRO tv-programma Zomergasten (7 augustus 2005) met Robbert Dijkgraaf
+Beelden uit het filmpje van Lorentz' begrafenis, VPRO.
+knaw.nl Documenten uit het bezit van Hendrik Antoon Lorentz (1853­-1928) Inventaris✎ EditSign. Medailles, penningen en oorkondes. Geraadpleegd 5 oktober 2019.
+khmw.nl Frits Berends: Verhalen rond een foto. Lorentz’ gouden doctoraat: een huldiging zonder weerga✎ EditSign, Koninklijke Hollandsche Maatschappij der Wetenschappen, Haarlem, z.j. Boekje bij de foto van het gouden jubileum van Lorentz' academische promotie, 11 december 1925, Haarlem. Geraadpleegd 5 oktober 2019.
+Instituut-Lorentz voor theoretische natuurkunde, Universiteit Leiden
+Lorentz' grafsteen met biografie
+Nobelprijs voor Lorentz en Zeeman
+Lijst van Lorentz' promovendi en hun proefschriften
+Leerlingen van Lorentz op Math Genealogy
+
+Zie de categorie Hendrik Antoon Lorentz van Wikimedia Commons voor mediabestanden over dit onderwerp.
+Etalagester	Dit artikel is op 29 oktober 2007 in deze versie opgenomen in de etalage.
+De Orde Pour le Mérite
+Nederlandse leden:	Lourens Alma Tadema · Hendrik Kern · Michael Jan de Goeje · Jacobus van 't Hoff · Pieter Geijl · Hendrik Lorentz · Jacobus Cornelius Kapteyn · Hendrik Casimir · Bartel Leendert van der Waerden
+Belgische leden:	Louis Gallait · Nicaise De Keyser · Émile Wauters · François-Auguste Gevaert · François Louis Ganshof
+Zie ook:	Lijst van dragers van de Orde Pour le Mérite (oorlogsklasse) · Lijst van dragers van de Orde Pour le Mérite (vredesklasse)
+Winnaars van de Nobelprijs voor Natuurkunde
+Zuiderzeewerken
+Fysische optica
+De Orde Pour le Mérite
+Nederlandse leden:	Lourens Alma Tadema · Hendrik Kern · Michael Jan de Goeje · Jacobus van 't Hoff · Pieter Geijl · Hendrik Lorentz · Jacobus Cornelius Kapteyn · Hendrik Casimir · Bartel Leendert van der Waerden
+Belgische leden:	Louis Gallait · Nicaise De Keyser · Émile Wauters · François-Auguste Gevaert · François Louis Ganshof
+Zie ook:	Lijst van dragers van de Orde Pour le Mérite (oorlogsklasse) · Lijst van dragers van de Orde Pour le Mérite (vredesklasse)
+Voorganger:
+Pieter Jacob Cosijn	Rector magnificus van de Universiteit Leiden
+1899 - 1900	Opvolger:
+Jan Egens van Iterson
+Bibliografische informatie
+Categorieën: Nederlands natuurkundigeTheoretisch natuurkundigeWinnaar van de Nobelprijs voor NatuurkundeHoogleraar aan de Universiteit LeidenNederlands persoon in de 19e eeuwNederlands waterbouwkundigeNederlands conservatorLid van de Koninklijke Nederlandse Akademie van WetenschappenRector magnificus van de Universiteit Leiden19e-eeuws natuurkundige
+Navigatiemenu
+Niet aangemeld
+Overleg
+Bijdragen
+Account aanmaken
+Inloggen
+ArtikelOverleg
+LezenBewerkenBrontekst bewerkenGeschiedenis
+Doorzoek Wikipedia
+Hoofdpagina
+Vind een artikel
+Vandaag
+Etalage
+Categorieën
+Recente wijzigingen
+Nieuwe artikelen
+Willekeurige pagina
+Informatie
+Gebruikersportaal
+Snelcursus
+Hulp en contact
+Doneren
+Hulpmiddelen
+Links naar deze pagina
+Gerelateerde wijzigingen
+Bestand uploaden
+Speciale pagina's
+Permanente koppeling
+Paginagegevens
+Deze pagina citeren
+Wikidata-item
+Afdrukken/exporteren
+Boek aanmaken
+Downloaden als PDF
+Printvriendelijke versie
+In andere projecten
+Wikimedia Commons
+Wikisource
+
+In andere talen
+Deutsch
+English
+Español
+Français
+Italiano
+한국어
+Tagalog
+Tiếng Việt
+中文
+Nog 87
+Koppelingen bewerken
+Deze pagina is voor het laatst bewerkt op 18 nov 2022 om 23:05.
+De tekst is beschikbaar onder de licentie Creative Commons Naamsvermelding/Gelijk delen, er kunnen aanvullende voorwaarden van toepassing zijn. Zie de gebruiksvoorwaarden voor meer informatie.
+Wikipedia® is een geregistreerd handelsmerk van de Wikimedia Foundation, Inc., een organisatie zonder winstoogmerk.
+PrivacybeleidOver WikipediaDisclaimersMobiele weergaveOntwikkelaarsStatistiekenCookieverklaringWikimedia FoundationPowered by MediaWiki

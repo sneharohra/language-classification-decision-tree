@@ -1,0 +1,1168 @@
+The United States secretary of homeland security is the head of the United States Department of Homeland Security, the federal department tasked with ensuring public safety in the United States. The secretary is a member of the Cabinet of the United States. The position was created by the Homeland Security Act following the attacks of September 11, 2001.
+
+The new department consisted primarily of components transferred from other Cabinet departments because of their role in homeland security, such as the Coast Guard, the Federal Protective Service, U.S. Customs and Border Protection (which includes the United States Border Patrol), U.S. Immigration and Customs Enforcement (which includes Homeland Security Investigations), the United States Secret Service and the Federal Emergency Management Agency. It does not, however, include the Federal Bureau of Investigation or the U.S. Marshals Service.[2] They continue to operate under U.S. Department of Justice.
+If you intend to edit Wikipedia more than once or twice, and especially if you ever intend to create new articles, there are good reasons to create an account. Wikimedia's privacy policy also allows pseudonymous accounts, which you may prefer to using your real name.
+
+There are two ways to edit. If you generally write using a WYSIWYG word processor, such as Microsoft Word, you may be more comfortable with the new Visual Editor. If you prefer a WYSIWYM environment such as LaTeX, or know HTML markup, you may prefer to use wiki markup. Click the "Edit" tab, top right; if you are not logged in to an account, a popup will offer the choice. If you have logged in, you can set your editing mode at Special:Preferences.
+
+For markup, there is a quick cheatsheet of common markup. There are also extensive tutorials on editing.
+As in academia, newcomers may expect help from established members of the community. You can ask for help at the Wikipedia:Teahouse and a variety of other places. You can even find an experienced Wikipedia editor to act as your Wikipedia-editing supervisor while you learn the basics.
+
+Many cities have face-to-face Wikipedia meetups and Edit-a-thons. There is a global annual academic conference called Wikimania.
+
+One way to stay connected to the greater Wikipedia community is through discipline-specific Wikiprojects. Larger projects include Wikipedia:WikiProject Chemistry, Wikipedia:WikiProject Computer Science, Wikipedia:WikiProject Mathematics, Wikipedia:WikiProject Medicine, Wikipedia:WikiProject Physics, and more specialized projects such as Wikipedia:WikiProject Academic Journals.
+
+The discussion pages for these projects are a good place to ask about the details of formatting articles for that discipline, for finding other editors to help fix problems you've found, and to find out about articles in need of work. For longer lists of projects that might be relevant to your interests, browse the Wikiproject directory, or search.
+
+If you register a username, you can make it easier for fellow editors who need your expertise to find you, by adding your userpage to expertise categories, such as Category:Wikipedian anthropologists.
+
+There is no formal way to verify account credentials, and your level of knowledge will be apparent in your edits and discussions. Other editors will tend to respect your knowledge and writing skill more than your formal qualifications.
+
+When you create or make significant changes to an article, you may want to put it on your watchlist.
+
+Don't violate copyright. As an academic you will probably find little new in Wikipedia's concept of plagiarism. Wikipedia's other rules around copying are often grounded in the need for a Wikipedia-compatible copyright. Copying and pasting from other Wikipedia articles may be ok (but usually you are required to state the source of the copied text in the edit summary). Copying or closely paraphrasing your own words, if they appear in a publication that you don't own the copyright of, may not be allowed.
+
+Copying (with attribution) from open access articles licensed under CC-BY and CC-BY-SA is allowed, even if they are not your own work. See, for instance, the Commons:User:Open Access Media Importer Bot. However, licenses prohibiting commercial use or derivative works are not compatible with Wikipedia (Wikipedia is used commercially, and is itself a derivative work). Attributed short quotes of copyright materials may be fair use. Copyright assistance is available to editors.
+
+Wikipedia articles therefore tend to have a higher citation density than research articles and survey articles. In a research article, much of the content is likely to be original and unsourced, and even in a survey article, you would probably feel free to make up small unsourced derivations that are more than a trivial calculation but that are not important enough to write up as separate research articles. Don't do this in Wikipedia.
+
+Everything in Wikipedia should ideally have sources – external publications that confirm what you've written. In very short articles, you may be able to get away with leaving all the sources for a separate reference section at the end; for longer articles, the text of the article should have inline footnotes that refer to the list of references at the end. The trustworthiness of a Wikipedia article is based on the authority of the sources, not the authority of the author.
+
+Ideally, every paragraph of a Wikipedia article (outside of the initial summary paragraph) should have at least one footnote or other source, and in many cases every sentence will have its own source. The general citation guidelines and scientific citation guidelines give more guidance on what does and doesn't need a source.
+
+Survey/review articles and textbooks usually make the best sources. Journal articles, research monographs, and edited volumes are also pretty good sources, but it is not safe to rely on a single journal article on a controversial topic (because the author may be on one side). Articles in newspapers and magazines about scientific results can also be good sources, but are better for establishing notability than for verifiability (the popular press often gets the science wrong). Try to avoid using self-published lecture notes and web pages as sources (but do use them in Further reading and External links).
+
+If you have a choice between citing something to a textbook and to the original research paper it was published in, cite both: the research paper is an important part of the history of the subject, but the textbook will be better at convincing other editors that the subject is important, better at making the subject verifiable, and probably better at helping novices learn more about the subject. For more on selecting sources, see Wikipedia:Reliable sources, and for an inductive approach, Wikipedia:Reliable source examples. Specific guides for scientific and medical topics are also available.
+If you are new to Wikipedia and just want to explore, or if you don't know where you want to go, the Simple English Wikipedia has a random page feature that takes you to any one of the pages on this wiki. In most cases, you would want to see any article. This is easily done by going to the Special:Random page, which you can find on the left side of the page, under the Wikipedia logo, which says Show any page. Once you click this link, you will be taken directly to a random article page without having to do anything else. Another link you can use is Special:Randompage, which works in the same way as Special:Random.
+
+
+programs
+community platform
+#beapirate challenge
+challenge 2022
+challenge 2021
+challenge 2020
+bootcamps
+past bootcamps
+global peer mentorship
+talks & webinars
+get involved
+partners
+local ambassadors
+mentors
+blog
+about us
+our why
+meet the crew
+our impact
+press
+merch
+get in touch
+Search Blog
+
+GEN Z TRENDS
+How Gen Z Is Shaping the Future of Business
+Posted on 11 Jul at 9:00 am
+Today, companies try to be as innovative as possible. They share their purpose on all major platforms and spread the message about being sustainable. Some corporations are successful, others not so much. Covering and promoting sustainability, purpose and innovation is challenging because they are ever-evolving. What was “in” and true yesterday might be “out” and untrue tomorrow. To stay on top of the game, companies have to evolve at the speed of consumer culture. Who is the main driver of consumer culture? Gen Z.
+
+How Gen Z is Transforming Brands
+“Most of the major trends we see in sustainability and innovation are fueled by youth culture, by Gen Z, by young people.”
+
+Jeff Fromm
+Many people and companies believe that purpose and profit are conflicting objectives. This might have been true in the past and might work in the short term today. But, when done properly, purpose and profit are in no conflict with each other. Because when brands have an authentic purpose, share it with the world, and truly stick to it, people are more than willing to pay a small premium. This is true both for Millennials as well as Gen Z.
+
+Therefore, Gen Z is encouraging brands to become more purpose- and value-driven. Young people are spending their money on brands whose values align. With this money, they are fueling the company’s purpose and encouraging them to continue on their path.
+
+What makes a company trustworthy for Gen Z?
+In a recent Moonshot Pirates Panel discussion, young minds named three things when it comes to trusting a company. First and foremost, it is purpose. As mentioned above, thriving businesses have a purpose that customers can identify with. If they secondly are honest and thirdly transparent, success is almost guaranteed.
+
+When it comes to products, packaging still has a great influence on the buying decision of the new generation. Besides bright colors on the outside, the ingredients are more important than ever before. If a product declares to be clean, it has to fulfill its promise. Green-washing is not accepted.
+
+How Gen Z is Shaping the World of Work
+Money is still important for Gen Z, but it is usually not the most important factor when choosing an employer. For Gen X and the majority of millennials, the order of their career goals was first to figure out what they want to do, then make more money, and finally reflect and think about how to p(l)ay it forward.
+
+For the majority of Gen Z, this script is completely reversed, starting with the question of p(l)aying it forward and thinking about what they actually want to do much later in their career.
+
+This means that the young workforce generation wants to feel like they are making a difference and making the world a better place. Therefore, they will choose to join the enterprise that fits best with their values and that will give them responsibility and space to be creative.
+
+For example, one of the young pirates would love to work for Canva, because they have great leadership and provide their employees with lots of freedom to be creative. Freedom is also one of the main reasons why so many young changemakers want to become an entrepreneur and create something great in the world.
+
+Why should companies work with Gen Z?
+Obviously, it will be very challenging for large brands to ignore Gen Z, as they are the customers of the present and the future. The companies that are listening to the future generation and learning how to incorporate them early into the innovation and leadership cycle will be the future winners. And what is Gen Z saying?
+
+“The future I want to live in is one where everyone all over the world has equitable access to opportunity. The SDGs are fundamental to our success. And if we can achieve those Sustainable Development Goals, then we are moving towards a future that has equal opportunities for everyone. And that’s one that I would really love to live in.”
+
+Charlotte Chang – Panelist
+How can companies connect with Gen Z?
+Creating brands and advertising that specifically targets the new generation of consumers is a good first step for sure. But in order to truly connect to and understand Gen Z, companies have to directly get in touch with this group. One way is to join the Young Advisory program, where several young changemakers work with and give direct feedback to the corporation. Find out more here.
+
+Are you interested in hearing more about the panel discussion? You can watch the recording here:
+
+
+entrepreneurship, future of business, genz, innovation
+More Similar Posts
+
+How to Make a Multigenerational Team Succeed
+Generations Explained Part 2: The Young and Thriving Generation Z
+Generations Explained Part 2: The Young and Thriving Generation Z
+Generation Z
+How Generation Z Will Shape Our Future Way of Working
+
+Generations Explained Part 2: The Young and Thriving Generation Z
+
+How to Make a Multigenerational Team Succeed
+
+Nevena Banov
+I'm an 18-year-old passionate learner, interested in more or less everything in this world. I am studying at a business-focused high school, love to dance, do sports, cook and read.
+Keep me posted on new articles!
+SUBSCRIBE TO OUR BLOG
+Moonshot Pirates
+We are not a school.
+
+We are a global movement of changemakers.
+
+We are pirates shooting for the moon.
+
+programs
+
+challenge
+global peer mentorship
+bootcamps
+talks
+get involved
+
+be a local ambassador
+be a partner
+be a mentor
+about us
+
+our why
+meet the crew
+our impact
+press
+merch
+RECENT BLOG POSTS
+
+Overpopulation
+Causes of Overpopulation and How to Find Potential Solutions
+10 Nov at 3:56 pm
+Moonshot Pirates Bootcamp Mostviertel 2021
+5 Important Skills That We Can Learn From Young People
+3 Nov at 3:53 pm
+CONTACT US
+ahoy@moonshotpirates.com
++43 670 507 9815
+
+Moonshot Pirates
+Liechtensteinstraße 111-115,
+1090 Vienna
+Austria
+
+#BEAPIRATE FOLLOW US
+
+#BEINSPIRED GET UPDATES
+
+SUBSCRIBE
+© 2018-2022 Moonshot Pirates | Imprint | T & C | Privacy Policy
+
+Home | Press Kit | Contact | Log In
+
+English articles
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+This article is about grammatical articles in English. Not to be confused with articles on English Wikipedia.
+Part of a series on
+English grammar
+Bookman Ornament 9617 (bookshelf).svg
+Morphology
+Plurals
+Prefixes (in English)
+Suffixes (frequentative)
+Word types
+Acronyms
+Adjectives
+Adverbs (flat)
+Articles
+Conjunctions
+Compounds
+Demonstratives
+Determiners (List here)
+Expletives
+Intensifier
+Interjections
+Interrogatives
+Nouns
+Portmanteaus
+Possessives
+Prepositions (List here)
+Pronouns (case · person)
+Verbs
+Verbs
+Auxiliary verbs
+Mood (conditional · imperative · subjunctive)
+Aspect (continuous · habitual · perfect)
+-ing
+Irregular verbs
+Modal verbs
+Passive voice
+Phrasal verbs
+Verb usage
+Transitive and intransitive verbs
+Syntax
+Clauses (in English)
+Conditional sentences
+Copula
+Do-support
+Inversion
+Periphrasis
+Zero-marking
+Orthography
+Abbreviations
+Capitalization
+Comma
+Hyphen
+Variant usage
+African-American Vernacular English
+AmE and BrE grammatical differences
+Double negatives
+Grammar disputes
+Thou
+vte
+The articles in English are the definite article the and the indefinite articles a and an. The definite article is used when the speaker believes that the listener knows the identity of the noun's referent (because it is obvious, because it is common knowledge, or because it was mentioned in the same sentence or an earlier sentence). The indefinite article is used when the speaker believes that the listener does not have to be told the identity of the referent. No article is used in some noun phrases.
+
+English grammar requires that, in most cases, a singular, countable noun phrase start with a determiner.[1] For example, I have a box is OK, but *I have box is not. The most common determiners are the articles the and a(n), which specify the presence or absence of definiteness of the noun. Other possible determiners include words like this, my, each and many. There are also cases where no determiner is required, as in the sentence John likes fast cars, where neither John nor fast cars includes a determiner.
+
+The definite article the is used when the referent of the noun phrase is assumed to be unique or known from the context. For example, In the sentence The boy with glasses was looking at the moon, it is assumed that in the context the reference can only be to one boy and one moon. However, the definite article is not used:
+
+with generic nouns (plural or uncountable): cars have accelerators, happiness is contagious, referring to cars in general and happiness in general (compare the happiness I felt yesterday, specifying particular happiness);
+with most proper names: John, France, London, etc.
+The indefinite article a (before a consonant sound) or an (before a vowel sound) is used only with singular, countable nouns. It indicates that the referent of the noun phrase is one unspecified member of a class. For example, the sentence An ugly man was smoking a pipe does not specify the identity of the ugly man or pipe.
+
+When referring to a particular date, the definite article the is typically used.[2]
+
+He was born on the 10th of May.
+When referring to a day of the week, the indefinite article "a" or definite article "the" may be used, following the same guidelines of generality versus specificity.
+
+He was born on a Thursday.
+He was born on the Monday before Thanksgiving.
+No article is used with plural or uncountable nouns when the referent is indefinite (just as in the generic definite case described above). However, in such situations, the determiner some is often added (or any in negative contexts and in many questions). For example:
+
+There are apples in the kitchen or There are some apples in the kitchen;
+We do not have information or We do not have any information;
+Would you like tea? or Would you like some tea? and Would you like any tea? or Would you like some good tea?
+Additionally, articles are not normally used:
+
+in noun phrases that contain other determiners (my house, this cat, America's history), although one can combine articles with certain other determiners, as in the many issues, such a child (see English determiners § Combinations of determiners).
+with pronouns (he, nobody), although again certain combinations are possible (as the one, the many, the few).
+preceding noun phrases consisting of a clause or infinitive phrase (what you've done is very good, to surrender is to die).
+If it is required to be concise, e.g. in headlines, signs, labels, and notes, articles are often omitted along with certain other function words. For example, rather than The mayor was attacked, a newspaper headline might say just Mayor attacked.
+
+For more information on article usage, see the sections Definite article § Notes and § Indefinite article below. For more cases where no article is used, see Zero article in English.
+
+
+Contents
+1	Word order
+2	Definite article
+3	Abbreviations for "the" and "that"
+3.1	Ye form
+4	Indefinite article
+4.1	Distinction between a and an
+4.1.1	In other languages
+4.2	Pronunciation
+4.3	Etymology
+4.4	Usage
+4.5	Juncture loss
+5	Use of some
+6	Effect on alphabetical order
+7	In West Country English
+8	See also
+9	References
+10	External links
+Word order
+In most cases, the article is the first word of its noun phrase, preceding all other adjectives and modifiers.[3]
+
+[The little old red bag] held [a very big surprise].
+There are a few exceptions, however:
+
+Certain determiners, such as all, both, half, double, precede the definite article when used in combination (all the team, both the girls, half the time, double the amount).
+The determiner such and exclamative what precede the indefinite article (such an idiot, what a day!).
+Adjectives qualified by too, so, as and how generally precede the indefinite article: too great a loss, so hard a problem, as delicious an apple as I have ever tasted, I know how pretty a girl she is.
+When adjectives are qualified by quite (particularly when it means "fairly"), the word quite (but not the adjective itself) often precedes the indefinite article: quite a long letter.
+See also English determiners § Combinations of determiners and Determiners and adjectives.
+
+Definite article
+Main article: The
+The only definite article in English is the word the, denoting person(s) or thing(s) already mentioned, under discussion, implied, or otherwise presumed familiar to the listener or reader. The is the most commonly used word in the English language, accounting for 7% of all words used.[4]
+
+"The" can be used with both singular and plural nouns, with nouns of any gender, and with nouns that start with any letter. This is different from many other languages which have different articles for different genders and/or numbers.
+
+Abbreviations for "the" and "that"
+
+Barred thorn(after Ælfric)
+Since "the" is one of the most frequently used words in English, at various times short abbreviations for it have been found:
+
+Barred thorn: the earliest abbreviation, it is used in manuscripts in the Old English language. It is the letter þ, with a bold horizontal stroke through the ascender, and it represents the word þæt, meaning "the" or "that" (neuter nom. / acc.)
+þͤ and þͭ (þ with a superscript e or t) appear in Middle English manuscripts for "þe" and "þat" respectively.
+yͤ and yͭ are developed from þͤ and þͭ and appear in Early Modern manuscripts and in print (see Ye form below).
+Occasional proposals have been made by individuals for an abbreviation. In 1916, Legros & Grant included in their classic printers' handbook Typographical Printing-Surfaces, a proposal for a letter similar to Ħ to represent "Th", thus abbreviating "the" to ħe.[5] Why they did not propose reintroducing to the English language "þ", for which blocks were already available for use in Icelandic texts, or the yͤ form is unknown.
+
+Ye form
+
+"... by the grace that god put ..." (Extract from the The Boke of Margery Kempe)
+In Middle English, the (þe) was frequently abbreviated as a þ with a small e above it, similar to the abbreviation for that, which was a þ with a small t above it. During the latter Middle English and Early Modern English periods, the letter thorn (þ) in its common script, or cursive, form came to resemble a y shape. With the arrival of movable type printing, the substitution of ⟨y⟩ for ⟨Þ⟩ became ubiquitous, leading to the common "ye", as in 'Ye Olde Curiositie Shoppe'. One major reason for this was that ⟨y⟩ existed in the printer's types that William Caxton and his contemporaries imported from Belgium and the Netherlands, while ⟨Þ⟩ did not.[6] As a result, the use of a y with an e above it (EME ye.svg) as an abbreviation became common. It can still be seen in reprints of the 1611 edition of the King James Version of the Bible in places such as Romans 15:29 or in the Mayflower Compact. Historically, the article was never pronounced with a y sound even when it was so written.
+
+Indefinite article
+The indefinite article of English takes the two forms: a and an. Semantically, they can be regarded as meaning "one", usually without emphasis. They can be used only with singular countable nouns; for the possible use of some (or any) as an equivalent with plural and uncountable nouns, see Use of some below.
+
+Distinction between a and an
+The form an is used before words starting with a vowel sound, regardless of whether the word begins with a vowel letter.[7] This avoids the glottal stop (momentary silent pause) that would otherwise be required between a and a following vowel sound. Where the next word begins with a consonant sound, a is used. Examples: a box; an apple; an SSO (pronounced "es-es-oh"); an MP3 (pronounced "em-pee-three"); a HEPA filter (here, HEPA is an acronym, a series of letters pronounced as a word rather than as individual letters); an hour (the h is silent); a one-armed bandit (pronounced "won..."); an $80 fee (read "an eighty-dollar fee"); an herb in American English (where the h is silent), but a herb in British English; a unionized worker but an un-ionized particle. Before words beginning with /ju/, an was formerly widespread, e.g. an unicorn, an eulogy, but has largely been superseded by a since the 19th century.
+
+In older loan words of Latin or Greek provenance, initial h used to be silent in general, thus the use of an before such words was common and has survived to some extent to recent times even when the h has been restored in pronunciation. Some speakers and writers use an before a word beginning with the sound /h/ in an unstressed syllable: an historical novel, an hotel.[8] However, this usage is now less common.
+
+Some dialects, particularly in England (such as Cockney), silence many or all initial h sounds (h-dropping), and so employ an in situations where it would not be used in the standard language, like an 'elmet (standard English: a helmet).
+
+There used to be a distinction analogous to that between a and an for the possessive determiners my and thy, which became mine and thine before a vowel, as in mine eyes.[9]
+
+In other languages
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2022) (Learn how and when to remove this template message)
+Other more or less analogous cases in different languages include the Yiddish articles "a" (אַ‎) and "an" (אַן‎) (used in essentially the same manner as the English ones), the Hungarian articles a and az (used the same way, except that they are definite articles; juncture loss, as described below, has occurred in that language too), and the privative a- and an- prefixes, meaning "not" or "without", in Greek and Sanskrit.
+
+Pronunciation
+Both a and an are usually pronounced with a schwa: /ə/, /ən/. However, when stressed (which is rare in ordinary speech), they are normally pronounced respectively as /eɪ/ (to rhyme with day) and /æn/ or /eən/ (to rhyme with pan). See Weak and strong forms in English.
+
+Etymology
+An is the older form (related to one, which it also predates, cognate to Dutch een, German ein, Gothic 𐌰𐌹𐌽𐍃 (ains), Old Norse einn, etc.).[10] The Old English word ān was derived from Proto-West Germanic *ain,[11] which was derived from Proto-Germanic *ainaz. All of these words descended from Proto-Indo-European *óynos, meaning "single".[12]
+
+Usage
+The principles for use of the indefinite article are given above under § Use of articles.
+
+In addition to serving as an article, a and an are also used to express a proportional relationship, such as "a dollar a day" or "$150 an ounce" or "A sweet a day helps you work, rest and play", although historically this use of "a" and "an" does not come from the same word as the articles.[13]
+
+Juncture loss
+In a process called juncture loss, the n has wandered back and forth between the indefinite article and words beginning with vowels over the history of the language, where for example what was once a nuncle is now an uncle. One example is the text "smot hym on the hede with a nege tool" from 1448 in the Paston Letters, meaning "smote him on the head with an edge tool".[14] Other examples include a nox for an ox and a napple for an apple. Sometimes the change has been permanent. For example, a newt was once an ewt, a nickname was once an ekename, where eke means "extra" (as in eke out meaning "add to"), and in the other direction, a napron (meaning a little tablecloth, related to the word napkin) became an apron, and a nadder became an adder. The initial n in orange was also dropped through juncture loss,[15] but this happened before the word was borrowed into English.[16]
+
+Use of some
+"Some and any" redirects here. For the German pop duo, see Some & Any.
+The existential determinative (or determiner) some is sometimes used as a functional equivalent of a(n) with plural and uncountable nouns (also called a partitive). For example, Give me some apples, Give me some water (equivalent to the singular countable forms an apple and a glass of water). Grammatically this some is not required; it is also possible to use zero article: Give me apples, Give me water. The use of some in such cases implies some limited quantity. (Compare the forms unos/unas in Spanish, which are the plural of the indefinite article un/una.) Like the articles, some belongs to the class of "central determiners", which are mutually exclusive (so "the some boys" is ungrammatical).[17]
+
+The contrasting use of any in negative clauses proves that some is polarity-sensitive, and occurs in positive clauses: "I have some objections to make", vs. "I don't have any objections to make"; "I have any objections to make" and "I don't have some objections to make" are ungrammatical.[18]
+
+Some can also have a more emphatic meaning: "some but not others" or "some but not many". For example, some people like football, while others prefer rugby, or I've got some money, but not enough to lend you any. It can also be used as an indefinite pronoun, not qualifying a noun at all (Give me some!) or followed by a prepositional phrase (I want some of your vodka); the same applies to any.
+
+Some can also be used with singular countable nouns, as in There is some person on the porch, which implies that the identity of the person is unknown to the speaker (which is not necessarily the case when a(n) is used). This usage is fairly informal, although singular countable some can also be found in formal contexts: We seek some value of x such that...
+
+When some is used just as an indefinite article, it is normally pronounced weakly, as [s(ə)m]. In other meanings, it is pronounced [sʌm].
+
+Effect on alphabetical order
+In sorting titles and phrases alphabetically, articles are usually excluded from consideration, since being so common makes them more of a hindrance than a help in finding the desired item. For example, The Comedy of Errors is alphabetized before A Midsummer Night's Dream, because the and a are ignored and comedy alphabetizes before midsummer. In an index, the former work might be written "Comedy of Errors, The", with the article moved to the end.
+
+In West Country English
+Speakers of West Country English may use articles in certain environments where speakers of Standard English would not. Non-standard uses occur for example with diseases (the chicken pox, the arthritis), quantifying expressions (the both, the most), holidays (the Christmas), geographical units and institutions (the church, the county Devon), etc. The indefinite article, on the other hand, often occurs as a also before vowels.[19]
+
+See also
+False title
+References
+ Greenbaum, Sidney (1996) The Oxford English Grammar. Oxford University Press ISBN 0-19-861250-8
+ "Articles: Articles in English Grammar, Examples Exercises".
+ Disterheft, Dorothy (2004) Advanced Grammar. Upper Saddle River, N.J.: Pearson Prentice-Hall ISBN 0-13-048820-8
+ Norvig, Peter. "English Letter Frequency Counts: Mzayzner Revisited".
+ Missed Opportunity for Ligatures
+ Hill, Will (30 June 2020). "Chapter 25: Typography and the printed English text"✎ EditSign (PDF). The Routledge Handbook of the English Writing System. p. 6. ISBN 9780367581565. The types used by Caxton and his contemporaries originated in Holland and Belgium, and did not provide for the continuing use of elements of the Old English alphabet such as thorn <þ>, eth <ð>, and yogh <ʒ>. The substitution of visually similar typographic forms has led to some anomalies which persist to this day in the reprinting of archaic texts and the spelling of regional words. The widely misunderstood ‘ye’ occurs through a habit of printer’s usage that originates in Caxton’s time, when printers would substitute the <y> (often accompanied by a superscript <e>) in place of the thorn <þ> or the eth <ð>, both of which were used to denote both the voiced and non-voiced sounds, /ð/ and /θ/ (Anderson, D. (1969) The Art of Written Forms. New York: Holt, Rinehart and Winston, p 169)
+ How to Use Articles (a/an/the) – The OWL at Purdue
+ Peters, Pam (2004). "a or an". The Cambridge Guide to English Usage. Cambridge, England: Cambridge University Press. p. 1. ISBN 0-521-62181-X.
+ "mine, adj. and pron.". Oxford English Dictionary (3 ed.). Oxford, England: Oxford University Press. 2002. Now only before a vowel or h, and arch[aic] or poet[ical]
+ Weekley, Ernest (1967). An Etymological Dictionary of Modern English. Vol. 2. Dover Publications. p. 1008. ISBN 0486122867. Retrieved 3 May 2022.
+ Ringe, Donald; Taylor, Ann (2014). The Development of Old English (A Linguistic History of English). Vol. 2. Oxford University Press. p. 120. ISBN 978-0-19-920784-8. Retrieved 3 May 2022.
+ Ringe, Donald (2017). From Proto-Indo-European to Proto-Germanic. Vol. 1 (Second ed.). p. 229. ISBN 978-0-19-879258-1. Retrieved 3 May 2022.
+ "a, adj; a prep 1". Oxford English Dictionary. Originally a variant of one adj...Variant of on prep
+ Scott, Charles P. G. (1894). "English Words which hav Gaind or Lost an Initial Consonant by Attraction". Transactions of the American Philological Association. 25: 111. doi:10.2307/2935662. JSTOR 2935662.
+ Reece, Steve (2009). Homer's Winged Words: The Evolution of Early Greek Epic Diction in the Light of Oral Theory. Brill Publishers. pp. 15–16, 25. ISBN 978-90-04-17441-2. Retrieved 3 May 2022.
+ "Etymology of "orange"". Etymonline. Retrieved 3 May 2022.
+ Quirk, Randolph; Greenbaum, Sidney; Leech, Geoffrey; Svartvik, Jan (1985). A Comprehensive Grammar of the English Language. Harlow: Longman. p. 254. ISBN 978-0-582-51734-9.
+ Huddleston, Rodney; Pullum, Geoffrey K. (2005). "8.4: Non-affirmative items". A Student's Introduction to English Grammar. Cambridge UO. p. 154. ISBN 9780521612883.
+ Wagner, Susanne (22 July 2004). "Gender in English pronouns: Myth and reality"✎ EditSign (PDF). Albert-Ludwigs-Universität Freiburg.
+External links
+
+Look up some or any in Wiktionary, the free dictionary.
+
+Look up a or an in Wiktionary, the free dictionary.
+
+Look up se, seo, þæt, or þe in Wiktionary, the free dictionary.
+
+Look up the in Wiktionary, the free dictionary.
+
+For a list of words relating to English articles, see the English articles category of words in Wiktionary, the free dictionary.
+Vietnamese learners mastering english articles✎ EditSign
+"The Definite Article: Acknowledging 'The' in Index Entries"✎ EditSign, Glenda Browne, The Indexer, vol. 22, no. 3 April 2001, pp. 119–22.
+Low MH 2005: "The Phenomenon of the Word THE in English — discourse functions and distribution patterns" — a dissertation that surveys the use of the word 'the' in English text.
+When Do You Use Articles: A, An, The
+articles web training tool (in English)
+Etymology of the word the on the Online Etymology Dictionary
+Mastering A, An, The: English Articles Solved
+Exercise to practice a, an and the on texts taken from the corpus of English novels
+Categories: English grammar
+Navigation menu
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+ArticleTalk
+ReadEditView history
+Search Wikipedia
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikibooks
+
+Languages
+Aragonés
+فارسی
+한국어
+Bahasa Melayu
+日本語
+Polski
+தமிழ்
+4 more
+Edit links
+This page was last edited on 22 October 2022, at 14:18 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWiki
+
+International Campaign to Save the Monuments of Nubia
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+International Campaign to Save the Monuments of Nubia
+International Campaign to Save the Monuments of Nubia.pdf✎ EditSign
+UNESCO brochure on the anniversary of the campaign
+Lake Nasser location.png
+The relocated monuments were from Lower Nubia, roughly between Aswan and Wadi Halfa. The area was entirely submerged by the creation of Lake Nasser
+Location	Aswan Governorate, Egypt
+Region	Nubia
+UNESCO World Heritage Site
+Official name	Nubian Monuments from Abu Simbel to Philae
+Type	Cultural
+Criteria	i, iii, vi
+Designated	1979 (3rd session)
+Reference no.	88
+Region	Arab States
+The International Campaign to Save the Monuments of Nubia was the relocation of 22 monuments in Lower Nubia, in southern Egypt and northern Sudan, between 1960 and 1980. The success of the project, in particular the creation of a coalition of 50 countries behind the project, led to the creation of the World Heritage Convention in 1972, and thus to the modern system of World Heritage Sites.[1]
+
+The project began as a result of the building of the Aswan Dam, at the Nile's first cataract (shallow rapids), a location which defined the traditional boundary of Ancient Egypt and Nubia. The building of the dam was to result in the creation of Lake Nasser, which would submerge the banks of the Nile along its entire 479 km (298 mi) length south of the dam – flooding the entire area of historical Lower Nubia. Vittorino Veronese, director general of UNESCO described it in 1960: "It is not easy to choose between a heritage of the past and the present well-being of a people, living in need in the shadow of one of history’s most splendid legacies, it is not easy to choose between temples and crops."[2]
+
+It was described in the UNESCO Courier as "the greatest archaeological rescue operation of all time".[3]
+
+In April 1979, the monuments were inscribed on the World Heritage List as the Nubian Monuments from Abu Simbel to Philae, as one of the second group of properties added to the list (the first 12 had been added in 1978).[4]
+
+
+Contents
+1	Overview
+1.1	Historical images, monuments in situ
+2	Description and contributions
+2.1	Abu Simbel
+2.2	Philae
+2.3	Individual Egyptian campaigns
+2.4	West German operation at Kalabsha
+2.5	French operation at Amada
+2.6	Wider archaeological campaign
+2.7	Financial contributions
+3	Timeline
+4	World Heritage Site
+5	Gallery
+6	Bibliography
+6.1	UNESCO publications
+6.2	Other publications
+7	References
+8	External links
+Overview
+In 1959, an international donations campaign was launched by Egypt and Sudan to save the monuments of Lower Nubia: the southernmost relics of the Ancient Egyptian civilization were under threat from the impending creation of Lake Nasser, that was about to result from the construction of the Aswan High Dam.[5]
+
+The number of relocated monuments have been stated as 22[6] or 24[7] depending on how an individual site is defined. Only one archaeological site in Lower Nubia, Qasr Ibrim, remains in its original location and above water; previously a cliff-top settlement, it was transformed into an island.[8][9] The relocated sites can be grouped as follows:
+
+Two temple groups moved nearby to nearly identical sites[7]
+Eleven temples rebuilt and grouped in three oases overlooking Lake Nasser[7]
+Seven temples placed in two museums[7]
+Five sent to Western museums as “grants-in-return” for technical and financial assistance[7]
+The list of relocated monuments is as follows:
+
+Historical		Relocation		Current
+Monument	Image[10]	Location	Period	Date	Led by	Image	Location
+Abu Simbel (two temples)	An Egyptian temple	65m below current location	1200s BCE		1964–68	Coalition		An Egyptian temple	65m above historical location, in artificial hill
+Philae temple complex	An Egyptian temple	Philae Island	300 BCE – 100 AD	1972–79	Coalition	An Egyptian temple	Agilkia Island
+Temple of Amada	An Egyptian temple	Amada	1400s BCE			France		An Egyptian temple	New Amada
+Temple of Derr	An Egyptian temple	Derr	1200s BCE		Egypt	An Egyptian temple
+Tomb of Pennut at Aniba	An Egyptian temple	Aniba			Egypt	An Egyptian temple
+Temple of Kalabsha (except gate, see below)	An Egyptian temple	Kalabsha	30 BCE		1962–63	Germany		An Egyptian temple	New Kalabsha
+Temple of Gerf Hussein	An Egyptian temple	Gerf Hussein	1200s BCE		Egypt	An Egyptian temple
+Kiosk of Qertassi	An Egyptian temple	Qertassi	0 – 100 AD	1960	Egypt	An Egyptian temple
+Temple of Beit el-Wali	An Egyptian temple	Beit el-Wali	1200s BCE		Egypt	An Egyptian temple
+Temple of Dakka	An Egyptian temple	Dakka	200 BCE – 100 AD			Egypt		An Egyptian temple	New Wadi es-Sebua
+Temple of Maharraqa	An Egyptian temple	Maharraqa	0 – 100 AD		Egypt	An Egyptian temple
+Temples of Wadi es-Sebua	An Egyptian temple	Wadi es-Sebua	1400–1200 BCE		Egypt	An Egyptian temple
+Horemheb Temple at Abu Oda	An Egyptian temple	Abu Oda							Nubian Museum, Aswan
+Temple of Aksha		Aksha	1200s BCE			An Egyptian temple	National Museum of Sudan
+The temples in the fortified town of Buhen	An Egyptian temple	Buhen	1800s BCE			An Egyptian temple
+The temples at Semna East and West fortresses	An Egyptian temple	Semna	1900s BCE			An Egyptian temple
+Temple of Debod	An Egyptian temple	Debod	100s BCE		1960	Spain		An Egyptian temple	Madrid, Spain
+Temple of Dendur	An Egyptian temple	Dendur	23 BCE		United States	An Egyptian temple	Metropolitan Museum of Art, New York, United States
+Temple of Taffeh	An Egyptian temple	Taffeh	25 BCE – 14 CE	1960	Netherlands	An Egyptian temple	Rijksmuseum van Oudheden in Leiden, the Netherlands
+Temple of Ellesyia		Ellesyia	1400s BCE		Italy	An Egyptian temple	Museo Egizio, Turin, Italy
+Kalabsha Gate	An Egyptian temple	Kalabsha	30 BCE	1962–63	Germany	An Egyptian temple	Egyptian Museum of Berlin, Germany – part of the Temple of Kalabsha
+Historical images, monuments in situ
+Qasr Ibrim (1840s)
+Qasr Ibrim (1840s)
+
+
+Qasr Ibrim today
+Qasr Ibrim today
+
+
+Ruins of Bigeh (1840s)
+Ruins of Bigeh (1840s)
+
+
+Bigeh ruins today
+Bigeh ruins today
+
+Description and contributions
+Abu Simbel
+
+A scale model showing the original and current location of the temple (with respect to the water level) at the Nubian Museum, in Aswan
+One scheme to save the Abu Simbel temples was based on an idea by William MacQuitty to build a clear freshwater dam around the temples, with the water inside kept at the same height as the Nile. There were to be underwater viewing chambers. In 1962 the idea was made into a proposal by architects Jane Drew and Maxwell Fry and civil engineer Ove Arup.[11] They considered that raising the temples ignored the effect of erosion of the sandstone by desert winds. However, the proposal, though acknowledged to be extremely elegant, was rejected.[12]
+
+The salvage of the Abu Simbel temples began in 1964 by a multinational team of archeologists, engineers and skilled heavy equipment operators working together under the UNESCO banner; it cost some US$40 million at the time (equal to $300 million in 2017 dollars). Between 1964 and 1968, the entire site was carefully cut into large blocks (up to 30 tons, averaging 20 tons), dismantled, lifted and reassembled in a new location 65 metres higher and 200 metres back from the river, in one of the greatest challenges of archaeological engineering in history.[13] Some structures were even saved from under the waters of Lake Nasser.[12]
+
+Philae
+
+Philae flooded by the Aswan Low Dam in 1906.
+In 1902, the Aswan Low Dam was completed on the Nile River by the British. This threatened to submerge many ancient landmarks, including the temple complex of Philae. The height of the dam was raised twice, from 1907 to 1912 and from 1929 to 1934, and the island of Philae was nearly always flooded. In fact, the only times that the complex was not underwater was when the dam's sluices were open from July to October. During this period it was proposed that the temples be relocated, piece by piece, to nearby islands, such as Bigeh or Elephantine. However, the temples' foundations and other architectural supporting structures were strengthened instead. Although the buildings were physically secure, the island's attractive vegetation and the colors of the temples' reliefs were washed away. Also, the bricks of the Philae temples soon became encrusted with silt and other debris carried by the Nile. With each inundation the situation worsened and in the 1960s the island was submerged up to a third of the buildings all year round.[14]
+
+The work began in 1972, and in 1974 a large coffer dam was built, constructed of two rows of steel plates between which a 1 million cubic metres (35 million cubic feet) of sand was tipped. Any water that seeped through was pumped away. Next the monuments were cleaned and measured, by using photogrammetry, a method that enables the exact reconstruction of the original size of the building blocks that were used by the ancients. Then every building was dismantled into about 40,000 units from 2 to 25 tons, and then transported to the nearby Island of Agilkia, situated on higher ground some 500 metres (1,600 ft) away. Foundations of the Philae monuments were ready on Agilkia by April 1977, and the transfer itself took place between 1977 and 1980.[15]
+
+Individual Egyptian campaigns
+In addition to participating directly in the high profile salvage operations of Abu Simbel and Philae, the Egyptian Antiquities Organization carried out the rescue of many smaller temples and monuments alone using their own financial and technical means.[16] As early as 1960 Egypt had started to rescue the temples of Taffa, Debod and Qertassi, followed by Dakka and Maharraqa in 1961 and Dendur in 1962. The temples of Wadi es-Sebua and Beit el Wali and the rock tomb of Pennut at Aniba were moved in 1964 with the support of a US grant, whilst the subsequent re-erection was carried out with Egyptian resources. The Temple of Derr was rescued in 1965, and the temples of Gerf Husein, the chapel of Abu Oda (cut out of rock), the chapels of Qasr Ibrim (the rest of which has remained in situ), and many rock inscriptions and drawings, were also saved.[17]
+
+West German operation at Kalabsha
+Early in the campaign, the West German authorities offered to dismantle and re-erect the Temple of Kalabsha, the largest temple in all of Lower Nubia, with costs paid by West Germany.[18] Germany's interest in making a significant contribution stemmed from its Egyptological heritage, including Lepsius' milestone work Denkmäler aus Ägypten und Äthiopien, as more specifically the work of Franz Christian Gau who had documented Kalabsha as early as 1819.[19]
+
+French operation at Amada
+In addition to the work of French archaeologists at Abu Simbel, the French government provided significant technical and financial support for the removal of the Temple of Amada. Amada was considered "one of the most distinctive and best preserved examples of the art of the 18th dynasty."[20]
+
+Wider archaeological campaign
+Given the impending flooding of a wide area, Egypt and Sudan encouraged archaeological teams from across the world to carry out work as broadly as possible. Approximately 40 teams from across the world came to the region, to explore an area of approximately 500 km in length.[21]
+
+In addition to the relocation operations, many countries participated in excavation and preservation work. Some of this work took place at the CEDAE (Centre d'Étude et de Documentation sur l'Ancienne Égypte, in English the Documentation and Study Centre for the History of the Art and Civilization of Ancient Egypt), founded in Cairo in 1955 to coordinate the academic efforts:[22]
+
+ Egypt: Five campaigns by the University of Cairo at Aniba. One campaign by the University of Alexandria at Gebel Adda. Eight excavation campaigns by the Antiquities Service on various sites. Three campaigns by the Antiquities Service for cutting out rock drawings. Removal of eight monuments, work in two others, dismantling of the front part of the temple of Amada and financial contribution to the work for saving this temple and those of Wadi es-Sebua, Beit el-Wali and Aniba.
+ Sudan: Since 1960, successive expeditions by the Antiquities Service, led by a Unesco expert, for a general survey of Sudanese Nubia; excavations at some of the most important sites.
+ Argentina: Three archaeological campaigns in the Sudan by the National University of La Plata
+ Austria: Six archaeological campaigns in Egypt by the University of Vienna, in Egypt. Sending of an epigraphist to the CEDAE.
+ Belgium: Sending of three experts to the CEDAE. Photogrammetric and epigraphic records of five monuments in the Sudan. Contribution to the cost of transferring the temple of Semna, Sudan.
+ Canada: One archaeological campaign in Egypt by the Royal Ontario Museum
+ Czechoslovakia: Five expeditions in Egypt by the Institute of Classical Archaeology of Charles University
+ Denmark,  Finland,  Norway,  Sweden: Four campaigns in Sudan by a joint mission. Finland alone: General surveying to the south of Gemai (near Wadi Halfa in Sudan).
+ France: Six campaigns in Egypt by the Institut Français d'Archéologie Orientale. Two campaigns in Egypt by the University of Strasbourg. Photogrammetric study. Sending of nine experts to the CEDAE. Removal and reconstruction of the Temple of Amada, together with Egypt. Seven campaigns in Sudan by the Commission Nationale des Fouilles". Payment of the costs involved in transferring the temple of Aksha, Sudan
+ West Germany: Three campaigns by the German Archaeological Institute
+ East Germany: Expeditions by the German National Academy of Sciences Leopoldina to record the rock inscriptions and drawings and the ground-plan of the ruins of Attiri, Sudan.
+ Ghana: Three campaigns in the Sudan by the University of Ghana
+ Hungary: One campaign in Egypt by Museum of Fine Arts (Budapest)
+ India: One campaign in Egypt by the Archaeological Survey of India
+ Italy: Six campaigns in Egypt by the University of Milan, as well as the sending of three experts to the CEDAE. One campaign in Egypt by the Sapienza University of Rome. Three campaigns in Egypt by Museo Egizio (Turin), including financial contribution from city and museum for cutting out of the chapel of the Temple of Ellesyia. Experimental work with sounding methods by the Fondazione Lerici.
+ Netherlands: Two campaigns by Leyden Museum, in Egypt. Preliminary studies for saving the Island of Philae. Contribution to the cost of saving the temple of Kumna (Sudan).
+ Poland: One campaign in Egypt and four in Sudan by the Polish Centre of Mediterranean Archaeology University of Warsaw. Sending of four architects to the CEDAE.
+ Spain: Four excavation campaigns and four campaigns to record and cut out rock inscriptions, in Egypt. Three excavation campaigns, in the Sudan.
+ Switzerland: Two excavation campaigns in Egypt by the Schweizerisches Institut für Ägyptische Bauforschung und Altertumskunde in Kairo, one in co-operation with the University of Chicago, and one in co-operation with the Institut Français d'Archéologie Orientale. Architectural records of a temple and leadership of the Antiquities service expedition to cut out rock inscriptions in 1964. Sending of an expert to the CEDAE by the Swiss National Science Foundation.
+ UK: Four campaigns in Egypt and two in Sudan by the Egypt Exploration Society. Two campaigns by the Egypt Exploration Society and the University of London for the general survey of Nubia. Sending of two experts to the CEDAE. Sending of an epigraphist (in co-operation with Brown University). Contribution to the dismantling of the temple of Buhen.
+ USA: In Egypt: Four campaigns by the University of Chicago in Egypt, including one in co-operation with the Swiss Institute of Architectural Research. Complete surveying and recording of a temple by the University of Chicago. Four campaigns by Yale and Pennsylvania Universities. Pre-history research on the Abu Simbel site by Columbia University. Four campaigns by Yale University. Sending of an epigraphist by Brown University (Provi-dence) in collaboration with the Egypt Exploration Society. Four campaigns by the Museum of New Mexico (pre-history survey). Four campaigns by the American Research Centre. Contribution by the United States Government for saving the temples of Beit el- Wali, Wadi es-Sebua and Aniba. In Sudan: Three excavation campaigns by the University of Chicago. One pre-history survey campaign by Columbia University. Three pre-history survey campaigns by the Museum of New Mexico. Two excavation campaigns and one architectural survey campaign by the University of California. Sending of an epigraphist by Brown University (Providence). Three pre-history investigation campaigns by the University of Colorado Museum. Contribution by the United States Government for the transfer and re-erection of the temple of Buhen.
+ Soviet Union: One survey and excavation campaign, in Egypt. General surveying and recording of rock inscriptions, in Egypt.
+ Yugoslavia: Sending of two architects to the CEDAE. Removal of Christian wall paintings (two experts), in Egypt. Removal of Christian wall paintings (two experts), in the Sudan.
+Financial contributions
+The table below summarizes the contributions towards the project by the global coalition of nations. The vast majority of these contributions funded the operations at Abu Simbel and Philae.[23]
+
+$'000			$'000			$'000
+ USA	18,501
+ France	1,268		 Libya	26		American Committee for the Preservation of Abu Simbel	1,251
+ Italy	1,176		 Denmark	15		Miscellaneous private contributions	36
+ West Germany	678		 Malaysia	14		African Emergency Programme	21
+ Netherlands	557		 Monaco	10
+ Spain	525		 Indonesia	10
+ Sweden	500		 Philippines	10		USSR exhibition proceeds	1,602
+ Switzerland	332		 Saudi Arabia	8		UK exhibition proceeds	1,601
+ Yugoslavia	226		 Uganda	6		West Germany exhibition proceeds	1,208
+ UK	213		 Cyprus	5		Japan exhibition proceeds	1,089
+ Japan	190		 Cambodia	5		France exhibition proceeds	459
+ Cuba	160		 Morocco	4		Belgium exhibition proceeds	154
+ Syria	152		 Turkey	3		Sweden exhibition proceeds	29
+ Pakistan	130		 Sierra Leone	3		Norway exhibition proceeds	6
+ Nigeria	128		 Mali	2		Canada exhibition proceeds	4
+ Algeria	105		 Afghanistan	2
+ Kuwait	105		 China	2		World Food Programme	3,518
+ Belgium	82		 Sudan	2		Egypt Tourist Tax	1,879
+ Iraq	63		 Luxembourg	2		Interest and exchange adjustments	1,408
+ Qatar	60		   Nepal	1		Philatelic revenue and income from Philae Medals	113
+ Ghana	49		 Sri Lanka	1		Sovereign Order of Malta	1
+ Lebanon	40		 Togo	1
+ Austria	37		 Malta	0.2
+  Holy See	35		 India (in kind)	415
+ Greece	30		 Romania (in kind)	5
+Subtotal	25,342			551			14,379
+Total							40,273
+Timeline
+A timeline of the key dates of the campaign is shown below:[24]
+
+Diplomacy	Relocation work	Aswan Dam
+6 April 1959	Egypt appeals to UNESCO
+24 October 1959	Sudan appeals to UNESCO
+9 January 1960			Work on the Aswan High Dam officially begun
+8 March 1960	Director-General of Unesco appeals to the international community
+Summer 1960		Temples of Taffa, Dabod and Kertassi dismantled by the Egyptian Antiquities Service
+Nov. Dec. 1962	Unesco's General Conference creates Executive Committee for the International Campaign
+1962–63		Temple of Kalabsha dismantled, transferred and re-erected
+Spring 1964		Work begins on transfer of Abu Simbel temples
+14 May 1964			Diversion of Nile to feed the turbines of the High Dam
+September 1964			Lake Nasser begins to fill
+22 September 1968		Completion of the Abu Simbel operation
+6 November 1968	UNESCO launches International Campaign to save the Temples of Philae
+1970			Construction of Aswan High Dam completed
+1972		Work begins on Philae rescue operation; monuments to be transferred to nearby island of Agilkia
+May 1974		Cofferdam around the island of Philae is completed and water is pumped out
+April 1977		Foundations of the Philae monuments ready on the island of Agilkia and reconstruction work begins
+August 1979		Completed at Agilkia
+10 March 1980		Overall project completion
+World Heritage Site
+In April 1979, the monuments were inscribed on the World Heritage List as the "Nubian Monuments from Abu Simbel to Philae". The inscribed area includes ten sites, five of which were relocated (all south of the city of Aswan), and five of which remain in their original position (near to the city of Aswan):[25]
+
+Relocated sites, south of the Aswan Low Dam[25]
+
+Abu Simbel
+New Amada
+New Wadi Sebua
+New Kalabsha
+Philae temple complex (Agilkia Island)
+Sites in their original location, north of the Aswan Low Dam[25] – although these five sites are grouped within the "Nubian Monuments from Abu Simbel to Philae", they are neither Nubian, nor between Abu Simbel and Philae
+
+Qubbet el-Hawa (Old and Middle Kingdom Tombs)
+Ruins of town of Elephantine
+Stone quarries and Unfinished obelisk, Aswan
+Monastery of St. Simeon, Aswan
+Fatimid Cemetery of Aswan
+Gallery
+Egyptian Government offer to gift monuments overseas in the 1960 UNESCO Courier
+Egyptian Government offer to gift monuments overseas in the 1960 UNESCO Courier
+
+
+Egyptian and Sudanese declarations in the 1960 UNESCO Courier
+Egyptian and Sudanese declarations in the 1960 UNESCO Courier
+
+
+List of monuments at risk in the 1960 UNESCO Courier
+List of monuments at risk in the 1960 UNESCO Courier
+
+
+List of monuments relocated in the 1980 UNESCO Courier
+List of monuments relocated in the 1980 UNESCO Courier
+
+
+Philae Island in the 1961 UNESCO Courier
+Philae Island in the 1961 UNESCO Courier
+
+
+List of sites excavated in addition to the monuments relocated in the 1980 UNESCO Courier
+List of sites excavated in addition to the monuments relocated in the 1980 UNESCO Courier
+
+
+Abu Simbel in the 1961 UNESCO Courier
+Abu Simbel in the 1961 UNESCO Courier
+
+
+1961 UNESCO Courier
+1961 UNESCO Courier
+
+
+List of Monuments to be Relocated in the 1961 UNESCO Courier
+List of Monuments to be Relocated in the 1961 UNESCO Courier
+
+Bibliography
+UNESCO publications
+A Common trust: the preservation of the ancient monuments of Nubia, 1960, UNESCO CUA.60/D.22/A
+Save the treasures of Nubia: UNESCO launches a world appeal, 1960, UNESCO Courier
+Abu Simbel: now or never, 1961, UNESCO Courier
+Nubia's sands reveal their last secrets, 1964, UNESCO Courier
+Victory in Nubia: the greatest archaeological rescue operation of all time, 1980, UNESCO Courier
+Säve-Söderbergh, Torgny (1987). Temples and Tombs of Ancient Nubia: The International Rescue Campaign at Abu Simbel, Philae and Other Sites. Thames and Hudson. ISBN 978-92-3-102383-5. Retrieved 12 October 2022.
+Success stories, 2019, UNESCO
+Other publications
+Desroches-Noblecourt, Christiane (1993). La Grande Nubiade ou Le parcours d'une égyptologue. Le Livre de poche (in French). Stock. ISBN 978-2-253-06366-7. Retrieved 11 November 2022.
+Larson, J.A. (2006). Lost Nubia: A Centennial Exhibit of Photographs from the 1905-1907 Egyptian Expedition of the University of Chicago✎ EditSign (PDF). Oriental Institute Museum publications. Oriental Institute. ISBN 978-1-885923-45-5. Retrieved 11 November 2022.
+Zurinaga Fernández-Toribio, Salomé (6 January 2017). "Rescue Archaeology and Spanish Journalism: The Abu Simbel Operation". AP: Online Journal in Public Archaeology. JAS Arqueologia. 3: 46. doi:10.23914/ap.v3i0.29. ISSN 2171-6315.
+Allais, Lucia (2012). "The Design of the Nubian Desert: Monuments, Mobility, and the Space of Global Culture". Governing by Design: Architecture, Economy, and Politics in the Twentieth Century. The Aggregate Architectural History Collaborative. University of Pittsburgh Press. pp. 179ff. ISBN 978-0-8229-7789-6. Retrieved 12 October 2022. See also: [1]
+References
+ The World Heritage Convention: "The event that aroused particular international concern was the decision to build the Aswan High Dam in Egypt, which would have flooded the valley containing the Abu Simbel temples, a treasure of ancient Egyptian civilization. In 1959, after an appeal from the governments of Egypt and Sudan, UNESCO launched an international safeguarding campaign. Archaeological research in the areas to be flooded was accelerated. Above all, the Abu Simbel and Philae temples were dismantled, moved to dry ground and reassembled. The campaign cost about US$80 million, half of which was donated by some 50 countries, showing the importance of solidarity and nations' shared responsibility in conserving outstanding cultural sites. Its success led to other safeguarding campaigns, such as saving Venice and its Lagoon (Italy) and the Archaeological Ruins at Moenjodaro (Pakistan), and restoring the Borobodur Temple Compounds (Indonesia). Consequently, UNESCO initiated, with the help of the International Council on Monuments and Sites (ICOMOS), the preparation of a draft convention on the protection of cultural heritage."
+ A Common trust: the preservation of the ancient monuments of Nubia, 1960, UNESCO CUA.60/D.22/A, page 22
+ Victory in Nubia: the greatest archaeological rescue operation of all time
+ Meskell, L. (2018). A Future in Ruins: UNESCO, World Heritage, and the Dream of Peace. Oxford University Press. pp. 71–72. ISBN 978-0-19-064834-3. Retrieved 4 November 2022.
+ Säve-Söderbergh 1987, p. 64.
+ File:International Campaign to Save the Monuments of Nubia.pdf✎ EditSign
+ Allais 2012, p. 179.
+ A.J. Clapham & P.A. Rowley-Conwy (2007). "New Discoveries at Qasr Ibrim". In R.T.J. Cappers (ed.). Fields of Change: Progress in African Archaeobotany. Groningen archaeological studies. David Brown Book Company. p. 157. ISBN 978-90-77922-30-9. Retrieved 5 November 2022. ... Qasr Ibrim is the only in situ site left in Lower Nubia since the flooding of the Nile valley
+ Ruffini, G.R. (2012). Medieval Nubia: A Social and Economic History. Oxford University Press. ISBN 978-0-19-999620-9. Retrieved 5 November 2022. Qasr Ibrim is critically important in a number of ways. It is the only site in Lower Nubia that remained above water after the completion of the Aswan high dam.
+ The monuments of Nubia had been documented by early travellers and archaeologists, particularly in the 19th and early 20th centuries. Below are notable illustrations of the monuments published in the 1840s by David Roberts in his The Holy Land, Syria, Idumea, Arabia, Egypt, and Nubia
+ Fry Drew Knight Creamer, 1978, London, Lund Humphries
+ Säve-Söderbergh 1987, p. 98-126.
+ Spencer, Terence (1966). The Race to Save Abu Simbel Is Won. Life magazine, 2 December 1966.
+ Säve-Söderbergh 1987.
+ Säve-Söderbergh 1987, p. 229-231.
+ Säve-Söderbergh 1987, p. 135.
+ Säve-Söderbergh 1987, p. 135-136.
+ Stock, H.; Siegler, K.G. (1965). Kalabsha: der grösste Tempel Nubiens und das Abenteuer seiner Rettung (in German). F.A. Brockhaus. Retrieved 10 November 2022.
+ Säve-Söderbergh 1987, p. 128-129.
+ Säve-Söderbergh 1987, p. 132-133.
+ Säve-Söderbergh 1987, p. 205.
+ Säve-Söderbergh 1987, p. Annex I, page 223-226.
+ Säve-Söderbergh 1987, p. Annex IV, page 232-233.
+ Säve-Söderbergh 1987, p. 228-231.
+ Centre, UNESCO World Heritage. "Nubian Monuments from Abu Simbel to Philae". UNESCO World Heritage Centre. Retrieved 12 October 2022.
+External links
+Video on YouTube
+Video on YouTube
+Video on YouTube
+Categories: World Heritage SitesAncient EgyptRelocated ancient Egyptian monumentsInternational Campaign to Save the Monuments of Nubia
+Navigation menu
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+ArticleTalk
+ReadEditView history
+Search Wikipedia
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+
+Languages
+Add links
+This page was last edited on 23 November 2022, at 22:58 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWiki
+
+2015 Russian Sukhoi Su-24 shootdown
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+2015 Russian Sukhoi Su-24 shootdown
+Боевые вылеты российской авиации с аэродрома «Хмеймим» для нанесения ударов по объектам террористов в Сирии (9).jpg
+The Su-24M aircraft that was shot down, two weeks before the event.
+Incident
+Date	24 November 2015
+Summary	Shot down by Turkish F-16 fighter jet
+Site	Syria–Turkey border
+Aircraft
+Aircraft type	Sukhoi Su-24M
+Operator	Russian Air Force
+Registration	83
+Flight origin	Khmeimim airbase, Syria
+Occupants	2
+Crew	2
+Fatalities	1
+Survivors	1
+vte
+Syrian–Turkish border clashes during the Syrian Civil War
+vte
+Syrian War spillover and international incidents
+A Turkish Air Force F-16 fighter jet shot down a Russian Sukhoi Su-24M attack aircraft near the Syria–Turkey border on 24 November 2015.[1][2] According to Turkey, the aircraft was fired upon while in Turkish airspace because it violated the border up to a depth of 2.19 kilometres (1.36 miles) for about 17 seconds after being warned to change its heading 10 times over a period of five minutes before entering the airspace.[3][4] The Russia Defence Ministry denied that the aircraft ever left Syrian airspace, claiming that their satellite data showed that the Sukhoi was about 1,000 metres (1,100 yd) inside Syrian airspace when it was shot down.[citation needed]
+
+The U.S. State Department said that the U.S. independently confirmed that the aircraft's flight path violated Turkish territory, and that the Turks gave multiple warnings to the pilot, to which they received no response and released audio recordings of the warnings they had broadcast.[5][6] Turkish President Recep Tayyip Erdogan pointed out that Turkey had the right to defend its airspace.[7] Although Russian president Vladimir Putin said that the U.S. knew the flight path of the Russian jet and should have informed Turkey, two U.S. officials said that Russia had not informed the U.S. military of its jet's flight plan.[8]
+
+The Russian pilot and navigator both ejected from the aircraft. The navigator Konstantin Murakhtin was rescued, but the pilot Oleg Peshkov was shot and killed by Syrian rebel ground fire while descending by parachute.[9] A Russian marine from the search and rescue team launched to retrieve the two airmen was also killed when a rescue helicopter was targeted by the rebels.[9][10]
+
+The incident was the first destruction of a Russian or Soviet Air Forces warplane by a NATO member state since an attack on the Sui-ho Dam during the Korean War in 1953.[11][12][13] Reactions to the incident included denunciation from Russia and an attempt to defuse the situation by NATO afterwards. Russia deployed the guided missile cruiser Moskva armed with S-300F (SA-N-6 Grumble) long-range SAM missiles off the Syrian coast near Latakia[14] and S-400 (SA-21 Growler) mobile SAM systems to Khmeimim airbase. In response, the Turkish Armed Forces deployed the KORAL land-based radar electronic support system in Hatay Province along the Turkish–Syrian border.[15][16]
+
+
+Contents
+1	Background
+2	The shootdown
+3	Casualties
+3.1	Search and rescue
+4	Aftermath
+5	Reactions
+5.1	Involved parties
+5.2	International organizations
+5.3	Countries
+5.4	Financial markets
+6	See also
+7	Notes
+8	References
+9	External links
+Background
+Further information: Turkish involvement in the Syrian Civil War, Russian military intervention in the Syrian Civil War, and Spillover of the Syrian Civil War
+
+Erdoğan (left) and Putin at the G-20 summit in Antalya on 15 November 2015
+After the 2012 shooting down of a Turkish RF-4E Phantom II Jet by Syrian forces, Turkish prime minister Recep Tayyip Erdoğan protested, saying that brief incursions should not trigger an attack, pointing out that Turkey did not shoot down Syrian helicopters that strayed into Turkish airspace.[17][18][19] Nevertheless, as a response to the event he announced that Turkey changed its rules of engagement, and said it would start to consider all "military elements" approaching from Syria an enemy threat and would act accordingly.[20][21] Subsequently, Turkey shot down a Syrian Mi-17 helicopter in September 2013[22] and a MiG-23 warplane in March 2014.[23]
+
+Russia is one of several countries directly involved in the Syrian conflict. On 30 September 2015, Russia began its air campaign against the Islamic State of Iraq and the Levant (ISIL) and other anti-government forces.
+
+In early October, Turkey and NATO protested against what they saw as Russia's deliberate violations of Turkish airspace.[24][a] The Russian defence ministry admitted that a Russian Su-30 aircraft had entered Turkish airspace "for a few seconds" because of bad weather, adding that measures had been taken to prevent a repeat of such incidents, however Turkish radar had tracked the aircraft straying into Turkish airspace for up to 8 km (5 mi) lasting "several minutes".[31][32][33] From 3–15 October, five discussions between senior ranking officials from Turkey and Russia occurred, concerning Turkish rules of engagement and Russian violations of Turkish airspace.[34][35][36][37] On 6 November 2015, six U.S. Air Force F-15C fighters were deployed by US European Command from the 48th Fighter Wing at their Lakenheath base in Britain to Incirlik Air Base as part of Operation Inherent Resolve.[21][38] The government of Turkey requested these to secure the sovereignty of Turkish airspace because of earlier repeated Russian intrusions into Turkish airspace.[21][38]
+
+On 19 November, Russian ambassador to Turkey Andrei Karlov and the Russian military attaché, Colonel Andrei Victorovich Dovger, were summoned by Turkey.[39] Russia, which was criticised by Turkey for having conducted operations near the Turkish border, a region inhabited by Syrian Turkmen and largely free of ISIL (though al-Nusra Front, the al-Qaeda affiliate in Syria, was present in the region),[40][41] was notified that Turkey's rules of engagement were in place and it would react to any violations of its border security. Turkey also warned Russia that it would not be indifferent to "attacks targeting the life security of Turkmen" in the Bayırbucak area.[42][43] The preceding week Turkey had called for the UN Security Council to discuss attacks against Turkish-backed Turkmens.[44] Approximately 1,700 people had fled the area in the previous three days due to battles between Syrian government forces and anti-government Syrian Turkmen and al-Nusra Front fighters.[41] Russia had bombed the area near the Turkish border to support Syrian government forces.[44] Syrian Turkmen formed their own armed brigades called Syrian Turkmen Brigades in opposition to the Syrian government of President Bashar al-Assad, loosely affiliated with other rebels such as the Free Syrian Army. The Turkmen brigades also cooperated with al-Qaeda's Syrian affiliate the al-Nusra Front and with the Salafi coalition known as Ahrar al-Sham.[45] In Latakia, the Turkish-supported rebels formed the Jabal al-Turkman Brigade.[45]
+
+The shootdown
+
+Approximate flight paths according to the Turkish and Russian forces.
+On 24 November 2015 at 9:24 am local time (7:24 am GMT),[7] as it was returning to Khmeimim airbase, a Russian Sukhoi Su-24 aircraft with tail number 83 white and registration number RF-90932[46] was shot down near the Syrian–Turkish border by a missile from a patrolling Turkish Air Force F-16 fighter jet.[47][48] Later analysis suggested that a radar guided medium range AIM-120 AMRAAM was responsible for the shot being fired between 14–19 kilometres (9–12 mi) away.[49] The Economist reported that the two Su-24s were on their way to strike Syrian Turkmen targets.[43] Syrian government forces supported by the Shiite militias and the Russian Air Force were fighting against Syrian Turkmen brigades, Army of Conquest and al-Nusra Front fighters.[41]
+
+Early reports from Russian news agencies citing the Russian Defence Ministry, indicated that the aircraft had been downed by a ground-based strike from Syrian Turkmen rebels, but they later confirmed Turkish reports that the aircraft had been shot down by Turkish fighter jets.[citation needed] The Turkish military released a graphic of the Russian aircraft's flight pattern, which shows it crossing the southern tip of Hatay Province before being shot down and crashing near Turkmen Mountain.[50][51] Russia then countered Turkey's radar trace analysis by publishing a different flight map showing no airspace violation.[52][53] Three days later, on 27 November, Russia published another map.[54]
+
+According to Turkey's statement to the UN Security Council, two aircraft, whose nationalities were unknown at the time, violated Turkish airspace up to a depth of 2.19 km (1.36 mi) for about 17 seconds.[3][55] According to Turkish officials, the aircraft were given 10 warnings within the span of 5 minutes, by operators at a ground-controlled interception station, to change their course.[50] Turkey later released the audio recording ("The unknown air traffic position to Humaymim 020 radial 26 miles. This is Turkish Air Force speaking on Guard. You are approaching Turkish airspace, change your heading south immediately").[56][57][58] The Russians claim there were no warnings.[59] Analysts have noted that Turkey's warnings were issued on a dedicated mutually-agreed radio channel, which was the international Guard (emergency) channel (243.0 MHz), but the R-862M radio fitted to the Su-24M is not able to monitor this channel without optional equipment, which may not have been installed.[60][61] According to Turkey, one aircraft left Turkish national airspace after violating it; the other aircraft was fired upon by Turkish F-16s patrolling the area and crashed into Syrian territory after being hit in Turkish airspace.[3] Based on its heat signature, an anonymous American official stated that the jet was hit in Syrian airspace after a short incursion into Turkey.[62] On 30 November, US Ambassador to NATO Douglas Lute stated that the data supported the Turkish version of events.[63]
+
+According to the Russian Defence Ministry, the Su-24 was downed from an altitude of 6,000 metres (20,000 ft) within one kilometre of the Turkish border and in Syrian airspace, while returning to the Khmeimim airbase in Syria.[48] Russia has maintained that the aircraft never left Syrian territory.[47] The Russian Defence Ministry confirmed the aircraft was an Su-24 but said that it had proof the jet was within Syrian airspace.[50] According to the commander-in-chief of the Russian Aerospace Forces, Viktor Bondarev, a Turkish F-16 entered Syria's airspace for 40 seconds and flew 2 km (1.2 mi) inside Syrian territory, but the Russian warplane did not violate the Turkish border.[64]
+
+Casualties
+
+Repatriation of Oleg Peshkov's body at Chkalovsky Airport, 30 November 2015.
+Both pilots ejected after the aircraft was hit.[50] Initially, the deputy commander of a Turkmen Syrian opposition rebel brigade in Syria, Alparslan Çelik (a Turkish citizen and member of the Grey Wolves ultra-nationalist group[65][66][67]), claimed his forces had shot dead the two pilots as they descended with parachutes,[68] and in a film a person could be heard in the background repeatedly shouting "Stop shooting!" in Turkish as the parachutists descended.[69] A Turkish official reported that he believed both were alive.[70] It was also reported that one of the pilots had been captured by the Turkmen fighters and a video was circulated which allegedly showed the pilot's body.[71]
+
+Russia's military general staff spokesman Lieutenant General Sergei Rudskoi confirmed that one pilot, Lieutenant Colonel Oleg Anatolyevich Peshkov, was killed by ground fire;[72][73] the weapons systems operator was rescued.[10][74]
+
+The shooting of an ejecting aircraft pilot is in contravention of Article 42 of the 1977 Protocol I of the Geneva Convention.[75]
+
+The pilot of the Su-24, Oleg Peshkov, 45, was posthumously awarded the Hero of the Russian Federation, the country's highest military honour; the surviving weapon systems officer, Konstantin Murakhtin, and the deceased rescuer, Alexander Pozynich, 29, received the Order of Courage.[76] On 2 December Peshkov was buried with full military honours in the Alley of Heroes of the cemetery in Lipetsk with about 10,000 people attending.[77][78][79]
+
+Search and rescue
+The Turkish state-owned Anadolu Agency showed video footage of the aircraft crashing and the two pilots parachuting down. Russian helicopters conducted low-altitude combat search and rescue flights in the area to look for the pilot.[citation needed]
+
+Two Mil Mi-8 helicopters were sent to find and recover the pilots from the crash site. One of the helicopters was damaged by small-arms fire from Syrian Turkmen Brigade militants, resulting in the death of a naval infantryman, and was forced to make an emergency landing.[80] All the surviving crew of the helicopter were later rescued and evacuated.[citation needed] The Free Syrian Army's 1st Coastal Division claimed that they subsequently destroyed the abandoned helicopter using a US-made BGM-71 TOW missile.[citation needed]
+
+As the Russian armed forces began planning an operation to extract the pilot, the Iranian General Qasem Soleimani contacted them and proposed a joint rescue operation under his supervision. The rescue team which General Soleimani put forth consisted of eight Hezbollah special forces personnel and 18 Syrian commandos, who were trained by Iran and had firsthand knowledge of the geography of the area, with Russia providing transport, logistical support, air cover and satellite intelligence. One of the pilots, Oleg Peshkov, had been wounded and then killed by rebels after parachuting from the plane, while the other one, Konstantin Murahtin, escaped and was rescued. During the rescue mission a Russian Marine, Alexandr Pozynich, had been fatally wounded. The rescue team returned to base safely and handed over the pilot to the Syrian Army. Vladimir Putin was reportedly closely following the operation.[81][82] The body of the dead pilot was flown to Turkey and Russian officials in Ankara arranged for its repatriation to Moscow.[83][84]
+
+Aftermath
+See also: Russia–Turkey relations
+
+Russian Defence Minister Sergey Shoygu presents President Putin with the flight data recorder of the Su-24
+On 25 November, the foreign ministers of Russia and Turkey spoke for an hour by telephone, and both governments stated that day that they would not initiate a war as a result of the incident. Russian Foreign Minister Sergey Lavrov told journalists that his country would "seriously reevaluate" its relationship with Turkey.[85][86][87] The Russian Defence Ministry broke off military contacts with the Turkish Armed Forces and Russian defence officials said that future airstrikes in Syria would be escorted by fighters.[88] According to the Russian Minister of Defence Sergey Shoygu, Russia will deploy S-400 surface-to-air missile systems to Khmeimim airbase in Syria, where the Russian Aerospace Forces group is stationed.[89]
+
+Reactions
+Involved parties
+A few hours after the incident, Russian President Vladimir Putin spoke from Sochi, where he was meeting with King Abdullah II of Jordan, saying that it was a "stab in the back by terrorist accomplices,"[50][90] that Russia would not put up with attacks like this one[44] and that Russia–Turkey relations would be affected. Foreign Minister Sergey Lavrov was due to visit Turkey the next day, and Turkish President Recep Tayyip Erdoğan had scheduled a visit to Russia later in the year.[91][92][93] Lavrov cancelled his trip after the incident.[88] Lieutenant General Sergey Rudskoi said that forces threatening Russia would be targeted.[citation needed] Protesters pelted the Turkish embassy in Russia with eggs before police cleared the area.[94] On 26 November, Prime Minister Dmitry Medvedev announced broad economic sanctions against Turkey that would affect their joint investment projects,[95] including the possible shelving of a multibillion-dollar deal to build Turkish Stream gas pipeline through Turkey.[96] Chechen leader Ramzan Kadyrov said that Turkey would regret its actions.[97] Putin accused Turkey of helping ISIL in the illegal oil trade, saying that funds from the sale of oil were used to support terrorists.[98] The Russian Air Force had recently started bombing the oil tankers en route to other countries, including Turkey, and the infrastructure for processing and storage of crude oil.[99][100] Putin later claimed that the Turkish shoot-down was an "ambush" that had been prepared in advance.[101] A bill making denial of the Armenian genocide illegal has been introduced in the Russian State Duma.[102]
+
+Syrian Information Minister Omran al-Zoubi said the shooting would be added to the criminal record of insurgent groups fighting in the country and of those countries that were financing and arming them; he mentioned Turkey, Saudi Arabia and Qatar as the strongest such backers.[103]
+
+Erdoğan pointed out that Turkey had the right to defend its airspace. He said worse incidents have not taken place in the past because of Turkey's restraint. He also stressed that Turkey's actions were fully in line with the new rules of engagement adopted after Syria shot down a Turkish jet in 2012.[7] Turkish Foreign Minister Mevlüt Çavuşoğlu offered condolences and said the Turkish pilots did not know it was a Russian plane.[104] Turkish Prime Minister Ahmet Davutoğlu defended the action saying Turkey has the right to defend itself against border violations, but that it did not amount to an aggression against any foreign territory and the country called for NATO to hold an extraordinary meeting later in the day.[105] He further called for working towards solving the crisis in Syria.[103] Davutoğlu also said that attacks on Turkmen could not be legitimised under the justification of attacking ISIL.[85] Turkey's Ambassador to the United States, Serdar Kilic, asked for Turkey's warnings to be taken seriously.[106] Davutoglu said Turkey would cooperate but did not offer an apology.[citation needed] Dozens of protesters were reported outside the Russian consulate in Istanbul demonstrating against Russian military operations in the Turkmen-populated areas of Syria.[103] Russian President Putin issued a decree within hours of Turkey's statement which placed a ban on trade of some goods, forbade extensions of labour contracts for Turks working in Russia as of 1 January 2016, ended chartered flights from Russia to Turkey, disallowed Russian tourism companies from selling holiday packages with a stay in Turkey, and called for ending visa-free travel between Russia and Turkey, while ordering tighter control over Turkish air carriers in Russia, using security as a justification.[107]
+
+Russia started bombarding rebels – including Turkmen insurgents – in Latakia, ignoring demands made by Turkey over the previous week to end its military operations close to the Turkish border.[108] A Turkmen commander said missiles fired from Russian warships in the Mediterranean were also hitting the area.[109] Russian Defence Ministry spokesman Igor Konashenkov said that as soon as the pilot was rescued the groups responsible for the attack had been killed by Russian bombing and Syrian government rocket artillery.[citation needed] A Turkish supply convoy, reportedly carrying small arms, machine-guns and ammunition, was bombed by what is believed to have been Russian airstrikes in the northwestern town of Azaz, in north-western Syria. Claimed as an aid convoy by the Turks, no organization has as yet confirmed that the convoy belonged to them. At least seven people died and ten people were injured as around 20 trucks went up in flames.[citation needed] Turkish state-run Anadolu Agency accused Russia of supporting the Kurdish YPG, PYD and Syrian Democratic Forces.[110]
+
+On 25 November – the day after the jet was shot down, a Russian lawmaker, Sergei Mironov, introduced a bill to the Russian parliament that would criminalize the denial of the Armenian genocide,[111] a political move that Turkey has strongly opposed when countries like France and Greece adopted similar laws.[112]
+
+On 26 November, Russia deployed the guided missile cruiser Moskva armed with S-300F (SA-N-6 Grumble) long-range SAM missiles positioned off Latakia, off the Syrian coast[14] and S-400 (SA-21 Growler) mobile SAM systems to Khmeimim airbase.[113] The Russian military warned it would shoot down any aerial target that posed a threat to its planes.[114]
+
+On 26 November, the Russian Ministry of Defence broke off contact with the Turkish military. All existing channels of communication between the two sides have been shut down, the ministry said.[115]
+
+On 27 November, Russia announced that it had also suspended its participation in joint Black Sea naval drills indefinitely. The Russian navy's envoy in charge of coordinating the actions of Russia's Black Sea Fleet with the Turkish navy has reportedly been recalled.[115] On 27 November, Russian Foreign minister Sergey Lavrov announced that Moscow will halt the existing visa-free regime starting on 1 January, saying that Turkey has become a conduit for terrorists and has been reluctant to share information with Moscow about Russian citizens accused of involvement in terrorist activities.[116] On 28 November, Russian President Vladimir Putin signed a decree imposing economic sanctions against Turkey. The decree, which came into force immediately, banned charter flights from Russia to Turkey, prevented tour firms selling holidays there, and outlawed some Turkish imports, and halted or curbed the economic activities of Turkish firms and nationals.[117] On 2 December, Russian Deputy Defence Minister Anatoly Antonov said in a media briefing with foreign journalists that Turkey was the biggest buyer of "stolen" oil from Syria and Iraq and accused the family of Turkish President Recep Tayyip Erdogan of being directly involved in the trade of petroleum with the Islamic State group.[118] On 3 December, Putin referred to the incident during his annual state of the nation speech.[119]
+
+At his annual press conference on 17 December 2015, when asked about a third-party involvement in the current Russian-Turkish relations deteriorated by the shootdown of Russian Su-24, Vladimir Putin remarked "…if someone in the Turkish government decided to lick the Americans in a certain place, well I don't know then, was that the right decision or not?".[120]
+
+On 23 December, Selahattin Demirtaş, co-leader of Turkey's pro-Kurdish Peoples' Democratic Party (HDP), criticized Ankara's stance regarding a Russian jet shot down by Turkey.[121]
+
+On 27 December, the Turkish newspaper Hurriyet published an interview with Alparslan Çelik who spoke about the downing. TASS reported that the Turkish militant had fought in Syria for two years. The Russian foreign ministry expressed surprise and indignation that a major Turkish newspaper had given floor to the "murderer and terrorist... filled with hatred towards Russia and the Russian people." On 30 December, the Russian foreign ministry called for Ankara to arrest Çelik.[122][123]
+
+In June 2016, Turkish President Recep Tayyip Erdoğan sent a letter, on the recommendation of Farkhad Akhmedov[124] to Russian President Vladimir Putin expressing sympathy and 'deep condolences' to the family of the victims. An investigation was also reopened into the suspected Turkish military personnel involved in the incident.[125] Russian media interpreted the contents of the letter as an apology for downed aircraft.[126] Three weeks later (in the meantime, there had been a coup d'état attempt against him), Erdoğan announced in an interview that the two Turkish pilots who downed Russian aircraft were arrested on suspicion that they have links to the Gülen movement, and that a court should find out "the truth".[127] By doing so, Turkish government aimed to cast aspirations to the movement, a conspiracy theory implying that the organization was behind the all troubles Turkey was facing.[128]
+
+International organizations
+ European Union: President of the European Council Donald Tusk called upon Turkey and Russia to stay calm; he was supported by the High Representative of the European Union for Foreign Affairs Federica Mogherini, following her meeting with Secretary General of NATO Jens Stoltenberg, who urged both parties to avoid escalation.[129][130]
+ NATO: Secretary General of NATO Jens Stoltenberg backed Turkey's assessment of the engagement, offered solidarity with Turkey, and called for both sides to de-escalate the situation.[7][131]
+Countries
+ Armenia: Defence Minister Seyran Ohanian said it was a blow to efforts to fight terrorism.[132]
+ Australia: Foreign Minister Julie Bishop said that it was important the incident did not lead to an escalation of conflict "in a highly charged regional situation."[133]
+ Azerbaijan: President Ilham Aliyev said that Azerbaijan was ready to make efforts to reduce and eliminate tension in Turkish-Russian relations.[134]
+ Cyprus: The office of President Nicos Anastasiades stated that the shootdown would undermine efforts to fight terrorism.[135]
+ Czech Republic: President Miloš Zeman said Turkey's attack on the jet again fuels previously-raised suspicions that Ankara is supporting the terrorists in Syria.[citation needed] Prime Minister Bohuslav Sobotka and Foreign Minister Lubomír Zaorálek called for better co-ordination among those fighting in the region.[103]
+ France: President François Hollande called the plane incident "a serious one" and said that Turkey is providing information to NATO to investigate the circumstances. He also called for the prevention of any escalation of the situation.[106]
+ Georgia: Defence Minister Tinatin Khidasheli said that Turkey has every right to respond to airspace violations by Russia. She said that Russia had deliberately violated the airspace of NATO and EU member states in recent months, despite repeated warnings. She also noted that Turkey is an important and respected partner and player in today's world.[136]
+ Germany: Chancellor Angela Merkel said that countries have the right to defend their airspace, but the event took place against a context of tension, and that she had spoken to the Turkish prime minister in an effort to promote calm.[137] German Vice-Chancellor Sigmar Gabriel called Turkish actions unpredictable.[138] Foreign Minister Frank-Walter Steinmeier called for "prudence and common sense" in response to the incident and that Syria peace talks in Vienna should not be derailed.[139]
+ Greece: Greek Foreign Minister Nikos Kotzias expressed solidarity with Russia in a phone conversation with his Russian counterpart Sergey Lavrov.[citation needed] Greeks, also stated that Turkey violated Greek airspace almost daily.[140]
+ Iran: President Rouhani said the governments of Russia and Turkey should investigate the circumstances and avoid repetition.[citation needed] Mohammad Javad Zarif, Iranian Foreign Minister, said the recent escalation of tensions between the two nations over Turkey's downing of a Russian jet can be settled through mutual discretion and prudence.[citation needed] General Yahya Rahim Safavi, a revolutionary guards adviser to the Supreme Leader of Iran, said Turkey had committed a "tactical mistake".[citation needed]
+ Iraq: Vice President Nouri al-Maliki accused Turkey of hypocrisy, saying that "Turkey's planes violate Iraqi and Syrian airspace every day".[141]
+ Kazakhstan: Kazakhstan Foreign Ministry urged both countries to show restraint.[142] President Nazarbayev said that the plane was in a war against terrorists.[143]
+ Latvia: Minister of Defence Raimonds Bergmanis told LNT that NATO allies are united with Turkey, who had the right to protect its airspace. He added that there is much evidence regarding breaches of Turkish airspace carried out by Russian military aircraft.[144]
+ Lithuania: Foreign Minister Linas Linkevicius supported Turkey's right to defend itself.[145]
+ Pakistan: A few days later, the Foreign Office expressed concerns about the ongoing tensions between Turkey and Russia and recommended that the two countries should negotiate.[146]
+ Serbia: President Tomislav Nikolić said that the incident was the fault of Turkey and that Turkey often violated Greek and Syrian airspace adding that "now one can hardly expect aid from Turkey in the fight against terrorism".[147]
+ Ukraine: National Security and Defence Council Secretary Oleksandr Turchynov said that the Turkish Air Force acted professionally as any civilised country should operate when its sovereign space is violated by another state's warplane. He added that Ukraine should shoot down Russian jets if they violate Ukraine's airspace too.[148][149]
+ United Kingdom: Foreign Secretary Philip Hammond said the incident was potentially serious but also said that Turkey was an important ally of the United Kingdom and European Union. When asked by opposition Labour MP Dennis Skinner whether Turkey could still be considered an ally, Hammond said that Turkey is an important NATO ally in the context of the fight against ISIL and the migration crisis.[150][151]
+ United States: President Barack Obama assured his Turkish counterpart, Recep Tayyip Erdoğan, in a phone call, of support for his country's right to defend its sovereignty and that it was important to find out exactly what had happened and to prevent escalation.[88] Department of State Spokesperson Mark Toner stated that Syrian Turkmen under attack have the right to self-defence.[152] The United States announced a list of new economic sanctions on Russian and Syrian individuals and companies.[153]
+Financial markets
+The MICEX and RTS Index, and Borsa Istanbul fell over 1%. The Turkish lira also dropped following news of the shootdown,[154] as did broader European stock markets.[155]
+
+See also
+List of accidents and incidents involving military aircraft (2010–2019)
+2012 Turkish F-4 Phantom shootdown
+Notes
+ On 15 October, Turkish jets shot down a drone operating in Turkish airspace.[25][26][27][28][29] United States defence officials said that the drone was Russian; Russian officials denied that any of their aircraft had been shot down.[25][26][27][28][29] On 17 October, Turkish Prime Minister Ahmet Davutoğlu said Turkey would shoot down any aircraft violating its airspace.[30]
+References
+ Lydia Tomkiw (24 November 2015). "What Is A Fencer Su-24? What To Know About The Russian Plane Shot Down By Turkey". International Business Times. Retrieved 24 November 2015.
+ Press release (24 November 2015). "Hava sahası İletim" [Transmission of Airspace]. Turkish Armed Forces Chief of Staff (in Turkish). Archived from the original on 24 November 2015. Retrieved 24 November 2015.
+ "Turkey's statement to the United Nations Security Council". Al Jazeera. Retrieved 24 November 2015.
+ "Turkey downs Russian jet". Al Jazeera. 24 November 2015. Retrieved 25 November 2015.
+ Andrea Mitchell. "U.S. Confirms That Downed Russian Plane Entered Turkish Airspace". NBC News. Retrieved 1 December 2015.
+ "Daily Press Briefing – November 30, 2015 – RUSSIA/TURKEY". U.S. Department of State. Retrieved 1 December 2015.
+ "Turkey's downing of Russian warplane – what we know". BBC. 24 November 2015.
+ Phil Stewart, Russia didn't give downed jet's flight plan to U.S.: U.S. officials, Reuters (27 November 2015).
+ "Syrian rebels fired on parachuting Russian pilots, killing at least one after Turkey shot down warplane: official". National Post. 25 November 2015. Retrieved 25 November 2015.
+ MacFarquhar, Neil (25 November 2015). "Navigator Rescued After Turkey Shot Down Warplane, Russia Says". The New York Times. Retrieved 25 November 2015.
+ Gibbons-Neff, Thomas (24 November 2015). "The last time a Russian jet was shot down by a NATO jet was in 1952". Washington Post. Retrieved 2 December 2015.
+ "Turkey downing that Russian fighter jet is terrible news for the war on ISIS". Slate Magazine. 24 November 2015. Retrieved 25 November 2015.
+ "A NATO Country Just Shot Down a Russian Warplane for the First Time Since the Cold War". Maxim. 24 November 2015.
+ Victoria Richards (25 November 2015). "Russia deploys warship to Mediterranean to destroy 'any target' after plane shot down by Turkey". The Independent. Archived from the original on 1 May 2022. Retrieved 27 November 2015.
+ "Russia To Wage Electronic Warfare Against Turkey". Retrieved 23 May 2016.
+ "TURKEY DEPLOYED KORAL RADAR-ELECTRONIC WARFARE SYSTEM CLOSE TO SYRIA TO COUNTER RUSSIAN S-400 MISSILE SYSTEM". DCSS News. Retrieved 23 May 2016.
+ "Turkey PM Erdogan issues Syria border warning". BBC. 26 June 2012.
+ "Turkey hardens military position after Syria downs jet". CNN. 27 June 2012.
+ "Russia accuses Turkey of 'hypocrisy' after Erdogan admits airspace violation 'does not justify attack'". The Independent. 26 November 2015. Archived from the original on 1 May 2022.
+ Borger, Julian; Black, Ian (26 June 2012). "Turkey threatens Syria with military retaliation over downed jet". The Guardian. Retrieved 3 December 2015.
+ Heintz, Jim; Fraser, Suzan (24 November 2015). "Turkey shoots down Russian jet it says violated its airspace". Associated Press. Retrieved 24 November 2015.
+ Parkinson, Joe; Albayrak, Ayla (16 September 2015). "Turkey Shoots Down Syrian Helicopter". The Wall Street Journal. Retrieved 3 December 2015.
+ Arsu, Sebnem (23 March 2014). "Turkey Downs Warplane From Syria After Warning". The New York Times. Retrieved 3 December 2015.
+ "Syria conflict: Russia violation of Turkish airspace 'no accident'". BBC. 6 October 2015. Retrieved 24 November 2015.
+ Coskun, Orhan (from Ankara) (16 October 2015). "Turkey shoots down drone near Syria, U.S. suspects Russian origin". Reuters. Retrieved 24 November 2015.
+ Yeginau, Ceylan (16 October 2015). "Turkish Jets Shoot Down Drone Near Syria". The New York Times. New York City. Retrieved 24 November 2015.
+ Chulov, Martin; Shaheen, Kareem (16 October 2015). "Turkey shoots down unidentified drone near Syrian border: Sources suggest drone is of Russian origin but Ankara keen to avoid blaming Moscow as tensions simmer over airspace violations". The Guardian. Manchester. Retrieved 24 November 2015.
+ Staff (16 October 2015). "Turkey shoots down drone at Syria border: "Unmanned vehicle" entered airspace from Syria and was targeted by planes patrolling border, Turkish military says". Al Jazeera. Retrieved 24 November 2015.
+ Melvin, Don (16 October 2015). "Turkish air force reports it shot down unidentified drone". CNN. Retrieved 24 November 2015.
+ "Turkey would shoot down planes violating its air space: PM". Reuters. 18 October 2015. Retrieved 24 November 2015.
+ "The Aviationist » Russian Su-30SM, Su-24 violate Turkish airspace. Flanker locks on TuAF F-16 for +5 minutes". The Aviationist. 5 October 2015. Retrieved 23 May 2016.
+ Shaheen, Kareem (6 October 2015). "Nato condemns Russia over violations of Turkey's airspace". The Guardian. Retrieved 26 November 2015.
+ Barnes, Julian E.; Peker, Emre; Lubold, Gordon (5 October 2015). "Turkey Says Russian Fighter Jet Violated Its Airspace With Syria". The Wall Street Journal. Retrieved 26 November 2015.
+ "Türkiye Ekim Ayında Rusya'yı Beş Kez Uyardı: Türk ve Rus yetkililer, Ekim ayında Rus jetlerinin Türk hava sahasını ihlalleri konusunda 5 kez görüştü" [The strict rules of engagement that had been transmitted to the Russian authorities will be implemented] (in Turkish). Haberler.com. 24 November 2015. Retrieved 24 November 2015.
+ Press release (14 October 2015). "О консультациях заместителя Министра иностранных дел России А.Ю.Мешкова с заместителем Министра иностранных дел Турции А.К.Айдыном" [Consultations of the Deputy Minister of Foreign Affairs of Russia A. Yu. Meshkova with the Deputy Minister of Foreign Affairs of Turkey A. K. Aydynom]. Russian Embassy in Ankara (in Russian). Archived from the original on 8 December 2015. Retrieved 27 November 2015.
+ Press release (18 October 2015). "О консультациях спецпредставителя Президента Российской Федерации по Ближнему Востоку и странам Африки, заместителя Министра иностранных дел России М.Л.Богданова с заместителем Министра иностранных дел Турции У.Ялчином" [Consultations between Special Representative of the President of the Russian Federation for the Middle East and African countries, Deputy Minister of Foreign Affairs of Russia M. L. Bogdanov with the Deputy Minister of Foreign Affairs of Turkey U. Yalchinom]. Russian Embassy in Ankara (in Russian). Archived from the original on 8 December 2015. Retrieved 27 November 2015.
+ Press release (21 October 2015). "О телефонном разговоре Президента России В.В.Путина с Президентом Турции Р.Т.Эрдоганом" [A telephone Conversation with Russian President Vladimir Putin and President Recep Tayyip Erdogan]. Russian Embassy in Ankara (in Russian). Archived from the original on 8 December 2015. Retrieved 27 November 2015.
+ "F-15Cs arrive at Incirlik Air Base". USAFE official website. 6 November 2015. Archived from the original on 6 November 2015. Retrieved 3 December 2015.
+ "Embassy of the Russian Federation in Turkey: Office of the Military Attaché". Russian Embassy in Ankara. Archived from the original on 8 December 2015. Retrieved 27 November 2015.
+ Kim Sengupta (12 May 2015). "Turkey and Saudi Arabia alarm the West by backing Islamist extremists the Americans had bombed in Syria". The Independent. Archived from the original on 1 May 2022.
+ "After shooting down Russian jet, what's next for Turkey?". Al-Monitor. 26 November 2015. Archived from the original on 31 December 2015. Retrieved 28 November 2015.
+ Deniz Zeyrek (24 November 2015). "Turkey warns Russia over border security". Hürriyet Daily News. Retrieved 25 November 2015.
+ "Turkish frustration at Russian intervention has smouldered for months. All it needed was a spark". The Economist. 24 November 2015. Retrieved 25 November 2015.
+ "Turkey downs Russian warplane near Syria border, Putin warns of 'serious consequences'". Reuters. 23 November 2015.
+ "Who are the Turkmen in Syria?". BBC News. Retrieved 25 November 2015.
+ Потери российских Су-24 в зонах боевых действий. Досье [Losses of Russian Su-24s in combat zones. Dossier]. TASS (in Russian). 10 October 2017. Retrieved 14 May 2022. Су-24М (бортовой номер "83 белый", регистрационный номер RF-90932)
+ "Turkey shoots down Russian jet near Syrian border". Business Standard. 24 November 2015. Retrieved 25 November 2015.
+ "Минобороны РФ: российский Су-24 сбили при возвращении на авиабазу в Сирии" [Defense Ministry: Russian Su-24 shot down while returning to base in Syria]. TASS (in Russian). 24 November 2015. Retrieved 24 November 2015.
+ Roblin, Sebastien (29 February 2020). "Here's the Reason why Russian Aircraft Keep Dying In Syria". The National Interest.
+ Whittaker, Francis; Melville-Smith, Alicia (24 November 2015). "Russian Jet Downed Near Turkey-Syria Border". Buzzfeed News. Retrieved 24 November 2015.
+ "Sorting Out What Russia and Turkey Say Happened in the Sky". The New York Times. 24 November 2015. Retrieved 24 November 2015.
+ Natasha Bertrand (24 November 2015). "War of the maps: Turkey released a map showing where Russia violated its airspace, and Russia countered". Business Insider. Retrieved 24 November 2015.
+ Huizhong Wu (24 November 2015). "Maps from Russia and Turkey tell very different stories about the downed jet". Mashable. Retrieved 24 November 2015.
+ "Commander-in-Chief of the Russian Aerospace Forces presents facts of the attack on the Russian Su-24M aircraft carried out by the Turkish F-16 fighter in the sky over Syria on 24 November". Russian Ministry of Defence. Retrieved 28 November 2015.
+ H.E. Mr. Matthew Ryeroft (24 November 2015). "Permanent Mission of Turkey to the United Nations, Ambassador 2015/10165510". UN. Disregarding these warnings, both aircraft, at an altitude of 19,000 feet [5,800 m], violated Turkish national airspace to a depth of 1.36 miles [2.52 km] and 1.15 miles [2.13 km] in length for 17 seconds from 0.24'.05 local time.
+ "Düşürülen Rus uçağını böyle uyardı". Dha.com.tr.
+ "Düşürülen Rus uçağını böyle uyardı". haberturk.com. 26 November 2015.
+ "Turkey releases audio of 'warning' to downed Russia jet". BBC News. 26 November 2015.
+ "'Turkey gave no warning' – downed Russian pilot – rescued pilot of downed Russian Su-24". BBC. 25 November 2015.
+ Cenciotti, David (27 November 2015). ""Turkish Air Force F-16s ambushed the Su-24 Fencer": here's Russia's version of the controversial shootdown". The Aviationist. Retrieved 28 November 2015.
+ Johnson, Reuben (28 November 2015). "Russian Su-24M communications equipment blamed for shootdown". Janes. Retrieved 28 November 2015.
+ "Russian jet hit inside Syria after incursion into Turkey: U.S. official". Reuters. 24 November 2015.
+ "U.S. backs Turkey's explanation of Russian air incursion". Reuters. 30 November 2015. Retrieved 1 December 2015.
+ "TASS: Military & Defense – Turkey's F-16 that downed Russian bomber was in Syrian airspace for 40 seconds – commander". TASS.
+ "Grey Wolves Facist Killed Russian Pilot – Turkmen Brigade murderer a Turkish citizen with far-right links". MorningStar. 27 November 2015.
+ "Syria: Photos of Alparslan Celik, rebel leader from Turkey who shot Russian pilot, go viral". International Business Times. 27 November 2015.
+ "MHP'li eski başkanın oğlu savaşmak için Irak'a gitti". CNN Turk. 9 September 2014.
+ "Turkey downs Russian warplane near Syria border, Putin warns of 'serious consequences'". Reuters UK. Retrieved 24 November 2015.
+ "Russian pilots 'shot dead' as they parachuted from plane – rebels". BNO News. Archived from the original on 27 November 2015. Retrieved 3 December 2015.
+ Masi, Alessandria (24 November 2015). "Syrian Rebels, Turkmen Brigades Claim To Have Russian Pilots Ejected From Jet Downed By Turkey". International Business Times. Retrieved 25 November 2015.
+ "Syria rebel video 'shows Russian pilot'". 9news. Retrieved 24 November 2015.
+ "Nato meets as Russia confirms one of two pilots dead after jet shot down – as it happened". The Guardian. 24 November 2015.
+ "The Latest: Russia pilot killed by groundfire in Syria". Associated Press. 28 November 2015. Archived from the original on 27 November 2015. Retrieved 28 November 2015.
+ "Российский посол подтвердил спасение одного из летчиков сбитого Су-24" [The Russian Ambassador confirmed the rescue of one of the pilots of the downed Su-24]. lenta.ru (in Russian). 25 November 2015. Retrieved 25 November 2015.
+ "Turkey downs Russian plane for 'violating airspace'". Middle East Eye. Retrieved 25 November 2015.
+ "Путин подписал указ о награждении экипажей Су-24М и поискового вертолета" [Putin signed a decree awarding the crews of Su-24M and a search helicopter]. Russian News Agency TASS (in Russian). 25 November 2015. Retrieved 25 November 2015.
+ "Pilot of Russian plane downed by Turkey buried with military honors". Reuters. 2 December 2015. Retrieved 8 December 2015.
+ "10,000 compatriots prayed in Lipetsk at the requiem service for the pilot killed in Syria". 2 December 2015. Retrieved 8 December 2015.
+ "More Than 10,000 People Came To Pay Last Respects To Hero of Russia, Oleg Peshkov". pravoslavie.ru. 3 December 2015. Retrieved 8 December 2015.
+ Yeginsu, Ceylan; MacFarquhar, Neil (24 November 2015). "Turkey Shoots Down Russian Warplane Near Syrian Border". The New York Times. Retrieved 24 November 2015.
+ "Iran: Injured general oversaw daring rescue of downed Russian pilot". The Times of Israel. Retrieved 29 November 2015.
+ "Moscow: downed Russian pilot was rescued by Syrian army". Herald Scotland. Retrieved 29 November 2015.
+ "Turkey to deliver body of Russian pilot to Moscow". Al Jazeera. 29 November 2015. Retrieved 30 November 2015.
+ "Turkey sends corpse of shot down pilot back to Russia: reports". Tribune. 30 November 2015. Retrieved 30 November 2015.
+ Bradsher, Keith (25 November 2015). "Range of Frustrations Reached Boil as Turkey Shot Down Russian Jet". The New York Times. Retrieved 26 November 2015.
+ AFP (25 November 2015). "No war with Turkey over 'planned provocation' jet downing: Lavrov". Yahoo7 News. Archived from the original on 26 November 2015. Retrieved 26 November 2015.
+ Rainsford, Sarah (25 November 2015). "Russia sends clear message to Turkey: Don't try it again". BBC News. Retrieved 26 November 2015.
+ "Turkey Russia jet: Marine killed in pilot rescue bid". BBC News. 24 November 2015. Retrieved 24 November 2015.
+ "Putin sends air-defense missiles to Syria to deter Turkey". Associated Press. 25 November 2015. Retrieved 25 November 2015.
+ "Turkey downing of Russia jet 'stab in the back' – Putin". BBC News. 24 November 2015.
+ "Turkey shoots down Russian warplane – will Vladimir Putin react adversely?". DNA. 24 November 2015. Retrieved 24 November 2015.
+ "One Russian pilot of downed jet dead, second missing, NATO calls for emergency meet". Deccan Chronicle. 24 November 2015. Retrieved 24 November 2015.
+ "Turkey says it shot down Russian warplane near Syrian border". 24 November 2015. Retrieved 24 November 2015.[permanent dead link]
+ Lizzie Dearden (25 November 2015). "Russian protesters pelt Turkish embassy in Moscow with eggs and smash windows after jet downed". The Independent. Archived from the original on 1 May 2022.
+ "Russia 'plans sanctions' against Turkey over jet downing". BBC News. 26 November 2015. Retrieved 26 November 2015.
+ Neil MacFarquhar (26 November 2015). "Kremlin Cutting Economic Links With the Turks". The New York Times. Retrieved 26 November 2015.
+ Doug Bolton (25 November 2015). "Moscow-backed warlord Ramzan Kadyrov says Turkey will 'regret what it has done for a long time' after Russian plane shot down". The Independent. Archived from the original on 1 May 2022.
+ "Will Putin Use the Energy Weapon Against Turkey?". Yahoo News. 24 November 2015.
+ "Russian airstrikes blast ISIS oil facilities in Syria". CBS News. 20 November 2015.
+ "Is Vladimir Putin right to label Turkey 'accomplices of terrorists'?". The Guardian. 24 November 2015.
+ "The real reason for Turkey's shoot-down of the Russian jet". Middle East Eye.
+ "Russian Lawmakers Propose Bill on Accountability For Armenia Genocide Denial". Radio Free Europe / Radio Liberty. 28 November 2015.
+ "Russian Foreign Minister Cancels Visit to Turkey". The New Indian Express. 24 November 2015. Retrieved 25 November 2015.
+ "Lavrov Rules out War Action on Turkey, Says Downing Su24 pre-Planned Provocation". Al-Manar. 25 November 2015. Archived from the original on 26 November 2015. Retrieved 25 November 2015.
+ "NATO calls 'extraordinary meeting' after Turkey downs Russian jet". The Express Tribune. Agence France-Presse. 24 November 2015. Retrieved 24 November 2015.
+ Melvin, Martinez & Zeynep, Don, Michael & Bilginsoy (24 November 2015). "Putin calls jet's downing 'stab in the back'; Turkey says warning ignored". CNN.
+ "Russia Places Sanctions on Turkey". The New York Times. Associated Press. 28 November 2015. Retrieved 28 November 2015.
+ Natasha Bertrand. "Russia is already exacting its revenge on Turkey for downing a Russian warplane". Business Insider Inc. Retrieved 25 November 2015.
+ "Russia bombards Syrian rebels near site of downed Russian jet". Reuters. 25 November 2015. Retrieved 28 November 2015.
+ "Russian support for PKK's Syrian arm PYD". Anadolu Agency. 27 November 2015.
+ "Russian deputies seek accountability for Armenia genocide denial". Reuters. 25 November 2015. Retrieved 7 December 2015.
+ "Greece: Third Country to Criminalize Denial of the Armenian Genocide". Asbarez.com. Retrieved 7 December 2015.
+ "Russia Deploys S-400 Anti-aircraft System in Syria". Haaretz.com.
+ "Kremlin hits Turkey with sanctions over shoot down of Russian warplane". USA TODAY. 28 November 2015.
+ "Russia, Turkey: Military Contacts Broken Off, Moscow Says". Stratfor.
+ Chambers, David (28 November 2015). "Russian Federation ends visa-free travel regime with Turkey". Chronicle Daily. Retrieved 1 December 2015.[permanent dead link]
+ Osborn, Andrew; Devitt, Polina (28 November 2015). "Putin, citing national security, signs Turkey sanctions decree". Reuters. Retrieved 1 December 2015.
+ "Syria conflict: Russia accuses Erdogan of trading oil with IS". bbc. 2 December 2015. Retrieved 3 December 2015.
+ Al Jazeera: "Putin: Turkey will regret downing jet 'more than once'". The Politicon, 3 December 2015
+ Huseynov, Rusif (24 December 2015). "Velikiy lider. Velikaya kultura". The Politicon. Archived from the original on 9 October 2017.
+ "Russia hosts pro-Kurdish Turkish politician who condemns Ankara". Reuters. 23 December 2015.
+ "Russia demands Turkey take measures to capture militant who shot dead Russian pilot – Turkish media published an interview with the militant who shot dead a Russian pilot". TASS. 23 December 2015.
+ "Moscow demands rebel's arrest for 'murder' of downed Russian pilot". Times of Israel. 30 December 2015.
+ "Turkish FM: 'My friends Kamaladdin Heydarov and Farhad Ahmedov reconciled us with Russia'". azeridaily.com. Retrieved 9 March 2022.
+ "Erdogan 'sorry' for downing of Russian jet". al-jazeera. Retrieved 28 June 2016.
+ "Kremlin replaces 'apology' with 'excuse us' on statement regarding Erdoğan's letter". Daily Sabah. 28 June 2016.
+ http://www.hurriyetdailynews.com 21 July 2016
+ Taş, Hakkı (2 January 2018). "The 15 July abortive coup and post-truth politics in Turkey". Southeast European and Black Sea Studies. 18 (1): 1–19. doi:10.1080/14683857.2018.1452374. ISSN 1468-3857. S2CID 158561438.
+ "EU's Tusk urges all to stay 'cool headed' after Russian jet downed". The Guardian. 24 November 2015. Retrieved 24 November 2015.
+ "EU cautions Russia, Turkey to stay 'calm'". Arutz Sheva. 24 November 2015. Retrieved 24 November 2015.
+ "Statement by the NATO Secretary General after the extraordinary NAC meeting". NATO. 24 November 2015.
+ "Armenia Condemns Turkey's Downing of Russian Jet". Azatutyun.am. Retrieved 27 November 2015.
+ "Australia-urges-restraint-after-russian-fighter-jet-shot-down-near-turkey-syria-border". smh.com.au. 25 November 2015. Retrieved 2 December 2015.
+ "President Aliyev: Azerbaijan ready to make efforts to reduce and eliminate tension in Turkish-Russian relations". trend.az. 27 November 2015. Archived from the original on 12 December 2015. Retrieved 30 November 2015.
+ "Cyprus: Downing of Russian fighter a blow to efforts to combat terrorism". famagusta-gazette.com. Archived from the original on 26 November 2015. Retrieved 27 November 2015.
+ "Georgia backs Turkey over Russia warplane incident – World Bulletin". World Bulletin. Retrieved 28 November 2015.
+ "Merkel says downing of Russian plane has complicated Syria solution". Reuters UK. Retrieved 27 November 2015.
+ "Sigmar Gabriel nennt Türkei "unkalkulierbar"" [Sigmar Gabriel called Turkey "unpredictable"]. Frankfurter Rundschau (in German). 24 November 2015. Retrieved 25 November 2015.
+ "Germany's Steinmeier urges Russia and Turkey to show restraint". DW. DW.
+ "Turkey violated Greek airspace more than 2,000 times last year". The Week. 27 November 2015.
+ "Turkey risks sparking world war, says Iraq's Maliki". Yahoo News. 26 November 2015.
+ "Kazakh MFA releases statement on downed Russian SU-24M jet". Inform.kz. Retrieved 3 December 2015.
+ Catherine Putz, The Diplomat. "What's Kazakhstan Role in Calming Russia-Turkey Tensions?". The Diplomat. Retrieved 3 December 2015.
+ "Latvian MFA: shooting down of Russian warplane over Turkey will escalate tensions between NATO and Russia". The Baltic Course | Baltic States news & analytics. Retrieved 27 November 2015.
+ "L.Linkevičius: "Rusijos antskrydis Turkijoje nėra netikėtas"". lietuvosdiena.lrytas.lt (in Lithuanian). Archived from the original on 29 June 2019. Retrieved 27 November 2015.
+ Staff reporter. "Turkey, Russia should resolve tensions with mutual dialogue: Foreign Office". World News. World News, Pakistan. World News. Retrieved 28 November 2015.
+ "Serbian President: Turkey is guilty". Sputnik. InSerbia Network. Retrieved 28 November 2015.
+ "Ukraine should down Russian jets if they violate Ukraine's airspace – Turchynov". uatoday.tv. Retrieved 27 November 2015.
+ "Ukraine bans Russian planes to transit through its airspace | New Yorker Daily". www.newyorkerdaily.net. Archived from the original on 26 November 2015. Retrieved 27 November 2015.
+ "Nato meets as Russia confirms one of two pilots dead after jet shot down – as it happened". The Guardian. 24 November 2015. Retrieved 27 November 2015. 14:12
+ "Russian jet shot down by Turkey – as it happened". The Telegraph. 24 November 2007. Archived from the original on 12 January 2022. Retrieved 27 November 2015. 12:07
+ "Daily Press Briefing – November 24, 2015". United States Department of State. 24 November 2015. Retrieved 28 November 2015.
+ "Turkey shooting down plane was 'planned provocation' says Russia, as rescued pilot claims he had no warning – latest". The Telegraph. 26 November 2015. Archived from the original on 12 January 2022.
+ "Turkish, Russian shares fall after Turkey downs Russian-made warplane". The Times of India. Retrieved 24 November 2015.
+ "market update". ticker.com. Retrieved 25 November 2015.
+External links
+
+Wikinews has related news:
+Navigator of downed Russian jet found alive in Syria
+Russian jets carry out strikes in Syria
+ Media related to 2015 Russian Sukhoi Su-24 shootdown at Wikimedia Commons
+vte
+Aviation accidents and incidents in 2015
+vte
+Syrian civil war
+Portals:
+flag Russia
+icon Asia
+ War
+flag Turkey
+Categories: 2015 in international relations2015 in Turkey21st-century aircraft shootdown incidentsAccidents and incidents involving military aircraftAir-to-air combat operations and battlesAviation accidents and incidents in 2015Aviation accidents and incidents in SyriaAviation history of RussiaDiplomatic incidentsLatakia Governorate in the Syrian civil warMilitary operations of the Syrian civil war in 2015Military operations of the Syrian civil war involving TurkeyNovember 2015 events in SyriaRecep Tayyip Erdoğan controversiesRussia–NATO relationsRussia–Turkey military relationsRussian Air ForceRussian military intervention in the Syrian civil warTurkish Air Force involvement in the Syrian civil warNovember 2015 events in RussiaNovember 2015 events in Turkey2015 disasters in Syria2015 disasters in Turkey
+Navigation menu
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+ArticleTalk
+ReadEditView history
+Search Wikipedia
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+
+Languages
+Deutsch
+Español
+Français
+한국어
+हिन्दी
+Italiano
+Русский
+Tiếng Việt
+中文
+32 more
+Edit links
+This page was last edited on 24 November 2022, at 07:01 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWiki
