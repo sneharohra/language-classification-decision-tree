@@ -38,4 +38,4 @@ Throughout the implementation process, I will keep in mind the requirement to cr
 and to handle weighted examples for Adaboost.
 
 
-![Writeup here](https://github.com/sneharohra/language-classification-decision-tree/edit/main/writeup.pdf) gives the low level details of how I made sure to follow the details mentioned above.
+[Writeup here](https://github.com/sneharohra/language-classification-decision-tree/edit/main/writeup.pdf) gives the low level details of how I made sure to follow the details mentioned above.
